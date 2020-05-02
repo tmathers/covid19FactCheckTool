@@ -1,0 +1,556 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - covid-19",
+        "totalResults": "38500",
+        "searchTerms": "covid-19",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - covid-19",
+        "totalResults": "38500",
+        "searchTerms": "covid-19",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ]
+  },
+  "context": {
+    "title": "Snopes"
+  },
+  "searchInformation": {
+    "searchTime": 0.398304,
+    "formattedSearchTime": "0.40",
+    "totalResults": "38500",
+    "formattedTotalResults": "38,500"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Did the 1981 'Farmer's Almanac' Predict COVID-19?",
+      "htmlTitle": "Did the 1981 &#39;Farmer&#39;s Almanac&#39; Predict \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e?",
+      "link": "https://www.snopes.com/fact-check/farmers-almanac-predict-covid-19/",
+      "displayLink": "www.snopes.com",
+      "snippet": "15 hours ago ... In April 2020, as the COVID-19 coronavirus disease pandemic spread around the \nworld, Snopes received a number of requests from readers ...",
+      "htmlSnippet": "15 hours ago \u003cb\u003e...\u003c/b\u003e In April 2020, as the \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e coronavirus disease pandemic spread around the \u003cbr\u003e\nworld, Snopes received a number of requests from readers&nbsp;...",
+      "cacheId": "HWb2nmn60N0J",
+      "formattedUrl": "https://www.snopes.com/fact-check/farmers-almanac-predict-covid-19/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/farmers-almanac-predict-\u003cb\u003ecovid\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEh99lo7sK1-_HXBbwhIVtOMNYhVKNHRTIDcEro8CFlbVhlpg2dgvAUg",
+            "width": "150",
+            "height": "85"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/05/browne-prediction.png",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did the 1981 'Farmer's Almanac' Predict COVID-19?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did the 1981 'Farmer's Almanac' Predict COVID-19?",
+            "og:image:height": "680",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "An old \"prediction\" got a new origin story.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/05/browne-prediction.png",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/05/browne-prediction.png",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "An old \"prediction\" got a new origin story.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/farmers-almanac-predict-covid-19/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/05/browne-prediction.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Is USPS Closing Soon Because of COVID-19?",
+      "htmlTitle": "Is USPS Closing Soon Because of \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e?",
+      "link": "https://www.snopes.com/fact-check/usps-closing-due-to-covid-19/",
+      "displayLink": "www.snopes.com",
+      "snippet": "2 days ago ... The U.S. economic downturn due to the COVID-19 coronavirus pandemic in early \n2020 was forcing the United States Postal Service to close.",
+      "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e The U.S. economic downturn due to the \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e coronavirus pandemic in early \u003cbr\u003e\n2020 was forcing the United States Postal Service to close.",
+      "cacheId": "34OZPJsCzakJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/usps-closing-due-to-covid-19/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/usps-closing-due-to-\u003cb\u003ecovid\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_Ud4U4IncsRGbuVXaVhlN3g9K3KQeg1w7iRusFJA9No_d041apJ26aUw",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-154687247-e1588186377118.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Is USPS Closing Soon Because of COVID-19?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Is USPS Closing Soon Because of COVID-19?",
+            "og:image:height": "627",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "For many Americans who fear leaving their homes during the pandemic, the Postal Service is a lifeline.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-154687247-e1588186377118.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-154687247-e1588186377118.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "For many Americans who fear leaving their homes during the pandemic, the Postal Service is a lifeline.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/usps-closing-due-to-covid-19/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-154687247-e1588186377118.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Nobel Laureate Tasuku Honjo Say COVID-19 Was 'Man-Made'?",
+      "htmlTitle": "Did Nobel Laureate Tasuku Honjo Say \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e Was &#39;Man-Made&#39;?",
+      "link": "https://www.snopes.com/fact-check/nobel-laureate-tasuku-honjo-covid/",
+      "displayLink": "www.snopes.com",
+      "snippet": "4 days ago ... As governments fight the COVID-19 pandemic, Snopes is fighting an “infodemic” \nof rumors and misinformation, and you can help. Read our ...",
+      "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e As governments fight the \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e pandemic, Snopes is fighting an “infodemic” \u003cbr\u003e\nof rumors and misinformation, and you can help. Read our&nbsp;...",
+      "cacheId": "qxvUbYlRmRgJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/nobel-laureate-tasuku-honjo-covid/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/nobel-laureate-tasuku-honjo-\u003cb\u003ecovid\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaNuy_jGJ2Ye1av1EPYmM91_aDsdvu9WAjwqDExuYNOv9yHKupJdC0c70U",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1068960022-e1588006010688.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Nobel Laureate Tasuku Honjo Say COVID-19 Was 'Man-Made'?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Nobel Laureate Tasuku Honjo Say COVID-19 Was 'Man-Made'?",
+            "og:image:height": "799",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Unlike new viruses, quotes can be manufactured with ease.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-1068960022-e1588006010688.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1068960022-e1588006010688.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Unlike new viruses, quotes can be manufactured with ease.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/nobel-laureate-tasuku-honjo-covid/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-1068960022-e1588006010688.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Bill Mitchell Tweet 'Let Me Know' When COVID-19 Kills 55,000?",
+      "htmlTitle": "Did Bill Mitchell Tweet &#39;Let Me Know&#39; When \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e Kills 55,000?",
+      "link": "https://www.snopes.com/fact-check/bill-mitchell-tweet-55000-covid/",
+      "displayLink": "www.snopes.com",
+      "snippet": "13 hours ago ... Right-wing commentator Bill Mitchell tweeted \"someone let me know\" when \n55,000 Americans have died from COVID-19 coronavirus disease.",
+      "htmlSnippet": "13 hours ago \u003cb\u003e...\u003c/b\u003e Right-wing commentator Bill Mitchell tweeted &quot;someone let me know&quot; when \u003cbr\u003e\n55,000 Americans have died from \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e coronavirus disease.",
+      "cacheId": "jqeQ637CSQgJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/bill-mitchell-tweet-55000-covid/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/bill-mitchell-tweet-55000-\u003cb\u003ecovid\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjoDVHM6QEzV-xLWC4-1phzcc29YocRczE8OMsOmQy-ra5wBNUHc4gdCI",
+            "width": "336",
+            "height": "150"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/05/BillMitchellTweetCovid.png",
+            "og:type": "article",
+            "og:image:width": "1021",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Bill Mitchell Tweet 'Let Me Know' When COVID-19 Kills 55,000?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Bill Mitchell Tweet 'Let Me Know' When COVID-19 Kills 55,000?",
+            "og:image:height": "456",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "The right-wing commentator received backlash on social media when the tragic benchmark was met.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/05/BillMitchellTweetCovid.png",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/05/BillMitchellTweetCovid.png",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "The right-wing commentator received backlash on social media when the tragic benchmark was met.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/bill-mitchell-tweet-55000-covid/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/05/BillMitchellTweetCovid.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Trump Blame Obama for 'Bad' COVID-19 Tests?",
+      "htmlTitle": "Did Trump Blame Obama for &#39;Bad&#39; \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e Tests?",
+      "link": "https://www.snopes.com/fact-check/trump-blame-obama-covid-tests/",
+      "displayLink": "www.snopes.com",
+      "snippet": "16 hours ago ... U.S. President Donald Trump implied the Obama administration left behind \"bad,\" \n\"broken,\" and \"obsolete\" COVID-19 diagnostic tests. Rating ...",
+      "htmlSnippet": "16 hours ago \u003cb\u003e...\u003c/b\u003e U.S. President Donald Trump implied the Obama administration left behind &quot;bad,&quot; \u003cbr\u003e\n&quot;broken,&quot; and &quot;obsolete&quot; \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e diagnostic tests. Rating&nbsp;...",
+      "cacheId": "Y8sXi0p0QQYJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/trump-blame-obama-covid-tests/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/trump-blame-obama-\u003cb\u003ecovid\u003c/b\u003e-tests/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCuK4A09OXQ9-6gx5cowtHYaBs2-L3zLUtb3NtZWRyQSDkQ8bfXsOJEgN4",
+            "width": "270",
+            "height": "187"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1222090523-scaled-e1588290580753.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Trump Blame Obama for 'Bad' COVID-19 Tests?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Trump Blame Obama for 'Bad' COVID-19 Tests?",
+            "og:image:height": "833",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "It wasn't the first time the U.S. president suggested his predecessor was somehow responsible for difficulties his administration faced in responding to the coronavirus pandemic.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-1222090523-scaled-e1588290580753.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1222090523-scaled-e1588290580753.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "It wasn't the first time the U.S. president suggested his predecessor was somehow responsible for difficulties his administration faced in responding to the coronavirus pandemic.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/trump-blame-obama-covid-tests/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-1222090523-scaled-e1588290580753.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+      "htmlTitle": "Did This Nobel Prize Winner Say \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e Was Created in a Lab?",
+      "link": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/",
+      "displayLink": "www.snopes.com",
+      "snippet": "2 days ago ... 2008 Nobel Prize winner Luc Montagnier said that COVID-19 coronavirus \ndisease was artificially created in a lab by biologists working on an ...",
+      "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e 2008 Nobel Prize winner Luc Montagnier said that \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e coronavirus \u003cbr\u003e\ndisease was artificially created in a lab by biologists working on an&nbsp;...",
+      "cacheId": "_nrlhxK4z6oJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/luc-montagnier-\u003cb\u003ecovid\u003c/b\u003e-created-lab/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj5hW58lmrqqpEg6SI-Xre4xuE4NknhQrRpdg-85PcVajaTB6MyARrNxyq",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+            "og:image:height": "799",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Keep in mind, the opinion of one person does not outweigh the consensus of the scientific community.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Keep in mind, the opinion of one person does not outweigh the consensus of the scientific community.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Is This 'Barack + Hussein + Obama = COVID-19' Protest Sign Real?",
+      "htmlTitle": "Is This &#39;Barack + Hussein + Obama = \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e&#39; Protest Sign Real?",
+      "link": "https://www.snopes.com/fact-check/barack-hussein-obama-covid-sign/",
+      "displayLink": "www.snopes.com",
+      "snippet": "4 days ago ... COVID-19 is a new disease, caused by a novel (or new) coronavirus that has not \npreviously been seen in humans. The name of this disease was ...",
+      "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e is a new disease, caused by a novel (or new) coronavirus that has not \u003cbr\u003e\npreviously been seen in humans. The name of this disease was&nbsp;...",
+      "cacheId": "YXJjuDgUKMYJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/barack-hussein-obama-covid-sign/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/barack-hussein-obama-\u003cb\u003ecovid\u003c/b\u003e-sign/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgarKXNK0qbb93Ga5Au_EkcJdc9M-B0efA2AbuEirBo_74khFVK3N3cbAu",
+            "width": "298",
+            "height": "169"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/Featured-Image-Templates9.png",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Is This 'Barack + Hussein + Obama = COVID-19' Protest Sign Real?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Is This 'Barack + Hussein + Obama = COVID-19' Protest Sign Real?",
+            "og:image:height": "680",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "The math in this image isn't the only thing that's off.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/Featured-Image-Templates9.png",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/Featured-Image-Templates9.png",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "The math in this image isn't the only thing that's off.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/barack-hussein-obama-covid-sign/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/Featured-Image-Templates9.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Elisa Granato Die from COVID-19 Trial Vaccination?",
+      "htmlTitle": "Did Elisa Granato Die from \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e Trial Vaccination?",
+      "link": "https://www.snopes.com/fact-check/elisa-granato-trial-covid-19-vax/",
+      "displayLink": "www.snopes.com",
+      "snippet": "4 days ago ... Did Elisa Granato Die from COVID-19 Trial Vaccination? The scientist was one of \nthe first people in the U.K. to be administered a trial vaccine for ...",
+      "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e Did Elisa Granato Die from \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e Trial Vaccination? The scientist was one of \u003cbr\u003e\nthe first people in the U.K. to be administered a trial vaccine for&nbsp;...",
+      "cacheId": "OREnazqMuHwJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/elisa-granato-trial-covid-19-vax/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/elisa-granato-trial-\u003cb\u003ecovid\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e-vax/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFxWo4Mqym8LkjlfjFEkJnZldKiMKsDSxon_KtiAdxt-dccPhOPNyDJE",
+            "width": "298",
+            "height": "169"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/Featured-Image-Templates-2.png",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Elisa Granato Die from COVID-19 Trial Vaccination?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Elisa Granato Die from COVID-19 Trial Vaccination?",
+            "og:image:height": "680",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "The scientist was one of the first people in the U.K. to be administered a trial vaccine for the coronavirus disease.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/Featured-Image-Templates-2.png",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/Featured-Image-Templates-2.png",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "The scientist was one of the first people in the U.K. to be administered a trial vaccine for the coronavirus disease.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/elisa-granato-trial-covid-19-vax/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/Featured-Image-Templates-2.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Trump Suggest Injecting Disinfectants as COVID-19 Treatment?",
+      "htmlTitle": "Did Trump Suggest Injecting Disinfectants as \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e Treatment?",
+      "link": "https://www.snopes.com/fact-check/trump-disinfectants-covid-19/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Apr 24, 2020 ... U.S. President Donald Trump suggested during a White House briefing that \ninjecting disinfectants could treat COVID-19.",
+      "htmlSnippet": "Apr 24, 2020 \u003cb\u003e...\u003c/b\u003e U.S. President Donald Trump suggested during a White House briefing that \u003cbr\u003e\ninjecting disinfectants could treat \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e.",
+      "cacheId": "uUpRA2UuG00J",
+      "formattedUrl": "https://www.snopes.com/fact-check/trump-disinfectants-covid-19/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/trump-disinfectants-\u003cb\u003ecovid\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuEOsPy-NNlpewQNjnlBmwLm9dDRjnG_NnybiG8VGsKKq-fDYgI81P3N0",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1210843226.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Trump Suggest Injecting Disinfectants as COVID-19 Treatment?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Trump Suggest Injecting Disinfectants as COVID-19 Treatment?",
+            "og:image:height": "628",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "The U.S. president's comments prompted doctors and the makers of household disinfectants to issue statements urging people not to ingest or inject cleaning products.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-1210843226.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1210843226.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "The U.S. president's comments prompted doctors and the makers of household disinfectants to issue statements urging people not to ingest or inject cleaning products.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/trump-disinfectants-covid-19/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-1210843226.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Are Bill Gates and the ID2020 Coalition Using COVID-19 To Build ...",
+      "htmlTitle": "Are Bill Gates and the ID2020 Coalition Using \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e To Build ...",
+      "link": "https://www.snopes.com/fact-check/bill-gates-id2020/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Apr 22, 2020 ... Bill Gates — along with a coalition dubbed \"ID 2020\" — seeks to \"microchip\" the \nworld population using a COVID-19 vaccine.",
+      "htmlSnippet": "Apr 22, 2020 \u003cb\u003e...\u003c/b\u003e Bill Gates — along with a coalition dubbed &quot;ID 2020&quot; — seeks to &quot;microchip&quot; the \u003cbr\u003e\nworld population using a \u003cb\u003eCOVID\u003c/b\u003e-\u003cb\u003e19\u003c/b\u003e vaccine.",
+      "cacheId": "OEVwmS3t3u8J",
+      "formattedUrl": "https://www.snopes.com/fact-check/bill-gates-id2020/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/bill-gates-id2020/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiup2YIT9KjCcGuDcNO7PD206AxblnKXPFwu9sjQPQ9goOQtmAlmg09Kc",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1174968755-e1587510412780.jpg",
+            "og:type": "article",
+            "og:image:width": "1024",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Is Bill Gates Using COVID-19 To Build Global Surveillance State?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Are Bill Gates and the ID2020 Coalition Using COVID-19 To Build Global Surveillance State?",
+            "og:image:height": "535",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Conspiracy theorists misrepresent Bill Gates’ funding of vaccination and digital-identity research as evidence of a nefarious global surveillance plan foretold in the Book of Revelations.",
+            "twitter:creator": "@alexkasprak",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "article:author": "https://www.facebook.com/akasprak",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-1174968755-e1587510412780.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1174968755-e1587510412780.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Conspiracy theorists misrepresent Bill Gates’ funding of vaccination and digital-identity research as evidence of a nefarious global surveillance plan foretold in the Book of Revelations.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/bill-gates-id2020/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-1174968755-e1587510412780.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
