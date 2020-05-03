@@ -1,4 +1,5 @@
 <?php include("includes/a_config.php");?>
+<?php $CURRENT_PAGE = "About";?>
 <!DOCTYPE html>
 <html>
 <head>

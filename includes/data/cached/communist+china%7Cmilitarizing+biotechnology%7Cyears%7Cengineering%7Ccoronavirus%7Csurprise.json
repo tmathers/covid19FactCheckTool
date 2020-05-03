@@ -1,0 +1,625 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - communist china|militarizing biotechnology|years|engineering|coronavirus|surprise",
+        "totalResults": "588",
+        "searchTerms": "communist china|militarizing biotechnology|years|engineering|coronavirus|surprise",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - communist china|militarizing biotechnology|years|engineering|coronavirus|surprise",
+        "totalResults": "588",
+        "searchTerms": "communist china|militarizing biotechnology|years|engineering|coronavirus|surprise",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ]
+  },
+  "context": {
+    "title": "Snopes"
+  },
+  "searchInformation": {
+    "searchTime": 0.456771,
+    "formattedSearchTime": "0.46",
+    "totalResults": "588",
+    "formattedTotalResults": "588"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "China's Official Newspaper Mislabels Video Footage in Coronavirus ...",
+      "htmlTitle": "\u003cb\u003eChina&#39;s\u003c/b\u003e Official Newspaper Mislabels Video Footage in \u003cb\u003eCoronavirus\u003c/b\u003e ...",
+      "link": "https://www.snopes.com/news/2020/02/18/coronavirus-china-disinfection-video/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Feb 18, 2020 ... ... the Chinese government's management of the new coronavirus outbreak in \nFebruary 2020, an official Chinese Communist Party newspaper ...",
+      "htmlSnippet": "Feb 18, 2020 \u003cb\u003e...\u003c/b\u003e ... the \u003cb\u003eChinese\u003c/b\u003e government&#39;s management of the new \u003cb\u003ecoronavirus\u003c/b\u003e outbreak in \u003cbr\u003e\nFebruary 2020, an official \u003cb\u003eChinese Communist\u003c/b\u003e Party newspaper&nbsp;...",
+      "cacheId": "lp9ovDTIFYYJ",
+      "formattedUrl": "https://www.snopes.com/news/2020/.../coronavirus-china-disinfection-video/",
+      "htmlFormattedUrl": "https://www.snopes.com/news/2020/.../\u003cb\u003ecoronavirus\u003c/b\u003e-\u003cb\u003echina\u003c/b\u003e-disinfection-video/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0VdLXYl7R2pFYFzYr3UX84f0CW_EDxaw2r6--nrdxboT8k_UL6Zppiy0",
+            "width": "298",
+            "height": "169"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/02/Featured-Image-Template18.png",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "China's Official Newspaper Mislabels Video Footage in Coronavirus Coverage",
+            "og:site_name": "Snopes.com",
+            "og:title": "China's Official Newspaper Mislabels Video Footage in Coronavirus Coverage",
+            "og:image:height": "680",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "A People's Daily video claiming to show \"full-front disinfection work\" in Wuhan included footage taken at an airport in Taiwan.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/02/Featured-Image-Template18.png",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/02/Featured-Image-Template18.png",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "A People's Daily video claiming to show \"full-front disinfection work\" in Wuhan included footage taken at an airport in Taiwan.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/news/2020/02/18/coronavirus-china-disinfection-video/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/02/Featured-Image-Template18.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Execution of Chinese Refrigerator Factory Managers",
+      "htmlTitle": "Execution of \u003cb\u003eChinese\u003c/b\u003e Refrigerator Factory Managers",
+      "link": "https://www.snopes.com/fact-check/in-cold-blood/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Aug 9, 2005 ... Refrigerators are among the most sought after consumer items in Communist \nChina. “Managers in charge of production and engineering failed ...",
+      "htmlSnippet": "Aug 9, 2005 \u003cb\u003e...\u003c/b\u003e Refrigerators are among the most sought after consumer items in \u003cb\u003eCommunist\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eChina\u003c/b\u003e. “Managers in charge of production and \u003cb\u003eengineering\u003c/b\u003e failed&nbsp;...",
+      "cacheId": "c8dUP6uszGUJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/in-cold-blood/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/in-cold-blood/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQugLeXXWnMvDQFnGm5Gy5qn-zSDnViLciAkNEteknfeNmnWC5mkSs-wj2C",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2019/11/2019-snopes-open-graph-default.png",
+            "og:type": "article",
+            "og:image:width": "1024",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Execution of Chinese Refrigerator Factory Managers",
+            "og:site_name": "Snopes.com",
+            "og:title": "Execution of Chinese Refrigerator Factory Managers",
+            "og:image:height": "512",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Did the 'Wall Street Journal' run an article about the execution of Chinese refrigerator factory managers?",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2019/11/2019-snopes-open-graph-default.png",
+            "twitter:image": "https://www.snopes.com/tachyon/2019/11/2019-snopes-open-graph-default.png",
+            "article:tag": "ASP Article",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Did the 'Wall Street Journal' run an article about the execution of Chinese refrigerator factory managers?",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/in-cold-blood/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2019/11/2019-snopes-open-graph-default.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Millions of Canceled Cellphones Reveal Unreported ...",
+      "htmlTitle": "Did Millions of Canceled Cellphones Reveal Unreported ...",
+      "link": "https://www.snopes.com/fact-check/china-cellphones-coronavirus/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Apr 6, 2020 ... China's official death toll from the coronavirus stood at 3,322 on [April 3], but ... \nThe ruling Communist Party says it is trying to prevent large ...",
+      "htmlSnippet": "Apr 6, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eChina&#39;s\u003c/b\u003e official death toll from the \u003cb\u003ecoronavirus\u003c/b\u003e stood at 3,322 on [April 3], but ... \u003cbr\u003e\nThe ruling \u003cb\u003eCommunist\u003c/b\u003e Party says it is trying to prevent large&nbsp;...",
+      "cacheId": "1TjB4CToFUwJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/china-cellphones-coronavirus/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/\u003cb\u003echina\u003c/b\u003e-cellphones-\u003cb\u003ecoronavirus\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI4GdOE0R2O9NQJXrIjfdZr1XOXIRnHOvT5Z1bwMf_l_e73xbtQyl4Nzbu",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1141888582-e1586202699536.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Millions of Canceled Cellphones Reveal Unreported Coronavirus Deaths in China?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Millions of Canceled Cellphones Reveal Unreported Coronavirus Deaths in China?",
+            "og:image:height": "800",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "American intelligence agencies have concluded that the Chinese government itself does not know the true death toll from the coronavirus.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-1141888582-e1586202699536.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1141888582-e1586202699536.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "American intelligence agencies have concluded that the Chinese government itself does not know the true death toll from the coronavirus.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/china-cellphones-coronavirus/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-1141888582-e1586202699536.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Bill O'Reilly Write an Essay Calling COVID-19 a Chinese ...",
+      "htmlTitle": "Did Bill O&#39;Reilly Write an Essay Calling COVID-19 a \u003cb\u003eChinese\u003c/b\u003e ...",
+      "link": "https://www.snopes.com/fact-check/bill-oreilly-coronavirus-essay/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Apr 13, 2020 ... Read our coronavirus fact checks. ... The communist regime has millions of its \nown citizens slaving in gulags simply for speaking against the ...",
+      "htmlSnippet": "Apr 13, 2020 \u003cb\u003e...\u003c/b\u003e Read our \u003cb\u003ecoronavirus\u003c/b\u003e fact checks. ... The \u003cb\u003ecommunist\u003c/b\u003e regime has millions of its \u003cbr\u003e\nown citizens slaving in gulags simply for speaking against the&nbsp;...",
+      "cacheId": "FHT2QxIzg8kJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/bill-oreilly-coronavirus-essay/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/bill-oreilly-\u003cb\u003ecoronavirus\u003c/b\u003e-essay/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUck28js3mrIfbtlmcnuAWiq2x66Rs1gVwl60qd8wRoMMtASGdF62Tdl49",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1217102602.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Bill O'Reilly Write an Essay Calling COVID-19 a Chinese Bioweapon?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Bill O'Reilly Write an Essay Calling COVID-19 a Chinese Bioweapon?",
+            "og:image:height": "800",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "A conspiracy-tinged essay attributed to the former Fox News host went viral on social media.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-1217102602.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1217102602.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "A conspiracy-tinged essay attributed to the former Fox News host went viral on social media.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/bill-oreilly-coronavirus-essay/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-1217102602.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Senator Dianne Feinstein Employ a Chinese Spy?",
+      "htmlTitle": "Did Senator Dianne Feinstein Employ a \u003cb\u003eChinese\u003c/b\u003e Spy?",
+      "link": "https://www.snopes.com/fact-check/feinstein-chinese-spy/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Sep 20, 2018 ... Five years ago the FBI informed me it had concerns that an administrative \nmember of my California staff was potentially being sought out by the ...",
+      "htmlSnippet": "Sep 20, 2018 \u003cb\u003e...\u003c/b\u003e Five \u003cb\u003eyears\u003c/b\u003e ago the FBI informed me it had concerns that an administrative \u003cbr\u003e\nmember of my California staff was potentially being sought out by the&nbsp;...",
+      "cacheId": "alhWhh0l_FEJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/feinstein-chinese-spy/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/feinstein-\u003cb\u003echinese\u003c/b\u003e-spy/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFBKDlFKzS4mZyk1PlXFiV50Jte9ejcNzDPJfOaeb7l7H3huoiyX_V4Iux",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2015/05/feinstein-1.jpg",
+            "og:type": "article",
+            "og:image:width": "1000",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Senator Dianne Feinstein Employ a Chinese Spy?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Senator Dianne Feinstein Employ a Chinese Spy?",
+            "og:image:height": "563",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "A former member of Senator Dianne Feinstein’s California staff was reportedly the target of Chinese intelligence recruitment efforts.",
+            "twitter:creator": "@alexkasprak",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "article:author": "https://www.facebook.com/akasprak",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2015/05/feinstein-1.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2015/05/feinstein-1.jpg",
+            "article:tag": "dianne feinstein",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "A former member of Senator Dianne Feinstein’s California staff was reportedly the target of Chinese intelligence recruitment efforts.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/feinstein-chinese-spy/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2015/05/feinstein-1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Is GM Becoming 'China Motors'? - FactCheck.org",
+      "htmlTitle": "Is GM Becoming &#39;\u003cb\u003eChina\u003c/b\u003e Motors&#39;? - FactCheck.org",
+      "link": "https://www.factcheck.org/2012/06/is-gm-becoming-china-motors/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Jun 8, 2012 ... Q: Is General Motors becoming 'China Motors' using taxpayer dollars? ... with the \n“autocratic, anti-Democracy, Communist government of China”). ... sales, \ndistribution, engineering design” and other auto-related businesses.",
+      "htmlSnippet": "Jun 8, 2012 \u003cb\u003e...\u003c/b\u003e Q: Is General Motors becoming &#39;\u003cb\u003eChina\u003c/b\u003e Motors&#39; using taxpayer dollars? ... with the \u003cbr\u003e\n“autocratic, anti-Democracy, \u003cb\u003eCommunist\u003c/b\u003e government of \u003cb\u003eChina\u003c/b\u003e”). ... sales, \u003cbr\u003e\ndistribution, \u003cb\u003eengineering\u003c/b\u003e design” and other auto-related businesses.",
+      "cacheId": "cnlxBns079QJ",
+      "formattedUrl": "https://www.factcheck.org/2012/06/is-gm-becoming-china-motors/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2012/06/is-gm-becoming-\u003cb\u003echina\u003c/b\u003e-motors/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfvcyu7QrLkwBDEkJfRqz1Dg2yTGL1RG9QpQ6gRcSV8ZMspIAMqR2qHQ",
+            "width": "241",
+            "height": "96"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2012-06-08T10:34:42+00:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Is GM Becoming 'China Motors'?",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Is GM Becoming 'China Motors'?",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2012-06-08T10:34:42+00:00",
+            "og:description": "Q: Is General Motors becoming 'China Motors' using taxpayer dollars? A: No. The restructured GM is still based in Detroit and is still one-third owned by the U.S. government. But it sells nearly as many",
+            "article:modified_time": "2012-06-08T10:34:42+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Q: Is General Motors becoming 'China Motors' using taxpayer dollars? A: No. The restructured GM is still based in Detroit and is still one-third owned by the U.S. government. But it sells nearly as many",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2012/06/is-gm-becoming-china-motors/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/fc-icon-donate.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Fact Check: There Is NO Evidence China Created, Then Unleashed ...",
+      "htmlTitle": "Fact Check: There Is NO Evidence \u003cb\u003eChina\u003c/b\u003e Created, Then Unleashed ...",
+      "link": "https://leadstories.com/hoax-alert/2020/04/Fact-Check-There-Is-NO-Evidence-China-Created-Then-Unleashed-Coronavirus-As-Bioweapon.html",
+      "displayLink": "leadstories.com",
+      "snippet": "Apr 15, 2020 ... Did China's Communist government create the novel coronavirus in a ... Also, \nofficial confirmation of the virus's origin may take years, and most ...",
+      "htmlSnippet": "Apr 15, 2020 \u003cb\u003e...\u003c/b\u003e Did \u003cb\u003eChina&#39;s Communist\u003c/b\u003e government create the novel \u003cb\u003ecoronavirus\u003c/b\u003e in a ... Also, \u003cbr\u003e\nofficial confirmation of the virus&#39;s origin may take \u003cb\u003eyears\u003c/b\u003e, and most&nbsp;...",
+      "cacheId": "jJkWmrkW22UJ",
+      "formattedUrl": "https://leadstories.com/.../Fact-Check-There-Is-NO-Evidence-China-Created- Then-Unleashed-Coronavirus-As-Bioweapon.html",
+      "htmlFormattedUrl": "https://leadstories.com/.../Fact-Check-There-Is-NO-Evidence-\u003cb\u003eChina\u003c/b\u003e-Created- Then-Unleashed-\u003cb\u003eCoronavirus\u003c/b\u003e-As-Bioweapon.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpE2Hn2t3ung9Y3_kEjBXehnR64Oh6gx9Qij1tlj9WyIOpiihS1azi5gA",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://leadstories.com/caption_3472318_1587016042.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Fact Check: There Is NO Evidence China Created, Then Unleashed Coronavirus As Bioweapon | Lead Stories",
+            "tw:url": "https://leadstories.com/hoax-alert/2020/04/Fact-Check-There-Is-NO-Evidence-China-Created-Then-Unleashed-Coronavirus-As-Bioweapon.html",
+            "og:title": "Fact Check: There Is NO Evidence China Created, Then Unleashed Coronavirus As Bioweapon | Lead Stories",
+            "title": "Fact Check: There Is NO Evidence China Created, Then Unleashed Coronavirus As Bioweapon | Lead Stories",
+            "tw:via": "leadstoriescom",
+            "og:description": "Did China&#039;s Communist government create the novel coronavirus in a laboratory and release it into the world as a deadly...",
+            "fb:pages": "798861733546466",
+            "twitter:image": "https://leadstories.com/caption_3472318_1587016042.jpg",
+            "tw:text": "Fact Check: There Is NO Evidence China Created, Then Unleashed Coronavirus As Bioweapon Lead Stories",
+            "fb:app_id": "696143150593347",
+            "twitter:site": "@leadstoriescom",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Did China's Communist government create the novel coronavirus in a laboratory and release it into the world as a deadly...",
+            "og:url": "https://leadstories.com/hoax-alert/2020/04/Fact-Check-There-Is-NO-Evidence-China-Created-Then-Unleashed-Coronavirus-As-Bioweapon.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://leadstories.com/caption_3472318_1587016042.jpg"
+          }
+        ],
+        "blogposting": [
+          {
+            "name": "Fact Check: There Is NO Evidence China Created, Then Unleashed Coronavirus As Bioweapon",
+            "datepublished": "2020-04-15T11:00:06-07:00"
+          },
+          {
+            "name": "Fact Check: Bill & Melinda Gates Foundation HQ Does NOT Read 'Center for Global Human Population Reduction'",
+            "url": "Photoshopped Fact Check: Bill & Melinda Gates Foundation HQ Does NOT Read 'Center for Global Human Population Reduction' Hoax Alert Apr 29, 2020 by: Gita Smith",
+            "datepublished": "2020-04-29T15:57:37-07:00"
+          },
+          {
+            "name": "Fact Check: The CDC DOES Recommend That People Who Are Healthy Wear Facemasks",
+            "url": "Outdated Fact Check: The CDC DOES Recommend That People Who Are Healthy Wear Facemasks Hoax Alert Apr 30, 2020 by: Alan Duke",
+            "datepublished": "2020-04-30T10:26:57-07:00"
+          },
+          {
+            "name": "Fact Check: News Outlets DID Report On Coronavirus Cases At Walmart, Amazon, Other Retailers",
+            "url": "In The News Fact Check: News Outlets DID Report On Coronavirus Cases At Walmart, Amazon, Other Retailers Hoax Alert Apr 29, 2020 by: Chelsea Carter",
+            "datepublished": "2020-04-29T11:44:04-07:00"
+          },
+          {
+            "name": "Fact Check: A Dog Vaccine Can NOT Be Used To Inoculate People Against Coronavirus",
+            "url": "Fact Check: A Dog Vaccine Can NOT Be Used To Inoculate People Against Coronavirus Hoax Alert Mar 16, 2020 by: Chelsea Carter",
+            "datepublished": "2020-03-16T18:04:17-07:00"
+          },
+          {
+            "name": "Fact Check: Bill Would NOT Require Federal Licenses For Guns Already Owned",
+            "url": "Only New Guns Fact Check: Bill Would NOT Require Federal Licenses For Guns Already Owned Hoax Alert Apr 7, 2020 by: Jessica Ravitz",
+            "datepublished": "2020-04-07T13:29:59-07:00"
+          },
+          {
+            "name": "Fact Check: Bill Gates, WHO & World Bank NOT 'Trumped' By President Amid Coronavirus",
+            "url": "Not Trumped Fact Check: Bill Gates, WHO & World Bank NOT 'Trumped' By President Amid Coronavirus Hoax Alert Apr 30, 2020 by: Alexis Tereszcuk",
+            "datepublished": "2020-04-30T12:42:26-07:00"
+          },
+          {
+            "name": "Fact Check: Coronavirus NOT Sparing Essential Workers (But Most Victims Are Elderly)",
+            "url": "Older Victims Fact Check: Coronavirus NOT Sparing Essential Workers (But Most Victims Are Elderly) Hoax Alert Apr 23, 2020 by: Tom Watkins",
+            "datepublished": "2020-04-23T14:20:39-07:00"
+          },
+          {
+            "name": "Fact Check: Not Wearing Masks For Tuberculosis Does Not Mean Masks Are Not Needed For COVID-19",
+            "url": "Claim Unmasked Fact Check: Not Wearing Masks For Tuberculosis Does Not Mean Masks Are Not Needed For COVID-19 Hoax Alert May 1, 2020 by: Mary Acosta",
+            "datepublished": "2020-05-01T11:23:56-07:00"
+          },
+          {
+            "name": "Fact Check: Bill Gates, WHO & World Bank NOT 'Trumped' By President Amid Coronavirus",
+            "url": "Not Trumped Fact Check: Bill Gates, WHO & World Bank NOT 'Trumped' By President Amid Coronavirus Hoax Alert Apr 30, 2020 by: Alexis Tereszcuk",
+            "datepublished": "2020-04-30T12:42:26-07:00"
+          },
+          {
+            "name": "Fact Check: Pelosi NOT In Wuhan, China, Six Days After Impeachment",
+            "url": "Wrong Place Fact Check: Pelosi NOT In Wuhan, China, Six Days After Impeachment Hoax Alert Apr 30, 2020 by: Gita Smith",
+            "datepublished": "2020-04-30T12:11:12-07:00"
+          },
+          {
+            "name": "Fact Check: Coronavirus Mortality Rate NOT Proven To Be 0.03% By Bakersfield Doctors",
+            "url": "Bad Sampling Fact Check: Coronavirus Mortality Rate NOT Proven To Be 0.03% By Bakersfield Doctors Hoax Alert Apr 30, 2020 by: Wayne Drash",
+            "datepublished": "2020-04-30T12:09:01-07:00"
+          },
+          {
+            "name": "Fact Check: The Flu Did NOT Kill 80,000 People In the United States Last Year",
+            "url": "Wrong Number Fact Check: The Flu Did NOT Kill 80,000 People In the United States Last Year Hoax Alert Apr 30, 2020 by: Chelsea Carter",
+            "datepublished": "2020-04-30T10:36:37-07:00"
+          },
+          {
+            "name": "Fact Check: The CDC DOES Recommend That People Who Are Healthy Wear Facemasks",
+            "url": "Outdated Fact Check: The CDC DOES Recommend That People Who Are Healthy Wear Facemasks Hoax Alert Apr 30, 2020 by: Alan Duke",
+            "datepublished": "2020-04-30T10:26:57-07:00"
+          },
+          {
+            "name": "Fact Check: Bill & Melinda Gates Foundation HQ Does NOT Read 'Center for Global Human Population Reduction'",
+            "url": "Photoshopped Fact Check: Bill & Melinda Gates Foundation HQ Does NOT Read 'Center for Global Human Population Reduction' Hoax Alert Apr 29, 2020 by: Gita Smith",
+            "datepublished": "2020-04-29T15:57:37-07:00"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Coronavirus Collection: International Response - Snopes.com",
+      "htmlTitle": "The \u003cb\u003eCoronavirus\u003c/b\u003e Collection: International Response - Snopes.com",
+      "link": "https://www.snopes.com/collections/coronavirus-international-rumors/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Mar 16, 2020 ... The novel coronavirus was first identified in Wuhan, China, and spread to other \nparts of China and the rest of the world from there. Snopes ...",
+      "htmlSnippet": "Mar 16, 2020 \u003cb\u003e...\u003c/b\u003e The novel \u003cb\u003ecoronavirus\u003c/b\u003e was first identified in Wuhan, \u003cb\u003eChina\u003c/b\u003e, and spread to other \u003cbr\u003e\nparts of \u003cb\u003eChina\u003c/b\u003e and the rest of the world from there. Snopes&nbsp;...",
+      "cacheId": "1s0CDrgNDH0J",
+      "formattedUrl": "https://www.snopes.com/collections/coronavirus-international-rumors/",
+      "htmlFormattedUrl": "https://www.snopes.com/collections/\u003cb\u003ecoronavirus\u003c/b\u003e-international-rumors/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd-FJQtOIJkvJ3ZsbQmH53VJlJsp1wWPrL4fOaXw-D5VMZ03PbpEFWluyF",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/03/GettyImages-1211795539.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "The Coronavirus Collection: International Response - Snopes.com",
+            "og:site_name": "Snopes.com",
+            "og:title": "The Coronavirus Collection: International Response - Snopes.com",
+            "og:image:height": "628",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "The novel coronavirus was first identified in Wuhan, China, and spread to other parts of China and the rest of the world from there. Snopes fact-checks the international response to the COVID-19 pandemic.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/03/GettyImages-1211795539.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/03/GettyImages-1211795539.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "The novel coronavirus was first identified in Wuhan, China, and spread to other parts of China and the rest of the world from there. Snopes fact-checks the international response to the COVID-19 pandemic.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/collections/coronavirus-international-rumors/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/03/GettyImages-1211795539.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Coronavirus Collection: Fact-Checking COVID-19 - Snopes.com",
+      "htmlTitle": "The \u003cb\u003eCoronavirus\u003c/b\u003e Collection: Fact-Checking COVID-19 - Snopes.com",
+      "link": "https://www.snopes.com/collections/new-coronavirus-collection/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Feb 28, 2020 ... As the potentially deadly new coronavirus spread from Wuhan, China, to the rest \nof the world, misinformation tagged along.",
+      "htmlSnippet": "Feb 28, 2020 \u003cb\u003e...\u003c/b\u003e As the potentially deadly new \u003cb\u003ecoronavirus\u003c/b\u003e spread from Wuhan, \u003cb\u003eChina\u003c/b\u003e, to the rest \u003cbr\u003e\nof the world, misinformation tagged along.",
+      "cacheId": "P6_o__lRW_YJ",
+      "formattedUrl": "https://www.snopes.com/collections/new-coronavirus-collection/",
+      "htmlFormattedUrl": "https://www.snopes.com/collections/new-\u003cb\u003ecoronavirus\u003c/b\u003e-collection/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVSTXsZ8opo1Ps1MXWGrV9Pycsl9CWOTNhP8jaJB8z9XMGLHbphpfvMQQ",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/02/collection-cdc-coronavirus-edited.png",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "The Coronavirus Collection: Snopes Fact Checks About COVID-19",
+            "og:site_name": "Snopes.com",
+            "og:title": "The Coronavirus Collection: Snopes Fact Checks About COVID-19",
+            "og:image:height": "800",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "As the potentially deadly new coronavirus spread from Wuhan, China, to the rest of the world, misinformation tagged along.",
+            "twitter:creator": "@bechter",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/02/collection-cdc-coronavirus-edited.png",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/02/collection-cdc-coronavirus-edited.png",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "As the potentially deadly new coronavirus spread from Wuhan, China, to the rest of the world, misinformation tagged along.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/collections/new-coronavirus-collection/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/02/collection-cdc-coronavirus-edited.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Was Charles Lieber Arrested for Selling the COVID-19 Coronavirus to",
+      "htmlTitle": "Was Charles Lieber Arrested for Selling the COVID-19 \u003cb\u003eCoronavirus\u003c/b\u003e to",
+      "link": "https://www.snopes.com/fact-check/charles-lieber-arrested-coronavirus/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Feb 18, 2020 ... Also arrested were two Chinese “Students” working as research ... of the Chinese \nCommunist Party (CCP), reportedly lied about being a ...",
+      "htmlSnippet": "Feb 18, 2020 \u003cb\u003e...\u003c/b\u003e Also arrested were two \u003cb\u003eChinese\u003c/b\u003e “Students” working as research ... of the \u003cb\u003eChinese\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eCommunist\u003c/b\u003e Party (CCP), reportedly lied about being a&nbsp;...",
+      "cacheId": "NijBkq_QFEkJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/charles-lieber-arrested-coronavirus/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/charles-lieber-arrested-\u003cb\u003ecoronavirus\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUOf_HEKXYZDOXZBWBh-hZGLyLVvbLongO1gcGsgIT8jdCeZ32ISpd3OiB",
+            "width": "317",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg",
+            "og:type": "article",
+            "og:image:width": "900",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Was Charles Lieber Arrested for Selling the COVID-19 Coronavirus to China?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Was Charles Lieber Arrested for Selling the COVID-19 Coronavirus to China?",
+            "og:image:height": "453",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "The arrest of a Harvard professor fueled conspiracy theories about the COVID-19 coronavirus disease outbreak in 2020.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "The arrest of a Harvard professor fueled conspiracy theories about the COVID-19 coronavirus disease outbreak in 2020.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/charles-lieber-arrested-coronavirus/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
