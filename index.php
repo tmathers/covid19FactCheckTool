@@ -4,13 +4,13 @@
 <head>
 	<?php include("includes/head-tag-contents.php");?>
 </head>
-<body>
 
 <?php include("includes/design-top.php");?>
 <?php include("includes/navigation.php");?>
 
+
 <div class="container" id="main-content">
-	<h2 class="pb-4 pt-3">Fact-Checking Tool</h2>
+	<h1 class="pb-4 pt-3">Fact-Checking Tool</h1>
 
 	<?php 
 	if (isset($_GET['search'])) {
