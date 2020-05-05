@@ -1,0 +1,559 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - Is coronavirus man made?",
+        "totalResults": "32600",
+        "searchTerms": "Is coronavirus man made?",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - Is coronavirus man made?",
+        "totalResults": "32600",
+        "searchTerms": "Is coronavirus man made?",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ]
+  },
+  "context": {
+    "title": "Snopes"
+  },
+  "searchInformation": {
+    "searchTime": 0.331078,
+    "formattedSearchTime": "0.33",
+    "totalResults": "32600",
+    "formattedTotalResults": "32,600"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Baseless Conspiracy Theories Claim New Coronavirus Was ...",
+      "htmlTitle": "Baseless Conspiracy Theories Claim New \u003cb\u003eCoronavirus\u003c/b\u003e Was ...",
+      "link": "https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronavirus-was-bioengineered/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Feb 7, 2020 ... ... the new coronavirus, which first led to an outbreak in Wuhan, China in late \n2019, allege that the virus was man-made, rather than the natural ...",
+      "htmlSnippet": "Feb 7, 2020 \u003cb\u003e...\u003c/b\u003e ... the new \u003cb\u003ecoronavirus\u003c/b\u003e, which first led to an outbreak in Wuhan, China in late \u003cbr\u003e\n2019, allege that the virus was \u003cb\u003eman\u003c/b\u003e-\u003cb\u003emade\u003c/b\u003e, rather than the natural&nbsp;...",
+      "cacheId": "lI02y4eYP5EJ",
+      "formattedUrl": "https://www.factcheck.org/.../baseless-conspiracy-theories-claim-new- coronavirus-was-bioengineered/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../baseless-conspiracy-theories-claim-new- \u003cb\u003ecoronavirus\u003c/b\u003e-was-bioengineered/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBQ44NJ4PeKmEzGvINwy8pgUCF8_QdrD68sh2dHCLMFY6Qez2bKM7Tfaw",
+            "width": "344",
+            "height": "146"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/corona_screen.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-02-07T15:17:12+00:00",
+            "og:image:width": "720",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Baseless Conspiracy Theories Claim New Coronavirus Was Bioengineered",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Baseless Conspiracy Theories Claim New Coronavirus Was Bioengineered",
+            "og:image:height": "307",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-02-07T15:17:12+00:00",
+            "og:description": "Several online stories inaccurately claim that the new coronavirus contains HIV “insertions” and shows signs of being created in a lab. But there is no evidence that the new virus was bioengineered, and every indication it came from an animal.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/corona_screen.jpg",
+            "article:modified_time": "2020-02-07T15:17:12+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Several online stories inaccurately claim that the new coronavirus contains HIV “insertions” and shows signs of being created in a lab. But there is no evidence that the new virus was bioengineered, and every indication it came from an animal.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronavirus-was-bioengineered/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/corona_screen.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US Intel: Coronavirus Not Manmade, Still Studying Lab Theory",
+      "htmlTitle": "US Intel: \u003cb\u003eCoronavirus\u003c/b\u003e Not \u003cb\u003eManmade\u003c/b\u003e, Still Studying Lab Theory",
+      "link": "https://www.snopes.com/ap/2020/04/30/us-intel-coronavirus-not-manmade-still-studying-lab-theory/",
+      "displayLink": "www.snopes.com",
+      "snippet": "4 days ago ... U.S. intelligence agencies have concluded that the new coronavirus was “not \nmanmade or genetically modified” but say they are still examining ...",
+      "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e U.S. intelligence agencies have concluded that the new \u003cb\u003ecoronavirus\u003c/b\u003e was “not \u003cbr\u003e\n\u003cb\u003emanmade\u003c/b\u003e or genetically modified” but say they are still examining&nbsp;...",
+      "cacheId": "IBilgA9MlUcJ",
+      "formattedUrl": "https://www.snopes.com/.../us-intel-coronavirus-not-manmade-still-studying- lab-theory/",
+      "htmlFormattedUrl": "https://www.snopes.com/.../us-intel-\u003cb\u003ecoronavirus\u003c/b\u003e-not-\u003cb\u003emanmade\u003c/b\u003e-still-studying- lab-theory/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlxuF-K6Fd5_maF1y_4eaH-H4p8HRfp_Oz3E0iIJLCK7lUxObI27G28FZO",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2017/08/lab_equipment_research_fb.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "US Intel: Coronavirus Not Manmade, Still Studying Lab Theory",
+            "og:site_name": "Snopes.com",
+            "og:title": "US Intel: Coronavirus Not Manmade, Still Studying Lab Theory",
+            "og:image:height": "627",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "U.S. intelligence agencies have concluded that the new coronavirus was “not manmade or genetically modified” but say they are still examining whether the origins of the pandemic trace to contact with infected animals or an accident at a Chinese lab.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2017/08/lab_equipment_research_fb.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2017/08/lab_equipment_research_fb.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "U.S. intelligence agencies have concluded that the new coronavirus was “not manmade or genetically modified” but say they are still examining whether the origins of the pandemic trace to contact with infected animals or an accident at a Chinese lab.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/ap/2020/04/30/us-intel-coronavirus-not-manmade-still-studying-lab-theory/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2017/08/lab_equipment_research_fb.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+      "htmlTitle": "Did This Nobel Prize Winner Say COVID-19 Was \u003cb\u003eCreated\u003c/b\u003e in a Lab?",
+      "link": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/",
+      "displayLink": "www.snopes.com",
+      "snippet": "4 days ago ... Since the outset of the COVID-19 coronavirus disease pandemic, we've ... was \nalso rumored to have said that COVID-19 was “man-made.",
+      "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e Since the outset of the COVID-19 \u003cb\u003ecoronavirus\u003c/b\u003e disease pandemic, we&#39;ve ... was \u003cbr\u003e\nalso rumored to have said that COVID-19 was “\u003cb\u003eman\u003c/b\u003e-\u003cb\u003emade\u003c/b\u003e.",
+      "cacheId": "_nrlhxK4z6oJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/luc-montagnier-covid-\u003cb\u003ecreated\u003c/b\u003e-lab/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj5hW58lmrqqpEg6SI-Xre4xuE4NknhQrRpdg-85PcVajaTB6MyARrNxyq",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+            "og:image:height": "799",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Keep in mind, the opinion of one person does not outweigh the consensus of the scientific community.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Keep in mind, the opinion of one person does not outweigh the consensus of the scientific community.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Was Charles Lieber Arrested for Selling the COVID-19 Coronavirus to",
+      "htmlTitle": "Was Charles Lieber Arrested for Selling the COVID-19 \u003cb\u003eCoronavirus\u003c/b\u003e to",
+      "link": "https://www.snopes.com/fact-check/charles-lieber-arrested-coronavirus/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Feb 18, 2020 ... Is coronavirus a man-made bio-weapon? In short: There is no evidence that \ncoronavirus was human-made and several leading researchers ...",
+      "htmlSnippet": "Feb 18, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eIs coronavirus\u003c/b\u003e a \u003cb\u003eman\u003c/b\u003e-\u003cb\u003emade\u003c/b\u003e bio-weapon? In short: There is no evidence that \u003cbr\u003e\n\u003cb\u003ecoronavirus\u003c/b\u003e was human-made and several leading researchers&nbsp;...",
+      "cacheId": "NijBkq_QFEkJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/charles-lieber-arrested-coronavirus/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/charles-lieber-arrested-\u003cb\u003ecoronavirus\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUOf_HEKXYZDOXZBWBh-hZGLyLVvbLongO1gcGsgIT8jdCeZ32ISpd3OiB",
+            "width": "317",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg",
+            "og:type": "article",
+            "og:image:width": "900",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Was Charles Lieber Arrested for Selling the COVID-19 Coronavirus to China?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Was Charles Lieber Arrested for Selling the COVID-19 Coronavirus to China?",
+            "og:image:height": "453",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "The arrest of a Harvard professor fueled conspiracy theories about the COVID-19 coronavirus disease outbreak in 2020.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "The arrest of a Harvard professor fueled conspiracy theories about the COVID-19 coronavirus disease outbreak in 2020.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/charles-lieber-arrested-coronavirus/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Nobel Laureate Tasuku Honjo Say COVID-19 Was 'Man-Made'?",
+      "htmlTitle": "Did Nobel Laureate Tasuku Honjo Say COVID-19 Was &#39;\u003cb\u003eMan\u003c/b\u003e-\u003cb\u003eMade\u003c/b\u003e&#39;?",
+      "link": "https://www.snopes.com/fact-check/nobel-laureate-tasuku-honjo-covid/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Apr 27, 2020 ... China is accused of inventing the Coronavirus in its Wuhan laboratory with \nwhatever intent that might have prompted the venture. A Nobel ...",
+      "htmlSnippet": "Apr 27, 2020 \u003cb\u003e...\u003c/b\u003e China is accused of inventing the \u003cb\u003eCoronavirus\u003c/b\u003e in its Wuhan laboratory with \u003cbr\u003e\nwhatever intent that might have prompted the venture. A Nobel&nbsp;...",
+      "cacheId": "qxvUbYlRmRgJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/nobel-laureate-tasuku-honjo-covid/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/nobel-laureate-tasuku-honjo-covid/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaNuy_jGJ2Ye1av1EPYmM91_aDsdvu9WAjwqDExuYNOv9yHKupJdC0c70U",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1068960022-e1588006010688.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Nobel Laureate Tasuku Honjo Say COVID-19 Was 'Man-Made'?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Nobel Laureate Tasuku Honjo Say COVID-19 Was 'Man-Made'?",
+            "og:image:height": "799",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Unlike new viruses, quotes can be manufactured with ease.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-1068960022-e1588006010688.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-1068960022-e1588006010688.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Unlike new viruses, quotes can be manufactured with ease.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/nobel-laureate-tasuku-honjo-covid/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-1068960022-e1588006010688.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Origins and Scientific Failings of the COVID-19 'Bioweapon ...",
+      "htmlTitle": "The Origins and Scientific Failings of the COVID-19 &#39;Bioweapon ...",
+      "link": "https://www.snopes.com/news/2020/04/01/covid-19-bioweapon/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Apr 1, 2020 ... Research on coronaviruses is an important focus of China's scientific efforts ever \nsince the 2002 SARS epidemic, which was also caused by a ...",
+      "htmlSnippet": "Apr 1, 2020 \u003cb\u003e...\u003c/b\u003e Research on \u003cb\u003ecoronaviruses\u003c/b\u003e is an important focus of China&#39;s scientific efforts ever \u003cbr\u003e\nsince the 2002 SARS epidemic, which was also \u003cb\u003ecaused\u003c/b\u003e by a&nbsp;...",
+      "cacheId": "abv_EGd49cUJ",
+      "formattedUrl": "https://www.snopes.com/news/2020/04/01/covid-19-bioweapon/",
+      "htmlFormattedUrl": "https://www.snopes.com/news/2020/04/01/covid-19-bioweapon/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWk_5zrkKJSJv7NAC4TLELl0KH2lCXk7nBw8dc8CJYsfk7J9epTeC-tYVn",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-520220329-e1585755975793.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Why You Shouldn't Fall for COVID-19 'Bioweapon' Conspiracy Theory",
+            "og:site_name": "Snopes.com",
+            "og:title": "Why You Shouldn't Fall for the COVID-19 'Bioweapon' Conspiracy Theory",
+            "og:image:height": "801",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "The coronavirus responsible for COVID-19 has deadly adaptations that make it perfect for infecting humans. But this is a testament to natural selection, not bioengineering.",
+            "twitter:creator": "@alexkasprak",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "article:author": "https://www.facebook.com/akasprak",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-520220329-e1585755975793.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-520220329-e1585755975793.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "The coronavirus responsible for COVID-19 has deadly adaptations that make it perfect for infecting humans. But this is a testament to natural selection, not bioengineering.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/news/2020/04/01/covid-19-bioweapon/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-520220329-e1585755975793.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did a Chinese Intelligence Officer Reveal the 'Truth About the ...",
+      "htmlTitle": "Did a Chinese Intelligence Officer Reveal the &#39;Truth About the ...",
+      "link": "https://www.snopes.com/fact-check/chinese-intelligence-coronavirus/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Feb 20, 2020 ... A Chinese intelligence officer revealed that a new coronavirus was developed ... \nA 2020 outbreak of COVID-19, caused by a new coronavirus, stirred up ... Did \nNobel Laureate Tasuku Honjo Say COVID-19 Was 'Man-Made'?",
+      "htmlSnippet": "Feb 20, 2020 \u003cb\u003e...\u003c/b\u003e A Chinese intelligence officer revealed that a new \u003cb\u003ecoronavirus\u003c/b\u003e was developed ... \u003cbr\u003e\nA 2020 outbreak of COVID-19, caused by a new \u003cb\u003ecoronavirus\u003c/b\u003e, stirred up ... Did \u003cbr\u003e\nNobel Laureate Tasuku Honjo Say COVID-19 Was &#39;\u003cb\u003eMan\u003c/b\u003e-\u003cb\u003eMade\u003c/b\u003e&#39;?",
+      "cacheId": "HW_MiEUXMYwJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/chinese-intelligence-coronavirus/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/chinese-intelligence-\u003cb\u003ecoronavirus\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjFkI1YHKz4h93jmyIqBsWVcLVUjs_BRMXVV5Vasj_SrV2pSO46ChfSCI",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/02/GettyImages-1201781443-e1582221558461.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did a Chinese Intelligence Officer Reveal the 'Truth About the Coronavirus Outbreak'?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did a Chinese Intelligence Officer Reveal the 'Truth About the Coronavirus Outbreak'?",
+            "og:image:height": "800",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "A piece of horror fiction was a little too believable for some readers.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/02/GettyImages-1201781443-e1582221558461.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/02/GettyImages-1201781443-e1582221558461.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "A piece of horror fiction was a little too believable for some readers.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/chinese-intelligence-coronavirus/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/02/GettyImages-1201781443-e1582221558461.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Coronavirus Collection: Fact-Checking COVID-19 - Snopes.com",
+      "htmlTitle": "The \u003cb\u003eCoronavirus\u003c/b\u003e Collection: Fact-Checking COVID-19 - Snopes.com",
+      "link": "https://www.snopes.com/collections/new-coronavirus-collection/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Feb 28, 2020 ... As the potentially deadly new coronavirus spread from Wuhan, China, to the rest \nof the world, misinformation tagged along.",
+      "htmlSnippet": "Feb 28, 2020 \u003cb\u003e...\u003c/b\u003e As the potentially deadly new \u003cb\u003ecoronavirus\u003c/b\u003e spread from Wuhan, China, to the rest \u003cbr\u003e\nof the world, misinformation tagged along.",
+      "cacheId": "P6_o__lRW_YJ",
+      "formattedUrl": "https://www.snopes.com/collections/new-coronavirus-collection/",
+      "htmlFormattedUrl": "https://www.snopes.com/collections/new-\u003cb\u003ecoronavirus\u003c/b\u003e-collection/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVSTXsZ8opo1Ps1MXWGrV9Pycsl9CWOTNhP8jaJB8z9XMGLHbphpfvMQQ",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/02/collection-cdc-coronavirus-edited.png",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "The Coronavirus Collection: Snopes Fact Checks About COVID-19",
+            "og:site_name": "Snopes.com",
+            "og:title": "The Coronavirus Collection: Snopes Fact Checks About COVID-19",
+            "og:image:height": "800",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "As the potentially deadly new coronavirus spread from Wuhan, China, to the rest of the world, misinformation tagged along.",
+            "twitter:creator": "@bechter",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/02/collection-cdc-coronavirus-edited.png",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/02/collection-cdc-coronavirus-edited.png",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "As the potentially deadly new coronavirus spread from Wuhan, China, to the rest of the world, misinformation tagged along.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/collections/new-coronavirus-collection/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/02/collection-cdc-coronavirus-edited.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Social Media Posts Spread Bogus Coronavirus Conspiracy Theory ...",
+      "htmlTitle": "Social Media Posts Spread Bogus \u003cb\u003eCoronavirus\u003c/b\u003e Conspiracy Theory ...",
+      "link": "https://www.factcheck.org/2020/01/social-media-posts-spread-bogus-coronavirus-conspiracy-theory/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Jan 24, 2020 ... “This is clearly a bogus theory that this virus was created in a lab, patented and \nhas a vaccine already made to it.” Researchers are still working to ...",
+      "htmlSnippet": "Jan 24, 2020 \u003cb\u003e...\u003c/b\u003e “This is clearly a bogus theory that this virus was \u003cb\u003ecreated\u003c/b\u003e in a lab, patented and \u003cbr\u003e\nhas a vaccine already \u003cb\u003emade\u003c/b\u003e to it.” Researchers are still working to&nbsp;...",
+      "cacheId": "mskrS3RQ6CkJ",
+      "formattedUrl": "https://www.factcheck.org/.../social-media-posts-spread-bogus-coronavirus- conspiracy-theory/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../social-media-posts-spread-bogus-\u003cb\u003ecoronavirus\u003c/b\u003e- conspiracy-theory/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCcnNZUCn0wgNz8KpbWS2uPn2SXdsHbFr-0pBTdu9kfQtZphXViV4vAfGB",
+            "width": "344",
+            "height": "146"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/coronavirus-banner.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-01-24T09:15:35+00:00",
+            "og:image:width": "720",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Social Media Posts Spread Bogus Coronavirus Conspiracy Theory",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Social Media Posts Spread Bogus Coronavirus Conspiracy Theory",
+            "og:image:height": "307",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-02-07T11:55:49+00:00",
+            "og:description": "Multiple social media posts are spreading a bogus conspiracy theory about the deadly Wuhan virus. The posts falsely claim that the virus has been patented and a vaccine is already available. That’s not true; the patents the posts refer to pertain to different viruses.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/coronavirus-banner.jpg",
+            "article:modified_time": "2020-02-07T11:55:49+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Multiple social media posts are spreading a bogus conspiracy theory about the deadly Wuhan virus. The posts falsely claim that the virus has been patented and a vaccine is already available. That’s not true; the patents the posts refer to pertain to different viruses.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/01/social-media-posts-spread-bogus-coronavirus-conspiracy-theory/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/coronavirus-banner.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Patents Being Shared Online Are Not Related to New Virus in China",
+      "htmlTitle": "Patents Being Shared Online Are Not Related to New Virus in China",
+      "link": "https://www.snopes.com/ap/2020/01/23/patents-being-shared-online-are-not-related-to-new-virus-in-china/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Jan 23, 2020 ... Some posts said the virus was created in a lab. The new fad disease called the “\ncoronavirus” is sweeping headlines. Funny enough, there was ...",
+      "htmlSnippet": "Jan 23, 2020 \u003cb\u003e...\u003c/b\u003e Some posts said the virus was \u003cb\u003ecreated\u003c/b\u003e in a lab. The new fad disease called the “\u003cbr\u003e\n\u003cb\u003ecoronavirus\u003c/b\u003e” is sweeping headlines. Funny enough, there was&nbsp;...",
+      "cacheId": "WS4chJ8iS4MJ",
+      "formattedUrl": "https://www.snopes.com/.../patents-being-shared-online-are-not-related-to- new-virus-in-china/",
+      "htmlFormattedUrl": "https://www.snopes.com/.../patents-being-shared-online-are-not-related-to- new-virus-in-china/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6B0WtIOwypFQHPwL0jgeCs7MOKmcLei8AmLdtXRQzkScarGTCXXFqD5g",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2018/04/human_cells_feature.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Patents Being Shared Online Are Not Related to New Virus in China",
+            "og:site_name": "Snopes.com",
+            "og:title": "Patents Being Shared Online Are Not Related to New Virus in China",
+            "og:image:height": "628",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "As the U.S. reported its first case of coronavirus, social media users began spreading misinformation suggest the U.S. government was aware of the virus for years.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2018/04/human_cells_feature.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2018/04/human_cells_feature.jpg",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "As the U.S. reported its first case of coronavirus, social media users began spreading misinformation suggest the U.S. government was aware of the virus for years.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/ap/2020/01/23/patents-being-shared-online-are-not-related-to-new-virus-in-china/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2018/04/human_cells_feature.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

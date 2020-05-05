@@ -2,6 +2,7 @@
 
 include("data/fake_site_list.php");
 include("keywords.php");
+include("searchScholar.php");
 
 $search =  htmlspecialchars($_GET["search"]);
 $isUrl = false;
@@ -56,6 +57,7 @@ if ($isUrl) {
   error_log("Article Keywords: $keywords");
   error_log("Article Title: $title");
   error_log("Article description: $description");
+  error_log("Domain: $domain");
 
 
   echo '
@@ -141,23 +143,58 @@ function displayResults($keywords, $test) {
     }
   }
 
-  $items = json_decode($json)->items;
+  $newsItems = json_decode($json)->items;
 
-  $html;  // html out
-
-  if (count($items) > 0) {
-
-    // Print the results list
-    foreach ($items as $item) {
-      $html .= "<h5 class='pb-0 mb-0'><a href=\"{$item->link}\">{$item->htmlTitle}</a></h5>";
-      $html .= "<p class='text-secondary pt-0 mt-0 mb-0'>{$item->link}</p>";
-      $html .= "<p>{$item->htmlSnippet}</p>";
-    }
-  } else {
-    $html = "<p>Nothing found.</p>";
+  $newsHtml;  // html out
+  $academicHtml;
+  
+  // Assemble the News fact check results list
+  foreach ($newsItems as $item) {
+    $newsHtml .= "<h5 class='pb-0 mb-0'><a href=\"{$item->link}\">{$item->htmlTitle}</a></h5>";
+    $newsHtml .= "<p class='text-secondary pt-0 mt-0 mb-0'>{$item->link}</p>";
+    $newsHtml .= "<p>{$item->htmlSnippet}</p>";
   }
 
-  echo $html;
+  if (count($newsItems) == 0) {
+    $newsHtml = "<p>Nothing found.</p>";
+  }
+
+
+  // Get Academic results
+  $json = getScholarResults($keywords);
+  $academicItems = json_decode($json)->items;
+  //var_dump(json_decode($json));
+
+  // Assemble the Academic fact check results list
+  foreach ($academicItems as $item) {
+    $academicHtml .= "<h5 class='pb-0 mb-0'><a href=\"{$item->link}\">{$item->htmlTitle}</a></h5>";
+    $academicHtml .= "<p class='text-secondary pt-0 mt-0 mb-0'>{$item->link}</p>";
+    $academicHtml .= "<p>{$item->htmlSnippet}</p>";
+  }
+
+  if (count($academicHtml) == 0) {
+    $academicHtml = "<p>Nothing found.</p>";
+  }
+  
+
+  echo '
+  <ul class="nav nav-tabs mb-3" id="myTab" role="tablist">
+    <li class="nav-item">
+      <a class="nav-link active" id="home-tab" data-toggle="tab" role="tab" aria-controls="home" aria-selected="true" href="#home">News</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" id="profile-tab" data-toggle="tab" role="tab" aria-controls="profile" aria-selected="false" href="#profile">Academic</a>
+    </li>
+  </ul>
+  <div class="tab-content" id="myTabContent">
+    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+      ' . $newsHtml . '
+    </div>
+    <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+      ' . $academicHtml . '
+    </div>
+  </div>';
+  
 }
 
 function getDomain($search) {
@@ -165,6 +202,9 @@ function getDomain($search) {
       $search = 'http://' . $search;
   }
   $urlParts = parse_url($search);
-  // remove www
-  return preg_replace('/^www\./', '', $urlParts['host']);
+  $host = $urlParts['host'];
+
+  // remove subdomain
+  $host_names = explode(".", $host);
+  return $host_names[count($host_names)-2] . "." . $host_names[count($host_names)-1];
 }

@@ -1,0 +1,563 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - coronavirus",
+        "totalResults": "66000",
+        "searchTerms": "coronavirus",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - coronavirus",
+        "totalResults": "66000",
+        "searchTerms": "coronavirus",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ]
+  },
+  "context": {
+    "title": "Snopes"
+  },
+  "searchInformation": {
+    "searchTime": 0.431977,
+    "formattedSearchTime": "0.43",
+    "totalResults": "66000",
+    "formattedTotalResults": "66,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Is the White House Gift Shop Selling Coronavirus Commemorative ...",
+      "htmlTitle": "Is the White House Gift Shop Selling \u003cb\u003eCoronavirus\u003c/b\u003e Commemorative ...",
+      "link": "https://www.snopes.com/fact-check/white-house-gift-shop-covid-coins/",
+      "displayLink": "www.snopes.com",
+      "snippet": "3 days ago ... The website WhiteHouseGiftShop.com is selling coronavirus commemorative \ncoins. What's False. WhiteHouseGiftShop.com is not the official ...",
+      "htmlSnippet": "3 days ago \u003cb\u003e...\u003c/b\u003e The website WhiteHouseGiftShop.com is selling \u003cb\u003ecoronavirus\u003c/b\u003e commemorative \u003cbr\u003e\ncoins. What&#39;s False. WhiteHouseGiftShop.com is not the official&nbsp;...",
+      "cacheId": "km-S-VDrJUQJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/white-house-gift-shop-covid-coins/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/white-house-gift-shop-covid-coins/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCLQdyCJJcFmq8V2bKM7HK0FM9hecQxnaNzOqCbVDhZBRl5qtAIv7ARBk",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/coronaviruscoins.jpg",
+            "og:type": "article",
+            "og:image:width": "900",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Is the White House Gift Shop Selling COVID-19 Coins?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Is the White House Gift Shop Selling COVID-19 Coins?",
+            "og:image:height": "600",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Sometimes names can be deceiving.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/coronaviruscoins.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/coronaviruscoins.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Sometimes names can be deceiving.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/white-house-gift-shop-covid-coins/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/coronaviruscoins.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Trump Misquotes Fauci on Coronavirus Threat - FactCheck.org",
+      "htmlTitle": "Trump Misquotes Fauci on \u003cb\u003eCoronavirus\u003c/b\u003e Threat - FactCheck.org",
+      "link": "https://www.factcheck.org/2020/04/trump-misquotes-fauci-on-coronavirus-threat/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "4 days ago ... Defending his early response to the coronavirus pandemic, President Donald \nTrump wrongly claimed that in late February, Anthony Fauci, ...",
+      "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e Defending his early response to the \u003cb\u003ecoronavirus\u003c/b\u003e pandemic, President Donald \u003cbr\u003e\nTrump wrongly claimed that in late February, Anthony Fauci,&nbsp;...",
+      "cacheId": "-JWlUKKpvb4J",
+      "formattedUrl": "https://www.factcheck.org/.../trump-misquotes-fauci-on-coronavirus-threat/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../trump-misquotes-fauci-on-\u003cb\u003ecoronavirus\u003c/b\u003e-threat/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9Hw6vxvUJymgwXqcYp-ysFvf_4eY4rDUp4m0iyooiKBqyru92IW59HX5w",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/Trump-with-Fauci-and-Birx.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-04-29T15:28:11+00:00",
+            "og:image:width": "300",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Trump Misquotes Fauci on Coronavirus Threat",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Trump Misquotes Fauci on Coronavirus Threat",
+            "og:image:height": "300",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-04-29T15:28:11+00:00",
+            "og:description": "Defending his early response to the coronavirus pandemic, President Donald Trump wrongly claimed that in late February, Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, was saying, \"This is no problem. This is going to blow over.\"",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/Trump-with-Fauci-and-Birx.png",
+            "article:modified_time": "2020-04-29T15:28:11+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Defending his early response to the coronavirus pandemic, President Donald Trump wrongly claimed that in late February, Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, was saying, \"This is no problem. This is going to blow over.\"",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/04/trump-misquotes-fauci-on-coronavirus-threat/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/Trump-with-Fauci-and-Birx.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+      "htmlTitle": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+      "link": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/",
+      "displayLink": "www.snopes.com",
+      "snippet": "4 days ago ... Since the outset of the COVID-19 coronavirus disease pandemic, we've fielded a \nnumber of questions about the origins of this strain of ...",
+      "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e Since the outset of the COVID-19 \u003cb\u003ecoronavirus\u003c/b\u003e disease pandemic, we&#39;ve fielded a \u003cbr\u003e\nnumber of questions about the origins of this strain of&nbsp;...",
+      "cacheId": "_nrlhxK4z6oJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj5hW58lmrqqpEg6SI-Xre4xuE4NknhQrRpdg-85PcVajaTB6MyARrNxyq",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+            "og:image:height": "799",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Keep in mind, the opinion of one person does not outweigh the consensus of the scientific community.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Keep in mind, the opinion of one person does not outweigh the consensus of the scientific community.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/GettyImages-871187892-e1588190206379.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The White House Isn't Selling Coronavirus Coins - FactCheck.org",
+      "htmlTitle": "The White House Isn&#39;t Selling \u003cb\u003eCoronavirus\u003c/b\u003e Coins - FactCheck.org",
+      "link": "https://www.factcheck.org/2020/04/the-white-house-isnt-selling-coronavirus-coins/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "2 days ago ... The White House is not selling coins related to the novel coronavirus pandemic, \nas some on social media have wrongly suggested. But a COVID- ...",
+      "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e The White House is not selling coins related to the novel \u003cb\u003ecoronavirus\u003c/b\u003e pandemic, \u003cbr\u003e\nas some on social media have wrongly suggested. But a COVID-&nbsp;...",
+      "cacheId": "KNzqZtl9kqsJ",
+      "formattedUrl": "https://www.factcheck.org/.../the-white-house-isnt-selling-coronavirus-coins/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../the-white-house-isnt-selling-\u003cb\u003ecoronavirus\u003c/b\u003e-coins/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvp0ZzL3DR71UUdrGYpgqnFKHTRTBYX60VteUFvcA7l-invq_zvjhdY1tj",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/coin_thumb_043020.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-04-30T18:21:10+00:00",
+            "og:image:width": "600",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "The White House Isn't Selling Coronavirus Coins",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "The White House Isn't Selling Coronavirus Coins",
+            "og:image:height": "600",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-04-30T18:21:10+00:00",
+            "og:description": "Headlines shared across social media caused some to wrongly believe the White House is selling coins commemorating the COVID-19 pandemic. The coin referenced is being sold by the White House Gift Shop, which is a private company based in Pennsylvania.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/coin_thumb_043020.png",
+            "article:modified_time": "2020-04-30T18:21:10+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Headlines shared across social media caused some to wrongly believe the White House is selling coins commemorating the COVID-19 pandemic. The coin referenced is being sold by the White House Gift Shop, which is a private company based in Pennsylvania.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/04/the-white-house-isnt-selling-coronavirus-coins/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/coin_thumb_043020.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "A Guide to Our Coronavirus Coverage - FactCheck.org",
+      "htmlTitle": "A Guide to Our \u003cb\u003eCoronavirus\u003c/b\u003e Coverage - FactCheck.org",
+      "link": "https://www.factcheck.org/a-guide-to-our-coronavirus-coverage/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Mar 19, 2020 ... A Guide to Our Coronavirus Coverage. In our work fact-checking political claims \nand debunking viral deceptions, we have found a tremendous ...",
+      "htmlSnippet": "Mar 19, 2020 \u003cb\u003e...\u003c/b\u003e A Guide to Our \u003cb\u003eCoronavirus\u003c/b\u003e Coverage. In our work fact-checking political claims \u003cbr\u003e\nand debunking viral deceptions, we have found a tremendous&nbsp;...",
+      "cacheId": "AKLNGqaI-UQJ",
+      "formattedUrl": "https://www.factcheck.org/a-guide-to-our-coronavirus-coverage/",
+      "htmlFormattedUrl": "https://www.factcheck.org/a-guide-to-our-\u003cb\u003ecoronavirus\u003c/b\u003e-coverage/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2RxsU0klwqMzC7x8TcdsYin-A8yvE8SGw2MTGzlmFP-CL8g7AyODzriE",
+            "width": "313",
+            "height": "161"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-03-17T16:27:41+00:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "A Guide to Our Coronavirus Coverage",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "A Guide to Our Coronavirus Coverage",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-05-01T18:34:09+00:00",
+            "og:description": "In our work fact-checking political claims and debunking viral deceptions, we have found a tremendous amount of misinformation on the coronavirus pandemic. Here's a guide to our coverage of the facts. Click on the headlines",
+            "twitter:creator": "@dangelogore",
+            "article:modified_time": "2020-05-01T18:34:09+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "In our work fact-checking political claims and debunking viral deceptions, we have found a tremendous amount of misinformation on the coronavirus pandemic. Here's a guide to our coverage of the facts. Click on the headlines",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/a-guide-to-our-coronavirus-coverage/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/coronavirus_coverage.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Facebook Users Wrongly Tie Dog Vaccine to Novel Coronavirus ...",
+      "htmlTitle": "Facebook Users Wrongly Tie Dog Vaccine to Novel \u003cb\u003eCoronavirus\u003c/b\u003e ...",
+      "link": "https://www.factcheck.org/2020/04/facebook-users-wrongly-tie-dog-vaccine-to-novel-coronavirus/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Apr 22, 2020 ... The two viruses are not the same. Full Story. Facebook users are spreading a \nphoto of a vaccine for canine coronavirus to wrongly suggest that a ...",
+      "htmlSnippet": "Apr 22, 2020 \u003cb\u003e...\u003c/b\u003e The two viruses are not the same. Full Story. Facebook users are spreading a \u003cbr\u003e\nphoto of a vaccine for canine \u003cb\u003ecoronavirus\u003c/b\u003e to wrongly suggest that a&nbsp;...",
+      "cacheId": "ExuScnkHMX0J",
+      "formattedUrl": "https://www.factcheck.org/.../facebook-users-wrongly-tie-dog-vaccine-to- novel-coronavirus/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../facebook-users-wrongly-tie-dog-vaccine-to- novel-\u003cb\u003ecoronavirus\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5WKZMtIkMCitlwFyxfbQ5Nu89K53pgkt0woZOyE4mBwVk8mkgmuXoYwyv",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/dog_thumb_042220.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-04-22T13:38:28+00:00",
+            "og:image:width": "500",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Facebook Users Wrongly Tie Dog Vaccine to Novel Coronavirus",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Facebook Users Wrongly Tie Dog Vaccine to Novel Coronavirus",
+            "og:image:height": "500",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-04-22T13:38:28+00:00",
+            "og:description": "A viral image on Facebook falsely suggests a vaccine exists for the novel coronavirus by referencing a photo of a vaccine for a coronavirus that infects dogs. The two viruses are not the same.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/dog_thumb_042220.jpg",
+            "article:modified_time": "2020-04-22T13:38:28+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "A viral image on Facebook falsely suggests a vaccine exists for the novel coronavirus by referencing a photo of a vaccine for a coronavirus that infects dogs. The two viruses are not the same.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/04/facebook-users-wrongly-tie-dog-vaccine-to-novel-coronavirus/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/dog_thumb_042220.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did President Trump Refer to the Coronavirus as a 'Hoax'?",
+      "htmlTitle": "Did President Trump Refer to the \u003cb\u003eCoronavirus\u003c/b\u003e as a &#39;Hoax&#39;?",
+      "link": "https://www.snopes.com/fact-check/trump-coronavirus-rally-remark/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Mar 2, 2020 ... Trump's commentary on the new coronavirus came before the virus began killing \npatients in the U.S..",
+      "htmlSnippet": "Mar 2, 2020 \u003cb\u003e...\u003c/b\u003e Trump&#39;s commentary on the new \u003cb\u003ecoronavirus\u003c/b\u003e came before the virus began killing \u003cbr\u003e\npatients in the U.S..",
+      "cacheId": "X-mMo6E6xmsJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/trump-coronavirus-rally-remark/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/trump-\u003cb\u003ecoronavirus\u003c/b\u003e-rally-remark/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY_26p5vaC3XZ3KKeHjTAoHKO4ZK7VkVftaFtheH353TCelYUDq_bdUrc",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2017/12/donald_trump_dec_2017_fb.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did President Trump Refer to the Coronavirus as a 'Hoax'?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did President Trump Refer to the Coronavirus as a 'Hoax'?",
+            "og:image:height": "627",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Trump's commentary on the new coronavirus came before the virus began killing patients in the U.S.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2017/12/donald_trump_dec_2017_fb.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2017/12/donald_trump_dec_2017_fb.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Trump's commentary on the new coronavirus came before the virus began killing patients in the U.S.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/trump-coronavirus-rally-remark/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2017/12/donald_trump_dec_2017_fb.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Was Charles Lieber Arrested for Selling the COVID-19 Coronavirus to",
+      "htmlTitle": "Was Charles Lieber Arrested for Selling the COVID-19 \u003cb\u003eCoronavirus\u003c/b\u003e to",
+      "link": "https://www.snopes.com/fact-check/charles-lieber-arrested-coronavirus/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Feb 18, 2020 ... The arrest of a Harvard professor fueled conspiracy theories about the COVID-19 \ncoronavirus disease outbreak in 2020.",
+      "htmlSnippet": "Feb 18, 2020 \u003cb\u003e...\u003c/b\u003e The arrest of a Harvard professor fueled conspiracy theories about the COVID-19 \u003cbr\u003e\n\u003cb\u003ecoronavirus\u003c/b\u003e disease outbreak in 2020.",
+      "cacheId": "NijBkq_QFEkJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/charles-lieber-arrested-coronavirus/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/charles-lieber-arrested-\u003cb\u003ecoronavirus\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUOf_HEKXYZDOXZBWBh-hZGLyLVvbLongO1gcGsgIT8jdCeZ32ISpd3OiB",
+            "width": "317",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg",
+            "og:type": "article",
+            "og:image:width": "900",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Was Charles Lieber Arrested for Selling the COVID-19 Coronavirus to China?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Was Charles Lieber Arrested for Selling the COVID-19 Coronavirus to China?",
+            "og:image:height": "453",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "The arrest of a Harvard professor fueled conspiracy theories about the COVID-19 coronavirus disease outbreak in 2020.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "The arrest of a Harvard professor fueled conspiracy theories about the COVID-19 coronavirus disease outbreak in 2020.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/charles-lieber-arrested-coronavirus/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/02/lieber_fb.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US Intel: Coronavirus Not Manmade, Still Studying Lab Theory",
+      "htmlTitle": "US Intel: \u003cb\u003eCoronavirus\u003c/b\u003e Not Manmade, Still Studying Lab Theory",
+      "link": "https://www.snopes.com/ap/2020/04/30/us-intel-coronavirus-not-manmade-still-studying-lab-theory/",
+      "displayLink": "www.snopes.com",
+      "snippet": "3 days ago ... U.S. intelligence agencies have concluded that the new coronavirus was “not \nmanmade or genetically modified” but say they are still examining ...",
+      "htmlSnippet": "3 days ago \u003cb\u003e...\u003c/b\u003e U.S. intelligence agencies have concluded that the new \u003cb\u003ecoronavirus\u003c/b\u003e was “not \u003cbr\u003e\nmanmade or genetically modified” but say they are still examining&nbsp;...",
+      "cacheId": "IBilgA9MlUcJ",
+      "formattedUrl": "https://www.snopes.com/.../us-intel-coronavirus-not-manmade-still-studying- lab-theory/",
+      "htmlFormattedUrl": "https://www.snopes.com/.../us-intel-\u003cb\u003ecoronavirus\u003c/b\u003e-not-manmade-still-studying- lab-theory/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlxuF-K6Fd5_maF1y_4eaH-H4p8HRfp_Oz3E0iIJLCK7lUxObI27G28FZO",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2017/08/lab_equipment_research_fb.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "US Intel: Coronavirus Not Manmade, Still Studying Lab Theory",
+            "og:site_name": "Snopes.com",
+            "og:title": "US Intel: Coronavirus Not Manmade, Still Studying Lab Theory",
+            "og:image:height": "627",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "U.S. intelligence agencies have concluded that the new coronavirus was “not manmade or genetically modified” but say they are still examining whether the origins of the pandemic trace to contact with infected animals or an accident at a Chinese lab.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2017/08/lab_equipment_research_fb.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2017/08/lab_equipment_research_fb.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "U.S. intelligence agencies have concluded that the new coronavirus was “not manmade or genetically modified” but say they are still examining whether the origins of the pandemic trace to contact with infected animals or an accident at a Chinese lab.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/ap/2020/04/30/us-intel-coronavirus-not-manmade-still-studying-lab-theory/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2017/08/lab_equipment_research_fb.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Large Retail Employees Have Been Victims of COVID-19 ...",
+      "htmlTitle": "Large Retail Employees Have Been Victims of COVID-19 ...",
+      "link": "https://www.factcheck.org/2020/05/large-retail-employees-have-been-victims-of-covid-19/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "2 days ago ... The coronavirus pandemic reached the grim milestone of more than 1 million \npeople in the U.S. who have been diagnosed with COVID-19 by ...",
+      "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e The \u003cb\u003ecoronavirus\u003c/b\u003e pandemic reached the grim milestone of more than 1 million \u003cbr\u003e\npeople in the U.S. who have been diagnosed with COVID-19 by&nbsp;...",
+      "cacheId": "sR5k2DaHkpQJ",
+      "formattedUrl": "https://www.factcheck.org/.../large-retail-employees-have-been-victims-of- covid-19/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../large-retail-employees-have-been-victims-of- covid-19/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4B5xgTL30R6Ti6S4iBx8GYPv5ka1D6olyX2bAFMFs0frWT70PnRzoqhS",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/Walmart.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-05-01T14:59:24+00:00",
+            "og:image:width": "200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Large Retail Employees Have Been Victims of COVID-19",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Large Retail Employees Have Been Victims of COVID-19",
+            "og:image:height": "200",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-05-01T16:14:04+00:00",
+            "og:description": "A viral post falsely claims Walmart, Amazon, Kroger, Target and Costco -- while staying open during the COVID-19 pandemic -- \"have not had any reported cases\" of employees contracting the coronavirus. There have been news reports across the U.S. of workers at those companies becoming infected or dying of the disease.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/Walmart.jpg",
+            "article:modified_time": "2020-05-01T16:14:04+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "A viral post falsely claims Walmart, Amazon, Kroger, Target and Costco -- while staying open during the COVID-19 pandemic -- \"have not had any reported cases\" of employees contracting the coronavirus. There have been news reports across the U.S. of workers at those companies becoming infected or dying of the disease.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/05/large-retail-employees-have-been-victims-of-covid-19/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/Walmart.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
