@@ -1,5 +1,5 @@
 <?php include("includes/a_config.php");?>
-<?php $CURRENT_PAGE = "Contact";?>
+<?php $CURRENT_PAGE = "Contant";?>
 <!DOCTYPE html>
 <html>
 <head>
