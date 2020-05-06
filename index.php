@@ -10,7 +10,6 @@
 
 
 <div class="container" id="main-content">
-	<h1 class="pb-4 pt-3">Fact-Checking Tool</h1>
 
 	<?php 
 	if (isset($_GET['search'])) {
@@ -20,7 +19,7 @@
 
 	<form class="" method="GET">
 		<div class="input-group">
-			<input class="form-control" type="text" name="search" placeholder="Paste a URL or type a question..."></input>
+			<input class="form-control" type="text" name="search" placeholder="Fact check a URL or type a question..."></input>
 		</div>
 		<div class="input-group p-3 ">
 			<button type="submit" class="btn btn-primary mx-auto">Submit</button>

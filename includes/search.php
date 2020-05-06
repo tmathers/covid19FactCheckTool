@@ -69,7 +69,7 @@ if ($isUrl) {
 
   echo "
   <h4><a href='$search'>$title</a></h4>
-  <h6>$search</h6>";
+  <!--<h6>$search</h6>-->";
 
   echo '
   <div class="card mb-4"><div class="card-body">
@@ -95,12 +95,10 @@ if ($isUrl) {
 
   echo '
     <dl class="row mb-0 pb-0">
-      <dt class="col-sm-3">Website:</dt>
       <dd class="col-sm-9"><a class="mb-0" href="http://'.$domain.'">'.$domain.'</a></dd>';
     // Display site reliability info from wikipedia
     if (isset($tldInfo)) { 
       echo '
-      <dt class="col-sm-3">Top Level Domain (TLD):</dt>
       <dd class="col-sm-9"><b>.'.$tld. '</b> ('.$tldInfo[0]. ') - ' . $tldInfo[1].'</a></dd>';
     }  
 
@@ -109,17 +107,15 @@ if ($isUrl) {
       $info = $siteInfoList->$domain;
 
       echo '
-          <dt class="col-sm-3">Site Name:</dt>
           <dd class="col-sm-9">'.$info->name.'</dd>
-          <dt class="col-sm-3">Reliability Index:</dt>
+
+          <dd class="col-sm-9"><h6>Wikipedia</h6></dd>
           <dd class="col-sm-9">'. $reliability[$info->rating]['emoji'] . ' ' . $reliability[$info->rating]['text'].'</dd>
-          <dt class="col-sm-3">Summary:</dt>
           <dd class="col-sm-9">'.$info->description.' [<a href="https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources">Wikipedia</a>]</dd>
       ';
     } else {
-      echo '<dt class="col-sm-3">Reliability Index:</dt>
-          <dd class="col-sm-9">'. $reliability['No consensus']['emoji'] . ' Use Caution</dd>
-          <dt class="col-sm-3">Summary:</dt>
+      echo '
+          <dd class="col-sm-9">'. $reliability['No consensus']['emoji'] . ' Unknown</dd>
           <dd class="col-sm-9">No additional info about this source.</dd>';
     }
     echo '

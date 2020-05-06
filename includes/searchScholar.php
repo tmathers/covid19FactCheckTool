@@ -76,6 +76,31 @@ function getScholarResults($encodedTerms, $useCached = true) {
     return $json;
 }
 
+var_dump(searchMediaBias("foxnews.com"));
+var_dump(searchMediaBias("asdfasdf"));
+
+/**
+ * Search media bias
+ */
+function searchMediaBias($domain) {
+
+    $scholarQuery = "https://mediabiasfactcheck.com/?s=$domain";
+
+    $doc = new DOMDocument();
+    @$doc->loadHTMLFile($scholarQuery);
+    $xpath = new DOMXpath($doc);
+
+    // get search results div
+    $biasNode = $xpath->query("//header[@class='loop-data']");
+    $descNode = $xpath->query("//div[@class='mh-excerpt']");
+
+    $bias = isset($biasNode[0]) ? trim($biasNode[0]->nodeValue) : "";
+    $desc = isset($descNode[0]) ? $descNode[0]->nodeValue : "";
+
+    return array('bias' => $bias, 'desc' => $desc);
+
+}
+
 /**
  * Get the inner HTML of the DOM Node
  */
