@@ -1,4 +1,4 @@
-<body style = "background-color: white;">
+<body style = "background-color: whitesmoke;">
 
 
 <div class="jumbotron" style="background:url(backgroundfooter.jpg)">
