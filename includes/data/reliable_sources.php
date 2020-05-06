@@ -3,9 +3,13 @@
 
 
 
-getReliableWebsites();
+//getReliableWebsites();
+
+    
 
 function getReliableWebsites() {
+
+    
 
     $doc = new DOMDocument();
     $link = "https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources";
@@ -20,6 +24,7 @@ function getReliableWebsites() {
 
     $keywords;
     $i = 0;
+    $skipped = 0;
     foreach ($trDOMs as $row) {
 
         //var_dump($row->nodeValue);
@@ -36,22 +41,39 @@ function getReliableWebsites() {
 */
         $ratingParts = explode("#", $ratingNode[0]->nodeValue);
         $rating = $ratingParts[count($ratingParts) - 1];
-        $name = trim(preg_replace('/\s+/', '', $nameNode[0]->nodeValue));
+        $name = trim(preg_replace('/\s+/', ' ', $nameNode[0]->nodeValue));
+        
         $url = urldecode($linkNode[0]->nodeValue);
+        $url = str_replace('"', '',($url));
+        $hostParts = explode(":", $url);
+        $host = $hostParts[count($hostParts) - 1];
 
-        $websites[$url] = array(
+        if (strlen($url) == 0) {
+            $skipped++;
+            continue;
+        }
+
+        $websites[$host] = array(
             "name" => $name,
             "rating" => $rating,
             "description" => $descriptionNode[0]->nodeValue
         );   
 
         $i++;
-
-        if ($i > 5) {
-             var_dump(json_encode($websites, JSON_PRETTY_PRINT));
-            return;
-        }
     }
 
+    error_log("Found $i websites");
+    error_log("Skipped $skipped websites");
+    $json = json_encode($websites, JSON_PRETTY_PRINT);
+
+    $path = "reliable_sources_list.json";
+    if (file_exists($path)) {
+        error_log("File exists, not overwriting");
+        return;
+    }
+
+    $cached = fopen($path, "w") or error_log("Unable to open file at $path");
+    fwrite($cached, $json);
+    fclose($cached);
 
 }

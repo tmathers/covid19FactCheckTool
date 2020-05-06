@@ -1,0 +1,1227 @@
+{
+    "112.ua": {
+        "name": "112 Ukraine",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, 112 Ukraine is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. 112 Ukraine was deprecated in the 2019 RfC, which showed overwhelming consensus that the TV channel is generally unreliable and sometimes broadcasts conspiracy theories and Russian propaganda, owing to it being bought out in December 2018 by Ukrainian parliament member Taras Kozak, who represents the Opposition Bloc political party. The use of 112 Ukraine as a reference should be generally prohibited, especially when other more reliable sources exist. 112 Ukraine should not be used for determining notability, or used as a secondary source in articles.\n"
+    },
+    "company-histories.com": {
+        "name": "Advameg (City-Data)",
+        "rating": "Blacklisted",
+        "description": "Advameg operates content farms, including City-Data, that use scraped or improperly licensed content. These sites frequently republish content from Gale's encyclopedias; many editors can obtain access to Gale through The Wikipedia Library free of charge. Advameg's sites are on the Wikipedia spam blacklist, and links must be whitelisted before they can be used.  WP:COPYLINK prohibits linking to copyright violations.\n"
+    },
+    "aljazeera.com": {
+        "name": "Al Jazeera (Al Jazeera English, Aljazeera.com)",
+        "rating": "Generally reliable",
+        "description": "Al Jazeera is considered a generally reliable news organization. Editors perceive Al Jazeera English (and Aljazeera.com) to be more reliable than Al Jazeera's Arabic-language news reporting. Some editors say that Al Jazeera, particularly its Arabic-language media, is a partisan source with respect to the Arab\u2013Israeli conflict. Al Jazeera's news blogs should be handled with the corresponding policy.\n"
+    },
+    "alternet.org": {
+        "name": "AlterNet",
+        "rating": "Generally unreliable",
+        "description": "There is consensus that AlterNet is generally unreliable. Editors consider AlterNet a partisan source, and its statements should be attributed. AlterNet's syndicated content should be evaluated by the reliability of its original publisher, and the citation should preferably point to the original publisher.\n"
+    },
+    "theamericanconservative.com": {
+        "name": "The American Conservative (TAC)",
+        "rating": "No consensus",
+        "description": "There is consensus that The American Conservative is a usable source for attributed opinions. As TAC is published by the American Ideas Institute, an advocacy organization, TAC is considered biased or opinionated.\n"
+    },
+    "aa.com.tr\/en": {
+        "name": "Anadolu Agency (controversial topics, international politics) (AA)",
+        "rating": "Generally unreliable",
+        "description": "In the 2019 RfC, editors generally agreed that Anadolu Agency is generally unreliable for topics that are controversial or related to international politics. See also: Anadolu Agency (general topics).\n"
+    },
+    "ancestry.com": {
+        "name": "Ancestry.comWP:ANCESTRY.COM\u00a0\ud83d\udccc",
+        "rating": "Generally unreliable",
+        "description": "Ancestry.com is a genealogy site that hosts a database of primary source documents including marriage and census records. Some of these sources may be usable under WP:BLPPRIMARY, but secondary sources, where available, are usually preferred. Ancestry.com also hosts user-generated content, which is unreliable.\n"
+    },
+    "answers.com": {
+        "name": "Answers.com (WikiAnswers)",
+        "rating": "Generally unreliable",
+        "description": "Answers.com (previously known as WikiAnswers) is a Q&A site that incorporates user-generated content. In the past, Answers.com republished excerpts and summaries of tertiary sources, including D&B Hoovers, Gale, and HighBeam Research. Citations of republished content on Answers.com should point to the original source, with a note that the source was accessed \"via Answers.com\". Answers.com also previously served as a Wikipedia mirror; using republished Wikipedia content is considered circular sourcing.\n"
+    },
+    "arabnews.com": {
+        "name": "Arab News",
+        "rating": "No consensus",
+        "description": "There is consensus that Arab News is a usable source for topics unrelated to the Saudi Arabian government. As Arab News is closely associated with the Saudi Arabian government and is published in a country with low press freedom, editors consider Arab News biased and non-independent for Saudi Arabian politics, and recommend attribution for its coverage in this area. Some editors consider Arab News unreliable for matters related to the Saudi Arabian government.\n"
+    },
+    "arstechnica.com": {
+        "name": "Ars Technica",
+        "rating": "Generally reliable",
+        "description": "Ars Technica is considered generally reliable for science- and technology-related articles.\n"
+    },
+    "arxiv.org": {
+        "name": "arXiv",
+        "rating": "Generally unreliable",
+        "description": "arXiv is a preprint (and sometimes postprint) repository containing papers that have undergone moderation, but not necessarily peer review. There is consensus that arXiv is a self-published source, and is generally unreliable with the exception of papers authored by established subject-matter experts. Verify whether a paper on arXiv is also published in a peer-reviewed academic journal; in these cases, cite the more reliable journal and provide an open access link to the paper (which may be hosted on arXiv).\n"
+    },
+    "askmen.com": {
+        "name": "AskMen",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of AskMen. See also: IGN.\n"
+    },
+    "ap.org": {
+        "name": "Associated Press (AP)",
+        "rating": "Generally reliable",
+        "description": "The Associated Press is a news agency. There is consensus that the Associated Press is generally reliable. Syndicated reports from the Associated Press that are published in other sources are also considered generally reliable.\n"
+    },
+    "theatlantic.com": {
+        "name": "The Atlantic (The Atlantic Monthly)",
+        "rating": "Generally reliable",
+        "description": "The Atlantic is considered generally reliable.\n"
+    },
+    "avclub.com": {
+        "name": "The A.V. Club",
+        "rating": "Generally reliable",
+        "description": "The A.V. Club is considered generally reliable for film, music and TV reviews.\n"
+    },
+    "baike.baidu.com": {
+        "name": "Baidu Baike",
+        "rating": "Generally unreliable",
+        "description": "Baidu Baike is considered generally unreliable because it is similar to an open wiki, which is a type of self-published source. Although edits are reviewed by Baidu administrators before they are published, most editors believe the editorial standards of Baidu Baike to be very low, and do not see any evidence of fact-checking. The Baidu 10 Mythical Creatures kuso originated from Baidu Baike.\n"
+    },
+    "ballotpedia.org": {
+        "name": "Ballotpedia",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Ballotpedia. The site has an editorial team and accepts error corrections, but some editors do not express strong confidence in the site's editorial process. Discussions indicate that Ballotpedia used to be an open wiki, but stopped accepting user-generated content at some point. Currently, the site claims: \"Ballotpedia's articles are 100 percent written by our professional staff of more than 50 writers and researchers.\"[1]\n"
+    },
+    "bbc.co.uk": {
+        "name": "BBC (British Broadcasting Corporation)",
+        "rating": "Generally reliable",
+        "description": "BBC is considered generally reliable. This includes BBC News, BBC documentaries, and the BBC History site (on BBC Online). However, this excludes BBC projects that incorporate user-generated content (such as h2g2 and the BBC Domesday Project) and BBC publications with reduced editorial oversight (such as Collective). Statements of opinion should conform to the corresponding guideline.\n"
+    },
+    "bellingcat.com": {
+        "name": "Bellingcat",
+        "rating": "Generally reliable",
+        "description": "There is consensus that Bellingcat is generally reliable for news and should preferably be used with attribution. Some editors consider Bellingcat a biased source, as it receives funding from the National Endowment for Democracy.\n"
+    },
+    "bild.de": {
+        "name": "Bild",
+        "rating": "Generally unreliable",
+        "description": "Bild is a tabloid that has been unfavourably compared to The Sun. A few editors consider the source usable in some cases.\n"
+    },
+    "biography.com": {
+        "name": "Biography.com",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Biography.com. Some editors consider the source reliable because of its backing from A&E Networks and references to the website in news media. Others point to discrepancies between information on Biography.com and on more established sources, and an unclear fact-checking process.\n"
+    },
+    "theblaze.com": {
+        "name": "Blaze Media (BlazeTV, Conservative Review, CRTV, TheBlaze)",
+        "rating": "Generally unreliable",
+        "description": "Blaze Media (including TheBlaze) is considered generally unreliable for facts. In some cases, it may be usable for attributed opinions. In 2018, TheBlaze merged with Conservative Review (CRTV) to form Blaze Media.[2]\n"
+    },
+    "blogspot.com": {
+        "name": "Blogger (blogspot.com)",
+        "rating": "Generally unreliable",
+        "description": "Blogger is a blog hosting service that owns the blogspot.com domain. As a self-published source, it is considered generally unreliable and should be avoided unless the author is a subject-matter expert or the blog is used for uncontroversial self-descriptions. Blogger blogs published by a media organization should be evaluated by the reliability of the organization. Newspaper blogs hosted using Blogger should be handled with WP:NEWSBLOG. Blogger should never be used for third-party claims related to living persons; this includes interviews, as even those cannot be authenticated.\n"
+    },
+    "bloomberg.com": {
+        "name": "Bloomberg profiles",
+        "rating": "No consensus",
+        "description": "Bloomberg company and executive profiles are generally considered to be based on company press releases and should only be used as a source for uncontroversial information. There is consensus that these profiles should not be used to establish notability. Some editors consider these profiles to be akin to self-published sources. See also: Bloomberg.\n"
+    },
+    "boingboing.net": {
+        "name": "Boing Boing",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Boing Boing. Although Boing Boing is a group blog, some of its articles are written by subject-matter experts such as Cory Doctorow, who is considered generally reliable for copyright law.\n"
+    },
+    "breitbart.com": {
+        "name": "Breitbart NewsWP:BREITBART\u00a0\ud83d\udccc",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, Breitbart News is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. The site has published a number of falsehoods, conspiracy theories, and intentionally misleading stories. The 2018 RfC showed a very clear consensus that Breitbart News should be deprecated in the same way as the Daily Mail. This does not mean Breitbart News can no longer be used, but it should not be used, ever, as a reference for facts, due to its unreliability. It can still be used as a primary source when attributing opinions, viewpoints, and commentary.\n"
+    },
+    "businessinsider.com": {
+        "name": "Business Insider (Insider, Markets Insider, Tech Insider)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Business Insider. The site's syndicated content, which may not be clearly marked, should be evaluated by the reliability of its original publisher.\n"
+    },
+    "bustle.com": {
+        "name": "Bustle",
+        "rating": "No consensus",
+        "description": "There is consensus that the reliability of Bustle is unclear and that its reliability should be decided on an instance by instance basis. Editors noted that it has an editorial policy and that it will issue retractions. Editors also noted previous issues it had around reliability and that its content is written by freelance writers \u2013 though there is no consensus on whether this model affects their reliability.\n"
+    },
+    "buzzfeed.com": {
+        "name": "BuzzFeed",
+        "rating": "No consensus",
+        "description": "Editors find the quality of BuzzFeed articles to be highly inconsistent. A 2014 study from the Pew Research Center found BuzzFeed to be the least trusted news source in America.[3] BuzzFeed may use A\/B testing for new articles, which may cause article content to change.[4] BuzzFeed operates a separate news division, BuzzFeed News, which has higher editorial standards and is now hosted on a different website. See also: BuzzFeed News.\n"
+    },
+    "buzzfeednews.com": {
+        "name": "BuzzFeed News",
+        "rating": "Generally reliable",
+        "description": "There is consensus that BuzzFeed News is generally reliable. BuzzFeed News now operates separately from BuzzFeed, and most news content originally hosted on BuzzFeed was moved to the BuzzFeed News website in 2018.[5] In light of the staff layoffs at BuzzFeed in January 2019, some editors recommend exercising  more caution for BuzzFeed News articles published after this date. The site's opinion pieces should be handled with WP:RSOPINION. See also: BuzzFeed.\n"
+    },
+    "cato.org": {
+        "name": "Cato Institute",
+        "rating": "No consensus",
+        "description": "The Cato Institute is considered generally reliable for its opinion. Some editors consider the Cato Institute an authoritative source on libertarianism in the United States. There is no consensus on whether it is generally reliable on other topics. Most editors consider the Cato Institute biased or opinionated, so its uses should be attributed.\n"
+    },
+    "celebritynetworth.com": {
+        "name": "CelebrityNetWorth",
+        "rating": "Generally unreliable",
+        "description": "There is consensus that CelebrityNetWorth is generally unreliable. CelebrityNetWorth does not disclose its methodology, and its accuracy has been criticized by The New York Times.[6]\n"
+    },
+    "cepr.net": {
+        "name": "Center for Economic and Policy Research (CEPR)",
+        "rating": "No consensus",
+        "description": "The Center for Economic and Policy Research is an economic policy think tank. Though its articles are regularly written by subject-matter experts in economics and are frequently cited by reliable sources, most editors consider the CEPR biased or opinionated, so its uses should be attributed.\n"
+    },
+    "globalresearch.ca": {
+        "name": "Centre for Research on Globalization (CRG, Global Research, globalresearch.ca)",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, Global Research is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. The Centre for Research on Globalization is the organization that operates the Global Research website (globalresearch.ca, not to be confused with GlobalSecurity.org). The CRG is considered generally unreliable due to its propagation of conspiracy theories and lack of editorial oversight. It is biased or opinionated, and its content is likely to constitute undue weight. As it often covers fringe material, parity of sources should be considered.\n"
+    },
+    "cesnur.net": {
+        "name": "CESNUR (Center for Studies on New Religions, Centro Studi sulle Nuove Religioni)",
+        "rating": "Generally unreliable",
+        "description": "CESNUR is an apologia site for new religious movements, and thus is inherently unreliable in its core area due to conflicts of interest. There is also consensus that its content is unreliable on its own merits.\n"
+    },
+    "csmonitor.com": {
+        "name": "The Christian Science Monitor (CSM, CS Monitor)",
+        "rating": "Generally reliable",
+        "description": "The Christian Science Monitor is considered generally reliable for news.\n"
+    },
+    "cliffsnotes.com": {
+        "name": "CliffsNotes",
+        "rating": "No consensus",
+        "description": "CliffsNotes is a study guide. Editors consider CliffsNotes usable for superficial analyses of literature, and recommend supplementing CliffsNotes citations with additional sources.\n"
+    },
+    "climatefeedback.org": {
+        "name": "Climate Feedback",
+        "rating": "Generally reliable",
+        "description": "Climate Feedback is a fact-checking website that is considered generally reliable for topics related to climate change. It discloses its methodologies, is certified by the International Fact-Checking Network, and has been endorsed by other reliable sources. Most editors do not consider Climate Feedback a self-published source due to its high reviewer requirements.\n"
+    },
+    "cnet.com": {
+        "name": "CNET (Computer Network)",
+        "rating": "Generally reliable",
+        "description": "CNET is considered generally reliable for technology-related articles.\n"
+    },
+    "cnn.com": {
+        "name": "CNN (Cable News Network)",
+        "rating": "Generally reliable",
+        "description": "There is consensus that news broadcast or published by CNN is generally reliable. However, iReport consists solely of user-generated content, and talk show content should be treated as opinion pieces. Some editors consider CNN somewhat biased, though not to the extent that it affects reliability.\n"
+    },
+    "cnsnews.com": {
+        "name": "CNSNews.com (Cybercast News Service)",
+        "rating": "Generally unreliable",
+        "description": "In the 2019 RfC, editors expressed a unanimous consensus that CNSNews.com is generally unreliable for factual reporting. See also: Media Research Center.\n"
+    },
+    "coindesk.com": {
+        "name": "CoinDesk",
+        "rating": "Generally unreliable",
+        "description": "There is consensus that CoinDesk should not be used to establish notability for article topics, and that it should be avoided in favor of more mainstream sources. Check CoinDesk articles for conflict of interest disclosures, and verify whether their parent company (Digital Currency Group) has an ownership stake in a company covered by CoinDesk.[7]\n"
+    },
+    "theconversation.com": {
+        "name": "The Conversation",
+        "rating": "Generally reliable",
+        "description": "The Conversation publishes articles from academics who are subject-matter experts. It is generally reliable for subjects in the authors' areas of expertise. Opinions published in The Conversation should be handled with WP:RSOPINION.\n"
+    },
+    "cosmopolitan.com": {
+        "name": "Cosmopolitan",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Cosmopolitan. It is generally regarded as a situational source, which means context is important. The treatment of Cosmopolitan as a source should be decided on a case-by-case basis, depending on the article and the information to be verified.\n"
+    },
+    "counterpunch.org": {
+        "name": "CounterPunch",
+        "rating": "No consensus",
+        "description": "There is no consensus regarding the reliability of CounterPunch. As a biased or opinionated source, its statements should be attributed.\n"
+    },
+    "cracked.com": {
+        "name": "Cracked.com",
+        "rating": "Generally unreliable",
+        "description": "Cracked.com is a humor website. There is consensus that Cracked.com is generally unreliable. When Cracked.com cites another source for an article, it is preferable for editors to cite that source instead.\n"
+    },
+    "crunchbase.com": {
+        "name": "Crunchbase",
+        "rating": "Deprecated",
+        "description": "In the 2019 RfC, there was consensus to deprecate Crunchbase, but also to continue allowing external links to the website. A significant proportion of Crunchbase's data is user-generated content.\n"
+    },
+    "thedailybeast.com": {
+        "name": "The Daily Beast",
+        "rating": "Generally reliable",
+        "description": "The Daily Beast is considered generally reliable for news. Most editors consider The Daily Beast a biased or opinionated source. Some editors advise caution when using this source for controversial statements of fact related to living persons.\n"
+    },
+    "dailycaller.com": {
+        "name": "The Daily Caller",
+        "rating": "Deprecated",
+        "description": "The Daily Caller was deprecated in the 2019 RfC, which showed consensus that the site publishes false or fabricated information.\n"
+    },
+    "dailydot.com": {
+        "name": "The Daily Dot",
+        "rating": "Generally reliable",
+        "description": "The Daily Dot is considered generally reliable for Internet culture. Consider whether content from this publication constitutes due weight before citing it in an article.\n"
+    },
+    "express.co.uk": {
+        "name": "Daily Express",
+        "rating": "Generally unreliable",
+        "description": "The Daily Express is a tabloid with a number of similarities to the Daily Mail.\n"
+    },
+    "dailykos.com": {
+        "name": "Daily Kos",
+        "rating": "Generally unreliable",
+        "description": "There is consensus that Daily Kos should generally be avoided as a source, especially for controversial political topics where better sources are available. As an activism blog that publishes user-generated content with a progressive point of view, many editors consider Daily Kos to inappropriately blur news reporting and opinion.\n"
+    },
+    "mirror.co.uk": {
+        "name": "Daily Mirror",
+        "rating": "No consensus",
+        "description": "The Daily Mirror is a tabloid newspaper that publishes tabloid journalism. There is no consensus on whether its reliability is comparable to other British tabloids, such as the Daily Mail or The Sun.\n"
+    },
+    "dailystar.co.uk": {
+        "name": "Daily Star (UK)",
+        "rating": "Generally unreliable",
+        "description": "The Daily Star is a tabloid that is generally considered less reliable than the Daily Mail.\n"
+    },
+    "telegraph.co.uk": {
+        "name": "The Daily Telegraph (The Telegraph)",
+        "rating": "Generally reliable",
+        "description": "There is consensus that The Daily Telegraph (also known as The Telegraph) is generally reliable. Some editors believe that The Daily Telegraph is biased or opinionated for politics.\n"
+    },
+    "dailywire.com": {
+        "name": "The Daily Wire",
+        "rating": "Generally unreliable",
+        "description": "There is a strong consensus that The Daily Wire is generally unreliable for factual reporting. Detractors note the site's tendency to share stories that are taken out of context or are improperly verified.[8][9]\n"
+    },
+    "deadline.com": {
+        "name": "Deadline Hollywood",
+        "rating": "Generally reliable",
+        "description": "Deadline Hollywood is considered generally reliable for entertainment-related articles.\n"
+    },
+    "democracynow.org": {
+        "name": "Democracy Now!",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Democracy Now!. Most editors consider Democracy Now! a partisan source whose statements should be attributed. Syndicated content published by Democracy Now! should be evaluated by the reliability of its original publisher.\n"
+    },
+    "deseretnews.com": {
+        "name": "Deseret News",
+        "rating": "Generally reliable",
+        "description": "The Deseret News is considered generally reliable for local news. It is owned by a subsidiary of The Church of Jesus Christ of Latter-day Saints, and there is no consensus on whether the Deseret News is independent of the LDS Church. The publication's statements on topics regarding the LDS Church should be attributed. The Deseret News includes a supplement, the Church News, which is considered a primary source as an official publication of the LDS Church.\n"
+    },
+    "digitalspy.co.uk": {
+        "name": "Digital Spy",
+        "rating": "Generally reliable",
+        "description": "There is consensus that Digital Spy is generally reliable for entertainment and popular culture. Consider whether the information from this source constitutes due or undue weight.\n"
+    },
+    "discogs.com": {
+        "name": "Discogs",
+        "rating": "Generally unreliable",
+        "description": "The content on Discogs is user-generated, and is therefore generally unreliable. There was consensus against deprecating Discogs in a 2019 RfC, as editors noted that external links to the site may be appropriate.\n"
+    },
+    "eonline.com": {
+        "name": "E! (E! News, E! Online, Entertainment Television)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of the E! television network, including its website E! Online. It is generally regarded as usable for celebrity news. Consider whether the information from this source constitutes due or undue weight, especially when the subject is a living person.\n"
+    },
+    "economist.com": {
+        "name": "The Economist",
+        "rating": "Generally reliable",
+        "description": "Most editors consider The Economist generally reliable. The Economist publishes magazine blogs and opinion pieces, which should be handled with the respective guidelines.\n"
+    },
+    "electronicintifada.net": {
+        "name": "The Electronic Intifada (EI)",
+        "rating": "Generally unreliable",
+        "description": "There is consensus that The Electronic Intifada is generally unreliable with respect to its reputation for accuracy, fact-checking, and error-correction. Almost all editors consider The Electronic Intifada a biased and opinionated source, so their statements should be attributed.\n"
+    },
+    "britannica.com": {
+        "name": "Encyclop\u00e6dia Britannica (Encyclop\u00e6dia Britannica Online)",
+        "rating": "No consensus",
+        "description": "The Encyclop\u00e6dia Britannica (including its online edition, Encyclop\u00e6dia Britannica Online) is a tertiary source with a strong reputation for fact-checking and accuracy. Most editors prefer reliable secondary sources over the Encyclop\u00e6dia Britannica when available. In January 2009, the Encyclop\u00e6dia Britannica Online began accepting content submissions from the general public.[12] Although these submissions undergo the encyclopedia's editorial process, some editors believe that content from non-staff contributors is less reliable than the encyclopedia's staff-authored content. Content authorship is disclosed in the article history.\n"
+    },
+    "engadget.com": {
+        "name": "Engadget",
+        "rating": "Generally reliable",
+        "description": "Engadget is considered generally reliable for technology-related articles.\n"
+    },
+    "ew.com": {
+        "name": "Entertainment Weekly (EW)",
+        "rating": "Generally reliable",
+        "description": "Entertainment Weekly is considered generally reliable for entertainment-related articles. There is no consensus on whether it is reliable for other topics.\n"
+    },
+    "theepochtimes.com": {
+        "name": "The Epoch Times",
+        "rating": "Deprecated",
+        "description": "The Epoch Times was deprecated in the 2019 RfC. Most editors classify The Epoch Times as an advocacy group for the Falun Gong, and consider the publication a biased or opinionated source that frequently publishes conspiracy theories. As is the case with Breitbart News and Occupy Democrats, this does not mean that The Epoch Times can no longer be used, just that it can never again be used as a reference for facts.\n"
+    },
+    "standard.co.uk": {
+        "name": "Evening Standard (London Evening Standard)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of the Evening Standard. Despite being a free newspaper, it is generally considered more reliable than most British tabloids and middle-market newspapers.\n"
+    },
+    "examiner.com": {
+        "name": "Examiner.com",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, Examiner.com is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. Examiner.com is considered a self-published source, as it has minimal editorial oversight. Most editors believe the site has a poor reputation for accuracy and fact-checking. Prior to 2004, the examiner.com domain was used by The San Francisco Examiner, which has moved to a different domain. Examiner.com was shut down in 2016.\n"
+    },
+    "facebook.com": {
+        "name": "Facebook",
+        "rating": "Generally unreliable",
+        "description": "Facebook is considered generally unreliable because it is a self-published source with no editorial oversight.\n"
+    },
+    "fair.org": {
+        "name": "Fairness and Accuracy in Reporting (FAIR)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Fairness and Accuracy in Reporting. However, there is strong consensus that publications from FAIR should not be used to support exceptional claims regarding living persons. Most editors consider FAIR a biased or opinionated source whose statements should be attributed and generally treated as opinions.\n"
+    },
+    "familysearch.org": {
+        "name": "FamilySearch",
+        "rating": "Generally unreliable",
+        "description": "FamilySearch operates a genealogy site that incorporates a large amount of user-generated content. Editors see no evidence that FamilySearch performs fact-checking, and believe that the site has a questionable reputation for accuracy. FamilySearch also hosts primary source documents, such as birth certificates, which may be usable in limited situations. When using primary source documents from FamilySearch, follow WP:BLPPRIMARY and avoid interpreting them with original research.\n"
+    },
+    "famousbirthdays.com": {
+        "name": "Famous Birthdays",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, Famous Birthdays is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. There is consensus that Famous Birthdays is generally unreliable. Famous Birthdays does not provide sources for its content, claim to have an editorial team, or claim to perform fact-checking. Do not use this site for information regarding living persons.\n"
+    },
+    "fandom.com": {
+        "name": "Fandom (Wikia, Wikicities)",
+        "rating": "Generally unreliable",
+        "description": "Fandom (formerly Wikia and Wikicities) is considered generally unreliable because open wikis are self-published sources. Although citing Wikia as a source is against policy, copying Fandom content into Wikipedia is permissible if it is published under a compatible license (some wikis may use licenses like CC BY-NC and CC BY-NC-ND, which are incompatible). Use the {{Wikia content}} template to provide the necessary attribution in these cases, and ensure the article meets Wikipedia's policies and guidelines after copying.\n"
+    },
+    "ft.com": {
+        "name": "Financial Times",
+        "rating": "Generally reliable",
+        "description": "The Financial Times is considered generally reliable.\n"
+    },
+    "findagrave.com": {
+        "name": "Find a Grave",
+        "rating": "Generally unreliable",
+        "description": "The content on Find a Grave is user-generated,[13] and is therefore considered generally unreliable. Links to Find a Grave may sometimes be included in the external links section of articles, when the site offers valuable additional content, such as images not permitted for use on Wikipedia. Use care that the Find a Grave page does not itself contain prohibited content, such as copyright violations.\n"
+    },
+    "findmypast.co.uk": {
+        "name": "Findmypast",
+        "rating": "Generally unreliable",
+        "description": "Findmypast is a genealogy site that hosts transcribed primary source documents, which is covered under WP:BLPPRIMARY. The site's birth and death certificate records include the event's date of registration, not the date of the event itself. Editors caution against interpreting the documents with original research and note that the transcription process may introduce errors. Findmypast also hosts user-generated family trees, which are unreliable. The Wikipedia Library previously offered access to Findmypast.\n"
+    },
+    "forbes.com": {
+        "name": "Forbes.com contributors",
+        "rating": "Generally unreliable",
+        "description": "Most content on Forbes.com is written by contributors with minimal editorial oversight, and is generally unreliable. Editors show consensus for treating Forbes.com contributor articles as self-published sources, unless the article was written by a subject-matter expert. Forbes.com contributor articles should never be used for third-party claims about living persons. Articles that have also been published in the print edition of Forbes are excluded, and are considered generally reliable. Check the byline to determine whether an article is written by \"Forbes Staff\" or a \"Contributor\", and check underneath the byline to see whether it was published in a print issue of Forbes. Previously, Forbes.com contributor articles could have been identified by their URL beginning in \"forbes.com\/sites\"; the URL no longer distinguishes them, as Forbes staff articles have also been moved under \"\/sites\". See also: Forbes.\n"
+    },
+    "foxnews.com": {
+        "name": "Fox News (talk shows)",
+        "rating": "No consensus",
+        "description": "Fox News talk shows are produced by their Programming department. Shows include Hannity, Tucker Carlson Tonight, The Ingraham Angle, and Fox & Friends. Content from these shows is equivalent to opinion pieces and should be handled with the appropriate guideline. Statements from these shows should be attributed. See also: Fox News (news and website).\n"
+    },
+    "thegatewaypundit.com": {
+        "name": "The Gateway Pundit",
+        "rating": "Deprecated",
+        "description": "The Gateway Pundit was deprecated in the 2019 RfC, which showed consensus that the site is unacceptable as a source. It is unreliable for statements of fact, and given to publishing hoax articles and reporting conspiracy theories as fact.\n"
+    },
+    "gawker.com": {
+        "name": "Gawker",
+        "rating": "Generally unreliable",
+        "description": "Gawker is an inactive gossip blog that frequently published articles on rumors and speculation without named authors. When Gawker is the only source for a piece of information, the information would likely constitute undue weight, especially when the subject is a living person. When another reliable source quotes information from Gawker, it is preferable to cite that source instead. In the 2019 RfC, there was no consensus on whether Gawker should be deprecated.\n"
+    },
+    "geni.com": {
+        "name": "Geni.com",
+        "rating": "Generally unreliable",
+        "description": "Geni.com is a genealogy site that is considered generally unreliable because it is an open wiki, which is a type of self-published source. Primary source documents from Geni.com may be usable under WP:BLPPRIMARY to support reliable secondary sources, but avoid interpreting them with original research.\n"
+    },
+    "genius.com": {
+        "name": "Genius (Rap Genius)",
+        "rating": "No consensus",
+        "description": "Song lyrics, annotations and descriptions on Genius are mostly user-generated content and are thus generally unreliable. There is no consensus on the reliability of articles, interviews and videos produced by Genius. Verified commentary from musicians fall under WP:BLPSELFPUB, and usage of such commentary should conform to that policy.\n"
+    },
+    "globaltimes.cn": {
+        "name": "Global Times (Huanqiu Shibao)",
+        "rating": "No consensus",
+        "description": "The Global Times is a tabloid operated under the People's Daily and owned by the Central Committee of the Communist Party of China. There is no consensus on the reliability of the Global Times. It is a biased or opinionated source. Although the Global Times is a state-owned publication, its statements are not necessarily representative of China's official positions, and should be attributed to the Global Times itself, not to the Chinese government.\n"
+    },
+    "globalsecurity.org": {
+        "name": "GlobalSecurity.org",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of GlobalSecurity.org. It is not to be confused with globalresearch.ca.\n"
+    },
+    "goodreads.com": {
+        "name": "Goodreads",
+        "rating": "Generally unreliable",
+        "description": "Goodreads is a social cataloging site comprising user-generated content. As a self-published source, Goodreads is considered generally unreliable.\n"
+    },
+    "maps.google.com": {
+        "name": "Google Maps (Google Street View)",
+        "rating": "No consensus",
+        "description": "Google Maps and Google Street View may be useful for some purposes, including finding and verifying geographic coordinates and other basic information like street names. However, especially for objects like boundaries (of neighborhoods, allotments, etc.), where other reliable sources are available they should be treated preferentially to Google Maps and Google Street View. It can also be difficult or impossible to determine the veracity of past citations, since Google Maps data is not publicly archived, and may be removed or replaced as soon as it is not current. Inferring information solely from Street View pictures may be considered original research. Note that due to restrictions on geographic data in China, OpenStreetMap coordinates for places in mainland China are almost always much more accurate than Google's \u2013 despite OpenStreetMap being user-generated \u2013 due to the severe distortion introduced by most commercial map providers. (References, in any case, are usually not required for geographic coordinates.)\n"
+    },
+    "thegrayzone.com": {
+        "name": "The Grayzone",
+        "rating": "Deprecated",
+        "description": "The Grayzone was deprecated in the 2020 RfC. There is consensus that The Grayzone publishes false or fabricated information. Some editors describe The Grayzone as Max Blumenthal's blog, and question the website's editorial oversight.\n"
+    },
+    "thegreenpapers.com": {
+        "name": "The Green Papers",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of The Green Papers. As a self-published source that publishes United States election results, some editors question the site's editorial oversight.\n"
+    },
+    "theguardian.com": {
+        "name": "The Guardian blogs",
+        "rating": "No consensus",
+        "description": "Most editors say that The Guardian blogs should be treated as newspaper blogs or opinion pieces due to reduced editorial oversight. Check the bottom of the article for a \"blogposts\" tag to determine whether the page is a blog post or a non-blog article. See also: The Guardian.\n"
+    },
+    "order-order.com": {
+        "name": "Guido Fawkes",
+        "rating": "Generally unreliable",
+        "description": "The Guido Fawkes website (order-order.com) is considered generally unreliable because it is a self-published blog. It may be used for uncontroversial descriptions of itself and its own content according to WP:ABOUTSELF, but not for claims related to living persons.\n"
+    },
+    "haaretz.com": {
+        "name": "Haaretz (\u1e24adashot Ha'aretz)",
+        "rating": "Generally reliable",
+        "description": "Haaretz is considered generally reliable. Some editors believe that Haaretz reports with a political slant, particularly with respect to the Arab\u2013Israeli conflict, which makes it biased or opinionated. The publication's opinion pieces should be handled with the appropriate guideline.\n"
+    },
+    "heatst.com": {
+        "name": "Heat Street",
+        "rating": "Generally unreliable",
+        "description": "Although Heat Street was owned by Dow Jones & Company, a usually reputable publisher, many editors note that Heat Street does not clearly differentiate between its news articles and opinion. There is a consensus that Heat Street is a partisan source. Some editors consider Heat Street's opinion pieces and news articles written by its staff to be usable with attribution, though due weight must be considered because Heat Street covers many political topics not as talked about in higher-profile sources.\n"
+    },
+    "heavy.com": {
+        "name": "Heavy.com",
+        "rating": "No consensus",
+        "description": "There is consensus that Heavy.com should not be relied upon for any serious or contentious statements, including dates of birth. When Heavy.com cites another source for their own article, it is preferable to cite the original source instead.\n"
+    },
+    "thehill.com": {
+        "name": "The Hill",
+        "rating": "Generally reliable",
+        "description": "The Hill is considered generally reliable for American politics. The publication's opinion pieces should be handled with the appropriate guideline. The publication's contributor pieces, labeled in their bylines, receive minimal editorial oversight and should be treated as equivalent to self-published sources.\n"
+    },
+    "hispantv.com": {
+        "name": "HispanTV",
+        "rating": "Deprecated",
+        "description": "HispanTV was deprecated in the 2019 RfC, which showed overwhelming consensus that the TV channel is generally unreliable and sometimes broadcasts outright fabrications. Editors listed multiple examples of HispanTV broadcasting conspiracy theories and Iranian propaganda.\n"
+    },
+    "hollywoodreporter.com": {
+        "name": "The Hollywood Reporter (THR)",
+        "rating": "Generally reliable",
+        "description": "There is consensus that The Hollywood Reporter is generally reliable for entertainment-related topics, including its articles and reviews on film, TV and music, as well as its box office figures.\n"
+    },
+    "hopenothate.org.uk": {
+        "name": "Hope not Hate (Searchlight)",
+        "rating": "No consensus",
+        "description": "Most commenters declined to make a general statement about publications from Hope not Hate. Reliability should be assessed on a case by case basis, while taking context into account. Because they are an advocacy group, they are a biased and opinionated source and their statements should be attributed.\n"
+    },
+    "humanevents.com": {
+        "name": "Human Events",
+        "rating": "No consensus",
+        "description": "Editors consider Human Events biased or opinionated, and its statements should be attributed. In May 2019, a former editor-in-chief of Breitbart News became the editor-in-chief of Human Events; articles published after the leadership change are considered generally unreliable. There is no consensus on the reliability of Human Events's older content.\n"
+    },
+    "idolator.com": {
+        "name": "Idolator",
+        "rating": "Generally reliable",
+        "description": "There is consensus that Idolator is generally reliable for popular music. Consider whether content from this publication constitutes due weight before citing it in an article.\n"
+    },
+    "ign.com": {
+        "name": "IGN (Imagine Games Network)",
+        "rating": "Generally reliable",
+        "description": "There is consensus that IGN is generally reliable for entertainment and popular culture, as well as for film and video game reviews given that attribution is provided. Consider whether the information from this source constitutes due weight before citing it in an article. In addition, articles written by N-Sider are generally unreliable as this particular group of journalists have been found to fabricate articles and pass off speculation as fact. The site's blogs should be handled with WP:RSBLOG. See also: AskMen.\n"
+    },
+    "imdb.com": {
+        "name": "IMDb (Internet Movie Database)",
+        "rating": "Generally unreliable",
+        "description": "The content on IMDb is user-generated, and the site is considered unreliable by a majority of editors. WP:Citing IMDb describes two exceptions, both of which do not require citations because the film itself is implied to be the primary source. Although certain content on the site is reviewed by staff, editors criticize the quality of IMDb's fact-checking. A number of editors have pointed out that IMDb content has been copied from other sites, including Wikipedia, and that there have been a number of notable hoaxes in the past. The use of IMDb as an external link is generally considered appropriate (see WP:ELP).\n"
+    },
+    "independent.co.uk": {
+        "name": "The Independent",
+        "rating": "Generally reliable",
+        "description": "The Independent, a British newspaper, is considered a reliable source for non-specialist information. In March 2016, the publication discontinued its print edition to become an online newspaper; some editors advise caution for articles published after this date.\n"
+    },
+    "ijr.com": {
+        "name": "Independent Journal Review (IJR)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of the Independent Journal Review. Posts from \"community\" members are considered self-published sources. The site's \"news\" section consists mostly of syndicated stories from Reuters, and citations of these stories should preferably point to Reuters.\n"
+    },
+    "ipsnews.net": {
+        "name": "Inter Press Service (IPS)",
+        "rating": "Generally reliable",
+        "description": "The Inter Press Service is a news agency. There is consensus that the Inter Press Service is generally reliable for news.\n"
+    },
+    "theintercept.com": {
+        "name": "The Intercept",
+        "rating": "Generally reliable",
+        "description": "There is consensus that The Intercept is generally reliable for news. Almost all editors consider The Intercept a biased source, so uses may need to be attributed. For science, editors prefer peer-reviewed journals over news sources like The Intercept.\n"
+    },
+    "ifcncodeofprinciples.poynter.org": {
+        "name": "International Fact-Checking Network (IFCN) WP:IFCN\u00a0\ud83d\udccc",
+        "rating": "Generally reliable",
+        "description": "The Poynter Institute's International Fact-Checking Network (IFCN) reviews fact-checking organizations according to a code of principles. There is a consensus that it is generally reliable for determining the reliability of fact-checking organizations.\n"
+    },
+    "investopedia.com": {
+        "name": "Investopedia",
+        "rating": "No consensus",
+        "description": "Investopedia is owned by Dotdash (formerly known as About.com). There is no consensus on the reliability of Investopedia. It is a tertiary source. See also: Dotdash.\n"
+    },
+    "jamanetwork.com": {
+        "name": "JAMA (Journal of the American Medical Association)",
+        "rating": "Generally reliable",
+        "description": "JAMA is a peer-reviewed medical journal published by the American Medical Association. It is considered generally reliable. Opinion pieces from JAMA, including articles from The Jama Forum, are subject to WP:RSOPINION and might not qualify under WP:MEDRS.\n"
+    },
+    "jewishvirtuallibrary.org": {
+        "name": "Jewish Virtual Library (JVL)",
+        "rating": "No consensus",
+        "description": "This disputed entry is currently under discussion.\n"
+    },
+    "jezebel.com": {
+        "name": "Jezebel",
+        "rating": "Generally unreliable",
+        "description": "There is consensus that Jezebel should generally be avoided as a source, especially on biographies of living persons. Many editors consider Jezebel to inappropriately blur news reporting and opinion. Some editors say that Jezebel is biased or opinionated.\n"
+    },
+    "knowyourmeme.com": {
+        "name": "Know Your Meme (KYM)",
+        "rating": "No consensus",
+        "description": "Know Your Meme \"submissions\" are user-generated content and thus are generally unreliable. There is no consensus on the reliability of their video series and \"confirmed\" entries.\n"
+    },
+    "last.fm": {
+        "name": "Last.fm",
+        "rating": "Deprecated",
+        "description": "Last.fm was deprecated in the 2019 RfC. The content on Last.fm is user-generated, and is considered generally unreliable.\n"
+    },
+    "lenta.ru": {
+        "name": "Lenta.ru (12 March 2014\u2013present)",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, Lenta.ru is on the Wikipedia spam blacklist, and links to articles published on or after 12 March 2014 must be whitelisted before they can be used. Lenta.ru was deprecated in the 2019 RfC, which showed consensus that the site frequently publishes conspiracy theories and Russian propaganda, owing to a mass dismissal of staff on 12 March 2014. The use of Lenta.ru articles published since 12 March 2014 as references should be generally prohibited, especially when other more reliable sources exist. Lenta.ru should not be used for determining notability, or used as a secondary source in articles.\n"
+    },
+    "lifesitenews.com": {
+        "name": "LifeSiteNews (Campaign Life Coalition)",
+        "rating": "Deprecated",
+        "description": "LifeSiteNews was deprecated in the 2019 RfC, which showed consensus that the site publishes false or fabricated information.\n"
+    },
+    "linkedin.com": {
+        "name": "LinkedIn (LinkedIn Pulse)",
+        "rating": "Generally unreliable",
+        "description": "LinkedIn is a social network. As a self-published source, it is considered generally unreliable and should be avoided unless the post is used for an uncontroversial self-description. Articles on LinkedIn Pulse written by LinkedIn users are also self-published. LinkedIn accounts should only be cited if they are verified accounts or if the user's identity is confirmed in some way. Posts that are not covered by reliable sources are likely to constitute undue weight. LinkedIn should never be used for third-party claims related to living persons.\n"
+    },
+    "livejournal.com": {
+        "name": "LiveJournal",
+        "rating": "Generally unreliable",
+        "description": "LiveJournal is a blog hosting service. As a self-published source, it is considered generally unreliable. LiveJournal can be used for uncontroversial self-descriptions and content from subject-matter experts, but not as a secondary source for living persons.\n"
+    },
+    "liveleak.com": {
+        "name": "LiveLeak",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, LiveLeak is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. LiveLeak is an online video platform that hosts user-generated content. Many of the videos on LiveLeak are copyright violations, and should not be linked to per WP:COPYLINK. The use of LiveLeak as a primary source is questionable in most cases, as the provenance of most of the videos is unclear.\n"
+    },
+    "latimes.com": {
+        "name": "Los Angeles Times",
+        "rating": "Generally reliable",
+        "description": "Most editors consider the Los Angeles Times generally reliable. Refer to WP:NEWSBLOG for the newspaper's blog.\n"
+    },
+    "lulu.com": {
+        "name": "Lulu.com (Lulu Press)",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, Lulu.com is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. Lulu.com is a print-on-demand publisher, which is a type of self-published source. Books published through Lulu.com can be used if they are written by a subject-matter expert. Occasionally, a reputable publisher uses Lulu.com as a printer; in this case, cite the original publisher instead of Lulu.com.\n"
+    },
+    "marquiswhoswho.com": {
+        "name": "Marquis Who's Who (Who's Who in America)",
+        "rating": "Generally unreliable",
+        "description": "Marquis Who's Who, including its publication Who's Who in America, is considered generally unreliable. As most of its content is provided by the person concerned, editors generally consider Marquis Who's Who comparable to a self-published source. There is a broad consensus that Marquis Who's Who should not be used to establish notability for article topics. See also: Who's Who (UK).\n"
+    },
+    "themarysue.com": {
+        "name": "The Mary Sue",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of The Mary Sue. It is generally regarded as usable for reviews and opinion, though not for its reblogged content.\n"
+    },
+    "mediabiasfactcheck.com": {
+        "name": "Media Bias\/Fact Check (MBFC) WP:MBFC\u00a0\ud83d\udccc",
+        "rating": "Generally unreliable",
+        "description": "There is consensus that Media Bias\/Fact Check is generally unreliable, as it is self-published. Editors have questioned the methodology of the site's ratings.\n"
+    },
+    "mediamatters.org": {
+        "name": "Media Matters for America (MMfA)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Media Matters for America. As a biased or opinionated source, their statements should be attributed.\n"
+    },
+    "mrc.org": {
+        "name": "Media Research Center (MRCTV, NewsBusters)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Media Research Center publications, including NewsBusters. As a biased or opinionated source, their statements should be attributed. See also: CNSNews.com.\n"
+    },
+    "mediaite.com": {
+        "name": "Mediaite",
+        "rating": "No consensus",
+        "description": "There is some consensus that Mediaite is only marginally reliable, and should be avoided where better sources are available. Editors consider the source to inappropriately blur news and opinion, and due weight should be considered if no other reliable sources support a given statement.\n"
+    },
+    "medium.com": {
+        "name": "Medium",
+        "rating": "Generally unreliable",
+        "description": "Medium is a blog hosting service. As a self-published source, it is considered generally unreliable and should be avoided unless the author is a subject-matter expert or the blog is used for uncontroversial self-descriptions. Medium should never be used as a secondary source for living persons.\n"
+    },
+    "metacritic.com": {
+        "name": "Metacritic (GameRankings)",
+        "rating": "Generally reliable",
+        "description": "Metacritic is considered generally reliable for its review aggregation and its news articles on film, TV, and video games. There is no consensus on whether its blog articles and critic opinion pages are generally reliable for facts. There is consensus that user reviews on Metacritic are generally unreliable, as they are self-published sources. Reviewers tracked by Metacritic are not automatically reliable for their reviews. On December 2019, video game aggregate site GameRankings shut down and merged with Metacritic.[15][16][17]\n"
+    },
+    "metalsucks.net": {
+        "name": "MetalSucks",
+        "rating": "No consensus",
+        "description": "MetalSucks is considered usable for its reviews and news articles. Avoid its overly satirical content and exercise caution when MetalSucks is the only source making a statement.\n"
+    },
+    "metro.co.uk": {
+        "name": "Metro (British newspaper)",
+        "rating": "Generally unreliable",
+        "description": "The reliability of Metro has been compared to that of the Daily Mail and other British tabloids. Articles published in the print newspaper (accessible via metro.news domain) are considered more reliable than articles published only on the metro.co.uk website.\n"
+    },
+    "mintpressnews.com": {
+        "name": "MintPress News",
+        "rating": "Deprecated",
+        "description": "MintPress News was deprecated in the 2019 RfC, which showed consensus that the site publishes false or fabricated information.\n"
+    },
+    "mondoweiss.net": {
+        "name": "Mondoweiss",
+        "rating": "No consensus",
+        "description": "Mondoweiss is a news website operated by the Center for Economic Research and Social Change (CERSC), an advocacy organization. There is no consensus on the reliability of Mondoweiss. Editors consider the site biased or opinionated, and its statements should be attributed.\n"
+    },
+    "morningstaronline.co.uk": {
+        "name": "Morning Star (UK)",
+        "rating": "No consensus",
+        "description": "The Morning Star is a British tabloid with a low circulation and readership that the New Statesman has described as \"Britain's last communist newspaper\".[18] There is no consensus on whether the Morning Star engages in factual reporting, and broad consensus that it is a biased and partisan source. All uses of the Morning Star should be attributed. Take care to ensure that content from the Morning Star constitutes due weight in the article and conforms to the biographies of living persons policy.\n"
+    },
+    "motherjones.com": {
+        "name": "Mother Jones (MoJo)",
+        "rating": "Generally reliable",
+        "description": "There is consensus that Mother Jones is generally reliable. Almost all editors consider Mother Jones a biased source, so its statements (particularly on political topics) may need to be attributed. Consider whether content from this publication constitutes due weight before citing it in an article.\n"
+    },
+    "mylife.com": {
+        "name": "MyLife (Reunion.com)",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, MyLife is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. MyLife (formerly known as Reunion.com) is an information broker that publishes user-generated content, and is considered generally unreliable.\n"
+    },
+    "thenation.com": {
+        "name": "The Nation",
+        "rating": "Generally reliable",
+        "description": "There is consensus that The Nation is generally reliable. In the \"About\" section of their website, they identify as progressive. Most editors consider The Nation a partisan source whose statements should be attributed. The publication's opinion pieces should be handled with the appropriate guideline. Take care to ensure that content from The Nation constitutes due weight in the article and conforms to the biographies of living persons policy.\n"
+    },
+    "nationalenquirer.com": {
+        "name": "National Enquirer",
+        "rating": "Deprecated",
+        "description": "The National Enquirer is a supermarket tabloid that is considered generally unreliable. In the 2019 RfC, there was weak consensus to deprecate the National Enquirer as a source, but no consensus to create an edit filter to warn editors against using the publication.\n"
+    },
+    "nationalreview.com": {
+        "name": "National Review (NR)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of National Review. Most editors consider National Review a partisan source whose statements should be attributed. The publication's opinion pieces should be handled with the appropriate guideline. Take care to ensure that content from the National Review constitutes due weight in the article and conforms to the biographies of living persons policy.\n"
+    },
+    "naturalnews.com": {
+        "name": "Natural News (NewsTarget)",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, Natural News is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. There is a near-unanimous consensus that the site repeatedly publishes false or fabricated information, including a large number of conspiracy theories.\n"
+    },
+    "thenewamerican.com": {
+        "name": "The New American",
+        "rating": "Generally unreliable",
+        "description": "There is a general consensus that The New American is generally unreliable for factual reporting. Some editors consider it usable for attributed opinions regarding the John Birch Society.\n"
+    },
+    "newrepublic.com": {
+        "name": "The New Republic",
+        "rating": "Generally reliable",
+        "description": "There is consensus that The New Republic is generally reliable. Most editors consider The New Republic biased or opinionated. Opinions in the magazine should be attributed.\n"
+    },
+    "nydailynews.com": {
+        "name": "New York Daily News (Illustrated Daily News)",
+        "rating": "No consensus",
+        "description": "Most editors consider the content of New York Daily News articles to be generally reliable, but question the accuracy of its tabloid-style headlines.\n"
+    },
+    "nypost.com": {
+        "name": "New York Post (New York Evening Post, Page Six)",
+        "rating": "No consensus",
+        "description": "There is no consensus regarding the reliability of the New York Post. The New York Post is a tabloid newspaper with high circulation, and most editors prefer more reliable sources when available. The New York Post operates Page Six, its gossip section.\n"
+    },
+    "nytimes.com": {
+        "name": "The New York Times (NYT)",
+        "rating": "Generally reliable",
+        "description": "Most editors consider The New York Times generally reliable. WP:RSOPINION should be used to evaluate opinion columns, while WP:NEWSBLOG should be used for the blogs on The New York Times's website. The 2018 RfC cites WP:MEDPOP to establish that popular press sources such as The New York Times should generally not be used to support medical claims.\n"
+    },
+    "newyorker.com": {
+        "name": "The New Yorker",
+        "rating": "Generally reliable",
+        "description": "There is consensus that The New Yorker is generally reliable. Editors note the publication's robust fact-checking process.\n"
+    },
+    "newsoftheworld.co.uk": {
+        "name": "News of the World",
+        "rating": "Deprecated",
+        "description": "News of the World was deprecated in the 2019 RfC. There is consensus that News of the World is generally unreliable. As is the case with The Sun, News of the World should not be used as a reference in most cases aside from about-self usage, and should not be used to determine notability. Some editors consider News of the World usable for uncontroversial film reviews if attribution is provided. News of the World shut down in 2011.\n"
+    },
+    "newsmax.com": {
+        "name": "Newsmax",
+        "rating": "No consensus",
+        "description": "Discussions regarding Newsmax are dated, with the most recent occurring in 2013. Circumstances may have changed. Discussions are also lacking in depth, and in focus on evaluating this source specifically. Newsmax has been cited in discussions of other sources as a low benchmark for a partisan outlet with regard to US politics, and for a propensity for comparatively fringe viewpoints.\n"
+    },
+    "newsweek.com": {
+        "name": "Newsweek (2013\u2013present)",
+        "rating": "No consensus",
+        "description": "Unlike articles before 2013, post-2013 Newsweek articles are not generally reliable. From 2013 to 2018, Newsweek was owned and operated by IBT Media, the parent company of International Business Times. IBT Media introduced a number of bad practices to the once reputable magazine and mainly focused on clickbait headlines over quality journalism. Its current relationship with IBT Media is unclear, and Newsweek's quality has not returned to its status prior to the 2013 purchase. Many editors have noted that there are several exceptions to this standard, so consensus is to evaluate Newsweek content on a case-by-case basis. See also: Newsweek (pre-2013).\n"
+    },
+    "thenextweb.com": {
+        "name": "The Next Web (TNW)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of The Next Web. Articles written by contributors may be subject to reduced or no editorial oversight. Avoid using The Next Web's sponsored content.\n"
+    },
+    "nndb.com": {
+        "name": "NNDB (Notable Names Database)",
+        "rating": "Deprecated",
+        "description": "NNDB is a biographical database operated by Soylent Communications, the parent company of shock site Rotten.com. It was deprecated in the 2019 RfC. Editors note NNDB's poor reputation for fact-checking and accuracy, despite the site claiming to have an editorial process. Editors have also found instances of NNDB incorporating content from Wikipedia, which would make the use of the affected pages circular sourcing.\n"
+    },
+    "npr.org": {
+        "name": "NPR (National Public Radio)",
+        "rating": "Generally reliable",
+        "description": "There is consensus that NPR is generally reliable for news and statements of fact. NPR's opinion pieces should only be used with attribution.\n"
+    },
+    "occupydemocrats.com": {
+        "name": "Occupy Democrats",
+        "rating": "Deprecated",
+        "description": "In the 2018 RfC, there was clear consensus to deprecate Occupy Democrats as a source a la the Daily Mail. As with Breitbart News, this does not mean it cannot ever be used on Wikipedia; it means it cannot be used as a reference for facts. It can still be used as a primary source for attributing opinions, viewpoints, and the like.\n"
+    },
+    "oann.com": {
+        "name": "One America News Network (OANN)",
+        "rating": "Deprecated",
+        "description": "In the 2019 RfC, there was clear consensus to deprecate One America News Network as a source a la the Daily Mail. Editors noted that One America News Network published a number of falsehoods, conspiracy theories, and intentionally misleading stories that do not support the pillars and core policies of Wikipedia. One America News Network should not be used, ever, as a reference for facts, due to its unreliability. It can still be used as a primary source when attributing opinions, viewpoints, and commentary, meaning that it should not be used as a source outside of its own article.\n"
+    },
+    "theonion.com": {
+        "name": "The Onion",
+        "rating": "Generally unreliable",
+        "description": "The Onion is a satirical news website, and should not be used as a source for facts.\n"
+    },
+    "opindia.com": {
+        "name": "OpIndiaWP:OPINDIA\u00a0\ud83d\udccc",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, OpIndia is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. OpIndia is considered generally unreliable due to its poor reputation for fact-checking and accuracy. OpIndia was rejected by the International Fact-Checking Network when it applied for accreditation in 2019. In the 2020 discussion, most editors expressed support for deprecating OpIndia. Editors consider the site biased or opinionated. The site has directly attacked (and doxed) Wikipedia editors who edit India-related articles. Posting or linking to another editor's personal information is prohibited under the outing policy, unless the editor has voluntarily disclosed the information on Wikipedia. Editors who are subject to legal risks due to their activity on Wikipedia may request assistance from the Wikimedia Foundation, although support is not guaranteed. See also: Swarajya.\n"
+    },
+    "patheos.com": {
+        "name": "Patheos",
+        "rating": "Generally unreliable",
+        "description": "Patheos is a website that hosts a collection of blogs. These blogs receive little editorial oversight and should be treated as self-published sources. Some editors have shown support for including Patheos articles as a source when cited together with other more reliable sources.\n"
+    },
+    "people.com": {
+        "name": "People",
+        "rating": "Generally reliable",
+        "description": "There is consensus that People magazine can be a reliable source in biographies of living persons, but the magazine should not be used for contentious claims unless supplemented with a stronger source.\n"
+    },
+    "pinknews.co.uk": {
+        "name": "PinkNews (Pink News)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of PinkNews.\n"
+    },
+    "playboy.com": {
+        "name": "Playboy",
+        "rating": "Generally reliable",
+        "description": "There is consensus that Playboy is generally reliable. Editors note the publication's reputation for high-quality interviews and fact-checking.\n"
+    },
+    "thepointsguy.com\/news": {
+        "name": "The Points Guy (news and reviews) (TPG)",
+        "rating": "Blacklisted",
+        "description": "There is no consensus on the reliability of news articles and reviews on The Points Guy. The Points Guy has advertising relationships with credit card and travel companies, and content involving these companies should be avoided as sources. The Points Guy is currently on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. See also: The Points Guy (sponsored content).\n"
+    },
+    "thepointsguy.com": {
+        "name": "The Points Guy (sponsored content) (TPG)",
+        "rating": "Blacklisted",
+        "description": "There is consensus that sponsored content on The Points Guy, including content involving credit cards, should not be used as sources. The Points Guy has advertising relationships with credit card and travel companies, receiving compensation from readers signing up for credit cards via the website's links. The Points Guy is currently on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. See also: The Points Guy (news and reviews).\n"
+    },
+    "politico.com": {
+        "name": "Politico",
+        "rating": "Generally reliable",
+        "description": "Politico is considered generally reliable for American politics. A small number of editors say that Politico is a biased source.\n"
+    },
+    "politifact.com": {
+        "name": "PolitiFact (PunditFact)",
+        "rating": "Generally reliable",
+        "description": "PolitiFact is a reliable source for reporting the veracity of statements made by political candidates. PolitiFact is a reliable source for reporting the percentage of false statements made by a political candidate (of the statements checked by PolitiFact), provided that attribution is given, as a primary source.\n"
+    },
+    "presstv.com": {
+        "name": "Press TV",
+        "rating": "Generally unreliable",
+        "description": "There is consensus that Press TV is generally unreliable. As a state-owned media network in a country with low press freedom, Press TV may be a primary source for the viewpoint of the Iranian government, although due weight should be considered. Press TV is biased or opinionated, and its statements should be attributed. Press TV is particularly known for promoting anti-Semitic conspiracy theories, including Holocaust denial.[19]\n"
+    },
+    "propublica.org": {
+        "name": "ProPublica",
+        "rating": "Generally reliable",
+        "description": "There is a strong consensus that ProPublica is generally reliable for all purposes because it has an excellent reputation for fact-checking and accuracy, is widely cited by reliable sources, and has received multiple Pulitzer Prizes.\n"
+    },
+    "quackwatch.org": {
+        "name": "Quackwatch",
+        "rating": "No consensus",
+        "description": "Articles written by Stephen Barrett on Quackwatch are considered generally reliable (as Barrett is a subject-matter expert) and self-published (as there is disagreement on the comprehensiveness of Quackwatch's editorial process); Barrett's articles should not be used as a source of information on other living persons. Articles written by other authors on Quackwatch are not considered self-published. Many editors believe uses of Quackwatch should be evaluated on a case-by-case basis, and some editors say its statements should be attributed. It may be preferable to use the sources cited by Quackwatch instead of Quackwatch itself. Since it often covers fringe material, parity of sources should be considered.\n"
+    },
+    "quadrant.org.au": {
+        "name": "Quadrant",
+        "rating": "Generally unreliable",
+        "description": "Most editors consider Quadrant generally unreliable for factual reporting. The publication is a biased and opinionated source.\n"
+    },
+    "quillette.com": {
+        "name": "Quillette",
+        "rating": "Generally unreliable",
+        "description": "There is consensus that Quillette is generally unreliable for facts. Opinions from Quillette are likely to constitute undue weight.\n"
+    },
+    "quora.com": {
+        "name": "Quora",
+        "rating": "Generally unreliable",
+        "description": "Quora is a Q&A site. As an Internet forum, it is a self-published source that incorporates user-generated content, and is considered generally unreliable. Posts from verified accounts on Quora can be used as primary sources for statements about themselves. Posts from verified accounts of established experts may also be used to substantiate statements in their field of expertise, in accordance with the policy on self-published sources.\n"
+    },
+    "reddit.com": {
+        "name": "Reddit",
+        "rating": "Generally unreliable",
+        "description": "Reddit is a social news and discussion website. Reddit contains mostly user-generated content, and is considered both self-published and generally unreliable. Interview responses written by verified interviewees on the r\/IAmA subreddit are primary sources, and editors disagree on their reliability. The policy on the use of sources about themselves applies.\n"
+    },
+    "theregister.co.uk": {
+        "name": "The Register (El Reg)",
+        "rating": "Generally reliable",
+        "description": "The Register is considered generally reliable for technology-related articles. Some editors say that The Register is biased or opinionated on topics involving Wikipedia.\n"
+    },
+    "researchgate.net": {
+        "name": "ResearchGate",
+        "rating": "Generally unreliable",
+        "description": "ResearchGate is a social network that hosts a repository of user-generated publications, including preprints. ResearchGate does not perform fact checking or peer reviewing, and is considered a self-published source. Verify whether a paper on ResearchGate is also published in a peer-reviewed academic journal; in these cases, cite the more reliable journal and provide an open access link to the paper (which may be hosted on ResearchGate).\n"
+    },
+    "reuters.com": {
+        "name": "Reuters",
+        "rating": "Generally reliable",
+        "description": "Reuters is a news agency. There is consensus that Reuters is generally reliable. Syndicated reports from Reuters that are published in other sources are also considered generally reliable. Press releases published by Reuters are not automatically reliable.\n"
+    },
+    "allmusic.com": {
+        "name": "RhythmOne (AllMusic, AllMovie, AllGame, All Media Guide, AllRovi)",
+        "rating": "No consensus",
+        "description": "RhythmOne (who acquired All Media Guide, formerly AllRovi) operates the websites AllMusic, AllMovie, and AllGame (defunct). There is consensus that RhythmOne websites are usable for entertainment reviews with attribution. Some editors question the accuracy of these websites for biographical details and recommend more reliable sources when available. Editors also advise against using AllMusic's genre classifications from the website's sidebar. Listings without accompanying prose do not count toward notability.\n"
+    },
+    "rian.ru": {
+        "name": "RIA Novosti",
+        "rating": "No consensus",
+        "description": "RIA Novosti is an official news agency of the Russian government. There is a broad consensus that it is a biased and opinionated source. It is generally considered usable for official government statements and positions. There is no consensus on whether it is reliable for other topics, though opinions generally lean towards unreliability. See also: Sputnik, which replaced the international edition of RIA Novosti.\n"
+    },
+    "rollingstone.com": {
+        "name": "Rolling Stone",
+        "rating": "Generally reliable",
+        "description": "There is consensus that Rolling Stone is generally reliable. Rolling Stone's opinion pieces and reviews, as well as any contentious statements regarding living persons, should only be used with attribution. The publication's capsule reviews deserve less weight than their full-length reviews, as they are subject to a lower standard of fact-checking. Some editors say that Rolling Stone is a partisan source in the field of politics, and that their statements in this field should also be attributed.\n"
+    },
+    "rottentomatoes.com": {
+        "name": "Rotten Tomatoes",
+        "rating": "Generally reliable",
+        "description": "Rotten Tomatoes is considered generally reliable for its review aggregation and its news articles on film and TV. There is no consensus on whether its blog articles and critic opinion pages are generally reliable for facts. There is consensus that user reviews on Rotten Tomatoes are generally unreliable, as they are self-published sources. Reviewers tracked by Rotten Tomatoes are not automatically reliable for their reviews, while there is no consensus on whether their \"Top Critics\" are generally reliable.\n"
+    },
+    "rt.com": {
+        "name": "RT (controversial topics, international politics) (Russia Today)",
+        "rating": "Generally unreliable",
+        "description": "RT is generally unreliable for topics that are controversial or related to international politics. See also: RT (general topics).\n"
+    },
+    "salon.com": {
+        "name": "Salon",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Salon. Editors consider Salon biased or opinionated, and its statements should be attributed.\n"
+    },
+    "sciencebasedmedicine.org": {
+        "name": "Science-Based Medicine",
+        "rating": "Generally reliable",
+        "description": "Science-Based Medicine is considered generally reliable, as it has a credible editorial board, publishes a robust set of editorial guidelines, and has been cited by other reliable sources. Editors do not consider Science-Based Medicine a self-published source, but it is also not a peer-reviewed publication with respect to WP:MEDRS. Since it often covers fringe material, parity of sources may be relevant.\n"
+    },
+    "scienceblogs.com": {
+        "name": "ScienceBlogs",
+        "rating": "No consensus",
+        "description": "ScienceBlogs is an invitation-only network of blogs. There is no consensus on the reliability of ScienceBlogs articles in general, or whether it is a self-published source. Most editors consider ScienceBlogs articles written by subject-matter experts reliable, though articles outside the writer's relevant field are not.\n"
+    },
+    "scribd.com": {
+        "name": "Scribd",
+        "rating": "Generally unreliable",
+        "description": "Scribd operates a self-publishing platform for documents and audiobooks. It is considered generally unreliable, especially for biographies of living persons. Anyone can upload any document they'd like and there is no assurance that it hasn't been manipulated. Many documents on Scribd's self-publishing platform violate copyrights, so linking to them from Wikipedia would also violate the WP:COPYVIOEL guideline and the WP:COPYVIO policy. If a particular document hosted on the platform is in itself reliable, editors are advised to cite the source without linking to the Scribd entry.\n"
+    },
+    "sixthtone.com": {
+        "name": "Sixth Tone (politics)",
+        "rating": "Generally unreliable",
+        "description": "Sixth Tone is published by the Shanghai United Media Group, which is government-controlled. Editors consider Sixth Tone generally unreliable for politics. See also: Sixth Tone (general topics).\n"
+    },
+    "skepdic.com": {
+        "name": "The Skeptic's Dictionary",
+        "rating": "No consensus",
+        "description": "The Skeptic's Dictionary is a book by Robert Todd Carroll that expanded into a website. The website is a self-published source (by a subject-matter expert) and should not be used as a source of information on other living persons. Attribution may be necessary. In some cases, it's preferable to cite the sources cited by The Skeptic's Dictionary. As it often covers fringe material, parity of sources may be relevant.\n"
+    },
+    "skwawkbox.org": {
+        "name": "The Skwawkbox",
+        "rating": "Generally unreliable",
+        "description": "The Skwawkbox is considered generally unreliable because it is self-published. Most editors describe The Skwawkbox as biased or opinionated.\n"
+    },
+    "slate.com": {
+        "name": "Slate",
+        "rating": "Generally reliable",
+        "description": "Slate is considered generally reliable for its areas of expertise. Contrarian news articles may need to be attributed.\n"
+    },
+    "snopes.com": {
+        "name": "SnopesWP:SNOPES\u00a0\ud83d\udccc",
+        "rating": "Generally reliable",
+        "description": "Snopes is certified by the International Fact-Checking Network, and is considered generally reliable. Attribution may be necessary. Since it often covers fringe material, parity of sources may be relevant.\n"
+    },
+    "softpedia.com": {
+        "name": "Softpedia",
+        "rating": "No consensus",
+        "description": "Softpedia is considered reliable for its software and product reviews. There is no consensus on whether Softpedia news articles are generally reliable.\n"
+    },
+    "splcenter.org": {
+        "name": "Southern Poverty Law Center (SPLC)",
+        "rating": "Generally reliable",
+        "description": "The Southern Poverty Law Center is considered generally reliable on topics related to hate groups and extremism in the United States. As an advocacy group, the SPLC is a biased and opinionated source. The organization's views, especially when labeling hate groups, should be attributed per WP:RSOPINION. Take care to ensure that content from the SPLC constitutes due weight in the article and conforms to the biographies of living persons policy. Some editors have questioned the reliability of the SPLC on non-United States topics.\n"
+    },
+    "sparknotes.com": {
+        "name": "SparkNotes",
+        "rating": "No consensus",
+        "description": "SparkNotes is a study guide. Editors consider SparkNotes usable for superficial analyses of literature, and recommend supplementing SparkNotes citations with additional sources.\n"
+    },
+    "spiegel.de": {
+        "name": "Der Spiegel (Spiegel Online, SPON)",
+        "rating": "Generally reliable",
+        "description": "There is consensus that Der Spiegel is generally reliable. Articles written by Claas Relotius are generally unreliable as this particular journalist has been found to fabricate articles.\n"
+    },
+    "sputniknews.com": {
+        "name": "Sputnik",
+        "rating": "Generally unreliable",
+        "description": "There is clear consensus that Sputnik News is generally unreliable. Sputnik is considered a Russian propaganda outlet that engages in bias and disinformation,[33] with some editors considering it less reliable than Breitbart News. Some editors consider Sputnik a reliable source for official Russian government statements and positions. See also: RIA Novosti, whose international edition was replaced by Sputnik.\n"
+    },
+    "swarajyamag.com": {
+        "name": "Swarajya",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, Swarajya is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. Swarajya is considered generally unreliable due to its poor reputation for fact-checking and accuracy. In the 2020 discussion, most editors expressed support for deprecating Swarajya. Editors consider the publication biased or opinionated. Swarajya was formerly the parent publication of OpIndia, and frequently republishes content from OpIndia under the \"Swarajya Staff\" byline. See also: OpIndia.\n"
+    },
+    "takimag.com": {
+        "name": "Taki's Magazine (Takimag, Taki's Top Drawer)",
+        "rating": "Deprecated",
+        "description": "Taki's Magazine was deprecated in the 2019 RfC, which showed consensus that it is an unreliable opinion magazine that should be avoided outside of very limited exceptions (e.g. WP:ABOUTSELF).\n"
+    },
+    "tass.com": {
+        "name": "TASS (\u0422\u0410\u0421\u0421, ITAR-TASS, Telegraph Agency of the Soviet Union)",
+        "rating": "No consensus",
+        "description": "In the 2019 RfC, editors argued that the reliability of TASS varies based on the subject matter. Editors consider TASS fairly reliable for statements of fact as stated by the Russian government, but also agree that there are deficiencies in the reliability of TASS's reporting on other issues.\n"
+    },
+    "techcrunch.com": {
+        "name": "TechCrunch",
+        "rating": "No consensus",
+        "description": "Careful consideration should be given to whether a piece is written by staff or as a part of their blog, as well as whether the piece\/writer may have a conflict of interest, and to what extent they rely on public relations material from their subject for their writing. TechCrunch may be useful for satisfying verifiability, but may be less useful for purpose of determining notability.\n"
+    },
+    "telesurtv.net": {
+        "name": "Telesur",
+        "rating": "Deprecated",
+        "description": "Telesur was deprecated in the 2019 RfC, which showed consensus that the TV channel is a Bolivarian propaganda outlet. Many editors state that Telesur publishes false information. As a state-owned media network in a country with low press freedom, Telesur may be a primary source for the viewpoint of the Venezuelan government, although due weight should be considered. Telesur is biased or opinionated, and its statements should be attributed.\n"
+    },
+    "thewrap.com": {
+        "name": "TheWrap",
+        "rating": "Generally reliable",
+        "description": "As an industry trade publication, there is consensus that TheWrap is a good source for entertainment news and media analysis. There is no consensus regarding the reliability of TheWrap's articles on other topics.\n"
+    },
+    "thinkprogress.org": {
+        "name": "ThinkProgress",
+        "rating": "No consensus",
+        "description": "Discussions of ThinkProgress are dated, with the most recent in 2013. Circumstances may have changed. Some consider ThinkProgress a form of WP:NEWSBLOG, and reliable for attributed statements of opinion. Others argue that ThinkProgress is generally reliable under WP:NEWSORG, albeit with due consideration for their political leanings. ThinkProgress is generally considered a partisan source for the purposes of US politics.\n"
+    },
+    "time.com": {
+        "name": "Time",
+        "rating": "Generally reliable",
+        "description": "There is consensus that Time is generally reliable. Time's magazine blogs, including Techland, should be handled with the appropriate policy. Refer to WP:NEWSORG for guidance on op-eds, which should only be used with attribution.\n"
+    },
+    "thetimes.co.uk": {
+        "name": "The Times (The Sunday Times, The Times of London)",
+        "rating": "Generally reliable",
+        "description": "The Times, including its sister paper The Sunday Times, is considered generally reliable.\n"
+    },
+    "timesofindia.com": {
+        "name": "The Times of India",
+        "rating": "No consensus",
+        "description": "The Times of India is considered to have a reliability between no consensus and generally unreliable. It tends to have a bias in favor of the Indian government.\n"
+    },
+    "tmz.com": {
+        "name": "TMZWP:TMZ\u00a0\ud83d\udccc",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of TMZ. Although TMZ is cited by reliable sources, most editors consider TMZ a low-quality source and prefer more reliable sources when available. Because TMZ frequently publishes articles on rumors and speculation without named authors, it is recommended to attribute statements from TMZ. When TMZ is the only source for a piece of information, consider whether the information constitutes due or undue weight, especially when the subject is a living person.\n"
+    },
+    "torrentfreak.com": {
+        "name": "TorrentFreak (TF)",
+        "rating": "Generally reliable",
+        "description": "Most editors consider TorrentFreak generally reliable on topics involving file sharing. Editors note references to the website in mainstream media. The source may or may not be reliable for other topics.\n"
+    },
+    "townhall.com": {
+        "name": "Townhall",
+        "rating": "No consensus",
+        "description": "As of 2010, a few editors commented that opinion pieces in Townhall are reliable as a source for the opinion of the author of the individual piece, although they may not be reliable for unattributed statements of fact, and context will dictate whether the opinion of the author as such, meets the standard of WP:DUEWEIGHT.\n"
+    },
+    "trtworld.com": {
+        "name": "TRT World",
+        "rating": "No consensus",
+        "description": "Consensus exists that TRT World is reliable for statements regarding the official views of the Turkish government but not reliable for subjects with which the Turkish government could be construed to have a conflict of interest. For other miscellaneous cases, it shall be assumed to be reliable enough.\n"
+    },
+    "thetruthaboutguns.com": {
+        "name": "The Truth About Guns (TTAG)",
+        "rating": "Generally unreliable",
+        "description": "The Truth About Guns is a group blog. There is consensus that TTAG does not have a strong reputation for fact-checking and accuracy. TTAG has promoted conspiracy theories, and does not clearly label its sponsored content. Editors agree that TTAG is biased or opinionated. Opinions in TTAG are likely to constitute undue weight.\n"
+    },
+    "tunefind.com": {
+        "name": "Tunefind",
+        "rating": "Generally unreliable",
+        "description": "Tunefind is almost entirely composed of user-generated content, and is a self-published source.\n"
+    },
+    "tvguide.com": {
+        "name": "TV Guide",
+        "rating": "Generally reliable",
+        "description": "TV Guide is considered generally reliable for television-related topics. Some editors consider TV Guide a primary source for air dates.\n"
+    },
+    "tvtropes.org": {
+        "name": "TV Tropes",
+        "rating": "Generally unreliable",
+        "description": "TV Tropes is considered generally unreliable because it is an open wiki, which is a type of self-published source.\n"
+    },
+    "twitter.com": {
+        "name": "Twitter",
+        "rating": "Generally unreliable",
+        "description": "Twitter is a social network. As a self-published source, it is considered generally unreliable and should be avoided unless the author is a subject-matter expert or the tweet is used for an uncontroversial self-description. In most cases, Twitter accounts should only be cited if they are verified accounts or if the user's identity is confirmed in some way. Tweets that are not covered by reliable sources are likely to constitute undue weight. Twitter should never be used for third-party claims related to living persons.\n"
+    },
+    "urbandictionary.com": {
+        "name": "Urban Dictionary",
+        "rating": "Generally unreliable",
+        "description": "Urban Dictionary is considered generally unreliable, because it consists solely of user-generated content.\n"
+    },
+    "usmagazine.com": {
+        "name": "Us Weekly",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Us Weekly. It is often considered less reliable than People magazine.\n"
+    },
+    "usatoday.com": {
+        "name": "USA Today",
+        "rating": "Generally reliable",
+        "description": "There is consensus that USA Today is generally reliable. Editors note the publication's robust editorial process and its centrist alignment.\n"
+    },
+    "vanityfair.com": {
+        "name": "Vanity Fair",
+        "rating": "Generally reliable",
+        "description": "Vanity Fair is considered generally reliable for popular culture.\n"
+    },
+    "variety.com": {
+        "name": "Variety",
+        "rating": "Generally reliable",
+        "description": "As an entertainment trade magazine, Variety is considered a reliable source in its field.\n"
+    },
+    "vdare.com": {
+        "name": "VDARE",
+        "rating": "Deprecated",
+        "description": "VDARE was deprecated in the 2018 RfC. Editors agree that it is generally unusable as a source, although there may be rare exceptions such as in identifying its writers in an about-self fashion. Such limited instances will only be under careful and guided (\"filtered\") discretion.\n"
+    },
+    "venezuelanalysis.com": {
+        "name": "Venezuelanalysis",
+        "rating": "Generally unreliable",
+        "description": "There is consensus that Venezuelanalysis is generally unreliable. Some editors consider Venezuelanalysis a Bolivarian propaganda outlet, and most editors question its accuracy. Almost all editors describe the site as biased or opinionated, so its claims should be attributed.\n"
+    },
+    "venturebeat.com": {
+        "name": "VentureBeat",
+        "rating": "Generally reliable",
+        "description": "VentureBeat is considered generally reliable for articles relating to businesses, technology and video games.\n"
+    },
+    "theverge.com": {
+        "name": "The Verge",
+        "rating": "Generally reliable",
+        "description": "There is broad consensus that The Verge is a reliable source for use in articles relating to technology, science, and automobiles. Some editors question the quality of The Verge's instructional content on computer hardware.\n"
+    },
+    "veteranstoday.com": {
+        "name": "Veterans Today",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, Veterans Today is on the Wikipedia spam blacklist, and links must be whitelisted before they can be used. Veterans Today was deprecated in the 2019 RfC, which showed unanimous consensus that the site publishes fake news and antisemitic conspiracy theories. The use of Veterans Today as a reference should be generally prohibited, especially when other more reliable sources exist. Veterans Today should not be used for determining notability, or used as a secondary source in articles.\n"
+    },
+    "vgchartz.com": {
+        "name": "VGChartz",
+        "rating": "Generally unreliable",
+        "description": "In the 2019 RfC, editors unanimously agreed that VGChartz is generally unreliable. The site consists mainly of news articles that qualify as user-generated content. In addition, editors heavily criticize VGChartz for poor accuracy standards in its video game sales data, and its methodology page consists of wholly unverified claims.[34] If other reliable sources publish video game sales data for certain regions (usually The NPD Group, Chart-Track, and\/or Media Create), it is strongly advised that editors cite those sources instead.\n"
+    },
+    "vice.com": {
+        "name": "Vice Media (Garage, i-D, Refinery29, Vice, Vice News)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Vice Media publications.\n"
+    },
+    "vogue.com": {
+        "name": "Vogue",
+        "rating": "Generally reliable",
+        "description": "Vogue is considered generally reliable. Potentially contentious statements made by Vogue interview subjects can be attributed to the individual.\n"
+    },
+    "vox.com": {
+        "name": "Vox (Recode)",
+        "rating": "Generally reliable",
+        "description": "Vox is considered generally reliable.\n"
+    },
+    "wsj.com": {
+        "name": "The Wall Street Journal (WSJ)",
+        "rating": "Generally reliable",
+        "description": "Most editors consider The Wall Street Journal generally reliable for news. Use WP:NEWSBLOG to evaluate the newspaper's blogs, including Washington Wire. Use WP:RSOPINION for opinion pieces.\n"
+    },
+    "washingtonexaminer.com": {
+        "name": "Washington Examiner",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of the Washington Examiner, but there is consensus that it should not be used to substantiate exceptional claims. Almost all editors consider the Washington Examiner a partisan source and believe that statements from this publication should be attributed. The Washington Examiner publishes opinion columns, which should be handled with the appropriate guideline.\n"
+    },
+    "washingtonpost.com": {
+        "name": "The Washington Post (WaPo)",
+        "rating": "Generally reliable",
+        "description": "Most editors consider The Washington Post generally reliable. Some editors note that WP:NEWSBLOG should be used to evaluate blog posts on The Washington Post's website.\n"
+    },
+    "washingtontimes.com": {
+        "name": "The Washington Times",
+        "rating": "No consensus",
+        "description": "There is consensus that The Washington Times is marginally reliable, and should be avoided when more reliable sources are available. The Washington Times is considered partisan for US politics, especially with regard to climate change and US race relations.\n"
+    },
+    "weeklystandard.com": {
+        "name": "The Weekly Standard",
+        "rating": "Generally reliable",
+        "description": "The Weekly Standard is considered generally reliable, but much of their published content is opinion and should be attributed as such. Most editors say this magazine is a partisan source.\n"
+    },
+    "westernjournal.com": {
+        "name": "The Western Journal(Western Journalism)",
+        "rating": "Generally unreliable",
+        "description": "In the 2019 RfC, there was consensus that The Western Journal is generally unreliable, but no consensus on whether The Western Journal should be deprecated. The publication's syndicated content should be evaluated by the reliability of its original publisher.\n"
+    },
+    "ukwhoswho.com": {
+        "name": "Who's Who (UK)",
+        "rating": "No consensus",
+        "description": "There is no consensus on the reliability of Who's Who UK. It is a reference work with information mainly collected from the people concerned. Editors are divided on whether sufficient editorial control exists, and whether it is an independent source. It is generally considered more reliable than Marquis Who's Who, which is published in the United States. See also: Marquis Who's Who.\n"
+    },
+    "whosampled.com": {
+        "name": "WhoSampled",
+        "rating": "Generally unreliable",
+        "description": "WhoSampled is almost entirely composed of user-generated content, and is a self-published source.\n"
+    },
+    "wikidata.org": {
+        "name": "Wikidata",
+        "rating": "Generally unreliable",
+        "description": "Wikidata is largely user-generated, and articles should not directly cite Wikidata as a source (just as it would be inappropriate to cite other Wikipedias' articles as sources). See also: Wikidata transcluded statements.\n"
+    },
+    "wikileaks.org": {
+        "name": "WikiLeaks",
+        "rating": "Generally unreliable",
+        "description": "WikiLeaks is a repository of primary source documents leaked by anonymous sources. Some editors believe that documents from WikiLeaks fail the verifiability policy, because WikiLeaks does not adequately authenticate them, and there are concerns regarding whether the documents are genuine or tampered. It may be appropriate to cite a document from WikiLeaks as a primary source, but only if it is discussed by a reliable source. However, linking to material that violates copyright is prohibited by WP:COPYLINK.\n"
+    },
+    "wikinews.org": {
+        "name": "Wikinews",
+        "rating": "Generally unreliable",
+        "description": "Most editors believe that Wikinews articles do not meet Wikipedia's verifiability standards. As Wikinews does not enforce a strong editorial policy, many editors consider the site equivalent to a self-published source, which is generally unreliable.\n"
+    },
+    "wikipedia.org": {
+        "name": "Wikipedia (The Signpost)",
+        "rating": "Generally unreliable",
+        "description": "Wikipedia is not a reliable source because open wikis are self-published sources. This includes articles, non-article pages, The Signpost, non-English Wikipedias, Wikipedia Books, and Wikipedia mirrors; see WP:CIRCULAR for guidance.[35] Occasionally, inexperienced editors may unintentionally cite the Wikipedia article about a publication instead of the publication itself; in these cases, fix the citation instead of removing it. Although citing Wikipedia as a source is against policy, content can be copied between articles with proper attribution; see WP:COPYWITHIN for instructions.\n"
+    },
+    "wired.com": {
+        "name": "Wired (Wired UK)",
+        "rating": "Generally reliable",
+        "description": "Wired magazine is considered generally reliable for science and technology.\n"
+    },
+    "wordpress.com": {
+        "name": "WordPress.com",
+        "rating": "Generally unreliable",
+        "description": "WordPress.com is a blog hosting service that runs on the WordPress software. As a self-published source, it is considered generally unreliable and should be avoided unless the author is a subject-matter expert or the blog is used for uncontroversial self-descriptions. WordPress.com should never be used for claims related to living persons; this includes interviews, as even those cannot be authenticated.\n"
+    },
+    "wnd.com": {
+        "name": "WorldNetDaily (WND)WP:WND\u00a0\ud83d\udccc",
+        "rating": "Deprecated",
+        "description": "WorldNetDaily was deprecated in the 2018 RfC. There is clear consensus that WorldNetDaily is not a reliable source, and that it should not be used because of its particularly poor reputation for fact-checking and accuracy. The website is known for promoting falsehoods and conspiracy theories. Most editors consider WorldNetDaily a partisan source. WorldNetDaily's syndicated content should be evaluated by the reliability of its original publisher, and the citation should preferably point to the original publisher.\n"
+    },
+    "youtube.com": {
+        "name": "YouTubeWP:RSPYT\u00a0\ud83d\udccc",
+        "rating": "Generally unreliable",
+        "description": "Most videos on YouTube are anonymous, self-published, and unverifiable, and should not be used at all. Content uploaded from a verified official account, such as that of a news organization, may be treated as originating from the uploader and therefore inheriting their level of reliability. However, many YouTube videos from unofficial accounts are copyright violations and should not be linked from Wikipedia, according to WP:COPYLINK. See also WP:YOUTUBE and WP:VIDEOLINK.\n"
+    },
+    "zdnet.com": {
+        "name": "ZDNet",
+        "rating": "Generally reliable",
+        "description": "ZDNet is considered generally reliable for technology-related articles.\n"
+    },
+    "zerohedge.com": {
+        "name": "Zero Hedge",
+        "rating": "Generally unreliable",
+        "description": "Zero Hedge is considered generally unreliable due to its propagation of conspiracy theories. It is a self-published blog that is biased or opinionated.\n"
+    },
+    "zoominfo.com": {
+        "name": "ZoomInfo",
+        "rating": "Blacklisted",
+        "description": "Due to persistent abuse, ZoomInfo is currently on the Wikipedia spam blacklist, and links must be whitelisted before they can be used.\n"
+    }
+}

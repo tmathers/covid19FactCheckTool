@@ -1,0 +1,445 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - bombshell|michael|flynn|revelations|fox|republicans|demand|interviews|fbi'|priestap|pientka",
+        "totalResults": "7",
+        "searchTerms": "bombshell|michael|flynn|revelations|fox|republicans|demand|interviews|fbi'|priestap|pientka",
+        "count": 7,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ]
+  },
+  "context": {
+    "title": "Snopes"
+  },
+  "searchInformation": {
+    "searchTime": 0.923207,
+    "formattedSearchTime": "0.92",
+    "totalResults": "7",
+    "formattedTotalResults": "7"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "How Old Claims Compare to IG Report - FactCheck.org",
+      "htmlTitle": "How Old Claims Compare to IG Report - FactCheck.org",
+      "link": "https://www.factcheck.org/2019/12/how-old-claims-compare-to-ig-report/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Dec 10, 2019 ... The report by the DOJ inspector general, Michael E. Horowitz, examined the ... IG \nreport: We concluded that Priestap's exercise of discretion in ...",
+      "htmlSnippet": "Dec 10, 2019 \u003cb\u003e...\u003c/b\u003e The report by the DOJ inspector general, \u003cb\u003eMichael\u003c/b\u003e E. Horowitz, examined the ... IG \u003cbr\u003e\nreport: We concluded that \u003cb\u003ePriestap&#39;s\u003c/b\u003e exercise of discretion in&nbsp;...",
+      "cacheId": "0AyiCed0X1gJ",
+      "formattedUrl": "https://www.factcheck.org/2019/12/how-old-claims-compare-to-ig-report/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2019/12/how-old-claims-compare-to-ig-report/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNblaIPUAo9KcKh9L9N4f3KyrRQcWq6IfbMqMIRGJBhIPWYZK6JYs_K2c",
+            "width": "344",
+            "height": "146"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/igreporta1.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2019-12-10T19:30:51+00:00",
+            "og:image:width": "720",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "How Old Claims Compare to IG Report",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "How Old Claims Compare to IG Report",
+            "og:image:height": "307",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2019-12-20T13:09:00+00:00",
+            "og:description": "We take a look at how past claims made by Trump stack up to the Department of Justice's Office of the Inspector General report on the FBI's investigation into whether individuals associated with the Trump campaign were coordinating with Russia's election interference.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/igreporta1.jpg",
+            "article:modified_time": "2019-12-20T13:09:00+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "We take a look at how past claims made by Trump stack up to the Department of Justice's Office of the Inspector General report on the FBI's investigation into whether individuals associated with the Trump campaign were coordinating with Russia's election interference.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2019/12/how-old-claims-compare-to-ig-report/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/igreporta1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What the GOP Memo Says (and Doesn't Say)",
+      "htmlTitle": "What the GOP Memo Says (and Doesn&#39;t Say)",
+      "link": "https://www.snopes.com/ap/2018/02/02/gop-memo-says-doesnt-say/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Feb 2, 2018 ... The memo says the FBI and the Justice Department didn't tell the FISA court ... \nThe memo cites FBI Assistant Director Bill Priestap as saying FBI ...",
+      "htmlSnippet": "Feb 2, 2018 \u003cb\u003e...\u003c/b\u003e The memo says the \u003cb\u003eFBI\u003c/b\u003e and the Justice Department didn&#39;t tell the FISA court ... \u003cbr\u003e\nThe memo cites \u003cb\u003eFBI\u003c/b\u003e Assistant Director Bill \u003cb\u003ePriestap\u003c/b\u003e as saying \u003cb\u003eFBI\u003c/b\u003e&nbsp;...",
+      "cacheId": "Hp0T1oPIuVUJ",
+      "formattedUrl": "https://www.snopes.com/ap/2018/02/02/gop-memo-says-doesnt-say/",
+      "htmlFormattedUrl": "https://www.snopes.com/ap/2018/02/02/gop-memo-says-doesnt-say/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfKw6CvGKcZXuh3FSe64n671oS08_OeUW6rxjbwdVHRGyaexu8IhBxaAg",
+            "width": "281",
+            "height": "180"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2018/02/ap_memo.jpg",
+            "og:type": "article",
+            "og:image:width": "900",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "What the GOP Memo Says (and Doesn't Say)",
+            "og:site_name": "Snopes.com",
+            "og:title": "What the GOP Memo Says (and Doesn't Say)",
+            "og:image:height": "576",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "After more than a week of partisan bickering and social media-fueled buildup, the #releasethememo crowd got their wish.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2018/02/ap_memo.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2018/02/ap_memo.jpg",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "After more than a week of partisan bickering and social media-fueled buildup, the #releasethememo crowd got their wish.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/ap/2018/02/02/gop-memo-says-doesnt-say/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2018/02/ap_memo.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Trump Misleads on IG Report - FactCheck.org",
+      "htmlTitle": "Trump Misleads on IG Report - FactCheck.org",
+      "link": "https://www.factcheck.org/2018/06/trump-misleads-on-ig-report/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Jun 18, 2018 ... President Donald Trump said he thinks former FBI Director James ... But the \nreport also noted that FBI Assistant Director E.W. Priestap was ...",
+      "htmlSnippet": "Jun 18, 2018 \u003cb\u003e...\u003c/b\u003e President Donald Trump said he thinks former \u003cb\u003eFBI\u003c/b\u003e Director James ... But the \u003cbr\u003e\nreport also noted that \u003cb\u003eFBI\u003c/b\u003e Assistant Director E.W. \u003cb\u003ePriestap\u003c/b\u003e was&nbsp;...",
+      "cacheId": "ZEePyg9_QqsJ",
+      "formattedUrl": "https://www.factcheck.org/2018/06/trump-misleads-on-ig-report/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2018/06/trump-misleads-on-ig-report/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7ncRHEOa7kkwBY_mareCx28aUO3Rf1ADoPM3htY5CKYL1hArY7T8O0MBx",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/Trumpflag1.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2018-06-18T15:51:03+00:00",
+            "og:image:width": "200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Trump Misleads on IG Report",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Trump Misleads on IG Report",
+            "og:image:height": "200",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2018-06-18T16:21:10+00:00",
+            "og:description": "President Donald Trump said he thinks former FBI Director James Comey committed “very criminal acts.” But the facts don't support the president's opinion. Trump also claimed the inspector general's report \"totally exonerates\" him, but the report didn't evaluate the Russia investigation.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/Trumpflag1.jpg",
+            "article:modified_time": "2018-06-18T16:21:10+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "President Donald Trump said he thinks former FBI Director James Comey committed “very criminal acts.” But the facts don't support the president's opinion. Trump also claimed the inspector general's report \"totally exonerates\" him, but the report didn't evaluate the Russia investigation.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2018/06/trump-misleads-on-ig-report/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/Trumpflag1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "No Evidence Lisa Page Blamed Hacking on China - FactCheck.org",
+      "htmlTitle": "No Evidence Lisa Page Blamed Hacking on China - FactCheck.org",
+      "link": "https://www.factcheck.org/2018/07/no-evidence-lisa-page-blamed-hacking-on-china/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Jul 20, 2018 ... Q: Did former FBI attorney Lisa Page tell House lawmakers that China, ... Peter \nStrzok and Bill Priestap among others under the Congressional ...",
+      "htmlSnippet": "Jul 20, 2018 \u003cb\u003e...\u003c/b\u003e Q: Did former \u003cb\u003eFBI\u003c/b\u003e attorney Lisa Page tell House lawmakers that China, ... Peter \u003cbr\u003e\nStrzok and Bill \u003cb\u003ePriestap\u003c/b\u003e among others under the Congressional&nbsp;...",
+      "cacheId": "9eZKsTGTGbgJ",
+      "formattedUrl": "https://www.factcheck.org/.../no-evidence-lisa-page-blamed-hacking-on- china/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../no-evidence-lisa-page-blamed-hacking-on- china/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTn_kY0S8sjF8qOwlmBrLYFIT_UOvtTmVzVrCov9FKWq8L5nbaby-PxATY",
+            "width": "202",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/FBI-seal.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2018-07-20T15:57:13+00:00",
+            "og:image:width": "202",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "No Evidence Lisa Page Blamed Hacking on China",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "No Evidence Lisa Page Blamed Hacking on China",
+            "og:image:height": "200",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2018-07-20T16:27:07+00:00",
+            "og:description": "Q: Did former FBI attorney Lisa Page tell House lawmakers that China, not Russia, was behind the hacking of the Democratic National Committee? A: There’s no evidence of that. Page’s attorney said stories making that",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/FBI-seal.png",
+            "article:modified_time": "2018-07-20T16:27:07+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Q: Did former FBI attorney Lisa Page tell House lawmakers that China, not Russia, was behind the hacking of the Democratic National Committee? A: There’s no evidence of that. Page’s attorney said stories making that",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2018/07/no-evidence-lisa-page-blamed-hacking-on-china/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/FBI-seal.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Judicial Watch - Media Bias/Fact Check",
+      "htmlTitle": "Judicial Watch - Media Bias/Fact Check",
+      "link": "https://mediabiasfactcheck.com/judicial-watch/",
+      "displayLink": "mediabiasfactcheck.com",
+      "snippet": "Fox News Is Obsessed With Tara Reade. They Barely Mentioned Trump's Rape \nAccuser. 4 May 2020. Drew Angerer/GettyFox News has unsurprisingly become ...",
+      "htmlSnippet": "\u003cb\u003eFox\u003c/b\u003e News Is Obsessed With Tara Reade. They Barely Mentioned Trump&#39;s Rape \u003cbr\u003e\nAccuser. 4 May 2020. Drew Angerer/GettyFox News has unsurprisingly become&nbsp;...",
+      "cacheId": "Ztr_5SRu_A0J",
+      "formattedUrl": "https://mediabiasfactcheck.com/judicial-watch/",
+      "htmlFormattedUrl": "https://mediabiasfactcheck.com/judicial-watch/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqXygp0nWcnULpG_xauuFiDnj5v0yc0umLXOiRjCoaLVedIc6brL5XSoA",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "breadcrumb": [
+          {
+            "title": "Home",
+            "url": "Home"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://i2.wp.com/mediabiasfactcheck.com/wp-content/uploads/2019/09/70982153_683576715489993_3036728782363820032_n.jpg?fit=480%2C480&ssl=1",
+            "og:type": "article",
+            "og:image:width": "480",
+            "twitter:card": "summary",
+            "og:site_name": "Media Bias/Fact Check",
+            "msvalidate.01": "B55EFAED9E57C013A3FBC1CC503F10F1",
+            "og:title": "Judicial Watch - Media Bias/Fact Check",
+            "og:image:height": "480",
+            "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+            "yandex-verification": "8f21e854ade35f72",
+            "msapplication-tileimage": "https://i1.wp.com/mediabiasfactcheck.com/wp-content/uploads/2019/09/70594586_2445557865563713_6069591037599285248_n.png?fit=270%2C270&ssl=1",
+            "og:description": "QUESTIONABLE SOURCE A questionable source exhibits one or more of the following: extreme bias, consistent promotion of propaganda/conspiracies, poor or no sourcing to credible information, a complete lack of transparency and/or is fake news. Fake News is the deliberate attempt to publish hoaxes and/or disinformation for the purpose of profit or influence (Learn More). Sources listed in the Questionable Category may be very untrustworthy and should be fact checked on a per article basis. Please note sources on this list are not considered fake news unless specifically written in the reasoning section for that source. See all Questionable sources. Overall, we rate Judicial Watch Questionable based on extreme right wing bias, promotion of conspiracy theories and a very poor fact check record. Detailed Report Reasoning: Extreme Right, Conspiracy, Propaganda, Numerous Failed Fact Checks Country: USA World Press Freedom Rank: USA 48/180 History Founded in 1994 by Larry Klayman, Judicial Watch (JW) is an Americ",
+            "twitter:creator": "@MBFC_News",
+            "article:publisher": "https://www.facebook.com/mediabiasfactcheck/",
+            "pocket-site-verification": "64413ce5d0fd6d4f8e00e6d8cfa5b3",
+            "twitter:site": "@MBFC_News",
+            "article:modified_time": "2020-04-29T20:03:14+00:00",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:locale": "en_US",
+            "og:url": "https://mediabiasfactcheck.com/judicial-watch/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i2.wp.com/mediabiasfactcheck.com/wp-content/uploads/2019/09/70982153_683576715489993_3036728782363820032_n.jpg?fit=480%2C480&ssl=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Untitled",
+      "htmlTitle": "Untitled",
+      "link": "https://cdn.factcheck.org/UploadedFiles/comey-memos.pdf",
+      "displayLink": "cdn.factcheck.org",
+      "snippet": "Apr 19, 2018 ... (FBI). COMEY, JAMES B. (DO) (FBI). My notes from private session ... As i walked \nin from West Exec, I saw and briefly chatted with Bill Priestap.",
+      "htmlSnippet": "Apr 19, 2018 \u003cb\u003e...\u003c/b\u003e (\u003cb\u003eFBI\u003c/b\u003e). COMEY, JAMES B. (DO) (\u003cb\u003eFBI\u003c/b\u003e). My notes from private session ... As i walked \u003cbr\u003e\nin from West Exec, I saw and briefly chatted with Bill \u003cb\u003ePriestap\u003c/b\u003e.",
+      "cacheId": "Fi-l9VGm4lsJ",
+      "formattedUrl": "https://cdn.factcheck.org/UploadedFiles/comey-memos.pdf",
+      "htmlFormattedUrl": "https://cdn.factcheck.org/UploadedFiles/comey-memos.pdf",
+      "pagemap": {
+        "metatags": [
+          {
+            "moddate": "Fri Apr 20 09:29:56 2018",
+            "creator": "RICOH MP C6502",
+            "creationdate": "Thu Apr 19 14:13:57 2018",
+            "producer": "RICOH MP C6502"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Fake News: FBI Did NOT Admit Barack Obama Told Bare-Faced Lie ...",
+      "htmlTitle": "Fake News: \u003cb\u003eFBI\u003c/b\u003e Did NOT Admit Barack Obama Told Bare-Faced Lie ...",
+      "link": "https://leadstories.com/hoax-alert/2019/04/fake-news-fbi-didi-not-admit-barack-obama-told-bare-faced-lie-to-nation-about-hillarys-emails.html",
+      "displayLink": "leadstories.com",
+      "snippet": "Apr 25, 2019 ... Did the FBI admit that President Barack Obama lied to the nation about ... E.W. (\nBill) Priestap, assistant director of the FBI Counterintelligence ...",
+      "htmlSnippet": "Apr 25, 2019 \u003cb\u003e...\u003c/b\u003e Did the \u003cb\u003eFBI\u003c/b\u003e admit that President Barack Obama lied to the nation about ... E.W. (\u003cbr\u003e\nBill) \u003cb\u003ePriestap\u003c/b\u003e, assistant director of the \u003cb\u003eFBI\u003c/b\u003e Counterintelligence&nbsp;...",
+      "cacheId": "BDeofkL8u7EJ",
+      "formattedUrl": "https://leadstories.com/.../fake-news-fbi-didi-not-admit-barack-obama-told- bare-faced-lie-to-nation-about-hillarys-emails.html",
+      "htmlFormattedUrl": "https://leadstories.com/.../fake-news-\u003cb\u003efbi\u003c/b\u003e-didi-not-admit-barack-obama-told- bare-faced-lie-to-nation-about-hillarys-emails.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEKOgIyJdc8M5HUzt4WEB9AL-MSU4etVEj441p-rBHqKTbzqH0weuOWPa0",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://leadstories.com/caption_3470399.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Fake News: FBI Did NOT Admit Barack Obama Told Bare-Faced Lie To Nation About Hillary's Emails | Lead Stories",
+            "tw:url": "https://hoax-alert.leadstories.com/3470399-fake-news-fbi-didi-not-admit-barack-obama-told-bare-faced-lie-to-nation-about-hillarys-emails.html",
+            "og:title": "Fake News: FBI Did NOT Admit Barack Obama Told Bare-Faced Lie To Nation About Hillary's Emails | Lead Stories",
+            "title": "Fake News: FBI Did NOT Admit Barack Obama Told Bare-Faced Lie To Nation About Hillary's Emails | Lead Stories",
+            "tw:via": "leadstoriescom",
+            "og:description": "Did the FBI admit that President Barack Obama lied to the nation about Hillary Clinton&#039;s email? No, that&#039;s not true:...",
+            "fb:pages": "798861733546466",
+            "twitter:image": "https://leadstories.com/caption_3470399.jpg",
+            "tw:text": "Fake News: FBI Did NOT Admit Barack Obama Told Bare-Faced Lie To Nation About Hillary's Emails Lead Stories",
+            "fb:app_id": "696143150593347",
+            "twitter:site": "@leadstoriescom",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Did the FBI admit that President Barack Obama lied to the nation about Hillary Clinton's email? No, that's not true:...",
+            "og:url": "https://hoax-alert.leadstories.com/3470399-fake-news-fbi-didi-not-admit-barack-obama-told-bare-faced-lie-to-nation-about-hillarys-emails.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://leadstories.com/caption_3470399.jpg"
+          }
+        ],
+        "blogposting": [
+          {
+            "name": "Fake News: FBI Did NOT Admit Barack Obama Told Bare-Faced Lie To Nation About Hillary's Emails",
+            "datepublished": "2019-04-25T08:03:17-07:00"
+          },
+          {
+            "name": "Fact Check: A Dog Vaccine Can NOT Be Used To Inoculate People Against Coronavirus",
+            "url": "Fact Check: A Dog Vaccine Can NOT Be Used To Inoculate People Against Coronavirus Hoax Alert Mar 16, 2020 by: Chelsea Carter",
+            "datepublished": "2020-03-16T18:04:17-07:00"
+          },
+          {
+            "name": "Fact Check: Bill Gates CANNOT Prescribe Drugs, And 'Dr. Sebi' Was Barred From Practicing In Some States",
+            "url": "Not MDs Fact Check: Bill Gates CANNOT Prescribe Drugs, And 'Dr. Sebi' Was Barred From Practicing In Some States Hoax Alert Apr 21, 2020 by: Gita Smith",
+            "datepublished": "2020-04-21T12:22:59-07:00"
+          },
+          {
+            "name": "Fact Check: AOC Did NOT Say Jesus And Trump Are Con Artists",
+            "url": "Fake Quote Fact Check: AOC Did NOT Say Jesus And Trump Are Con Artists Hoax Alert Apr 21, 2020 by: Sarah Thompson",
+            "datepublished": "2020-04-21T06:00:31-07:00"
+          },
+          {
+            "name": "Fact Check: March 25 Death Count Numbers Meme Highly Misleading About Coronavirus Pandemic",
+            "url": "Wrong Numbers Fact Check: March 25 Death Count Numbers Meme Highly Misleading About Coronavirus Pandemic Hoax Alert Apr 16, 2020 by: Alexis Tereszcuk",
+            "datepublished": "2020-04-16T06:26:31-07:00"
+          },
+          {
+            "name": "Fact Check: Bath & Body Works Is NOT Giving Away Free $150 Coupons To All",
+            "url": "Scam Fact Check: Bath & Body Works Is NOT Giving Away Free $150 Coupons To All Hoax Alert Apr 20, 2020 by: Alan Duke",
+            "datepublished": "2020-04-20T13:15:43-07:00"
+          },
+          {
+            "name": "Fact Check: Bill Would NOT Require Federal Licenses For Guns Already Owned",
+            "url": "Only New Guns Fact Check: Bill Would NOT Require Federal Licenses For Guns Already Owned Hoax Alert Apr 7, 2020 by: Jessica Ravitz",
+            "datepublished": "2020-04-07T13:29:59-07:00"
+          },
+          {
+            "name": "Fact Check: Smithfield Foods Are NOT Packaged In China",
+            "url": "Not From China Fact Check: Smithfield Foods Are NOT Packaged In China Hoax Alert Apr 15, 2020 by: Jessica Ravitz",
+            "datepublished": "2020-04-15T06:01:38-07:00"
+          },
+          {
+            "name": "Fact Check: Trey Gowdy Did NOT Go On Rant Claiming Coronavirus Shutdowns Were 'Fishy,' 'Well-Timed' And 'Costing Our Economy Billions'",
+            "url": "Fake Quote Fact Check: Trey Gowdy Did NOT Go On Rant Claiming Coronavirus Shutdowns Were 'Fishy,' 'Well-Timed' And 'Costing Our Economy Billions' Hoax Alert Apr 22, 2020 by: Alexis Tereszcuk",
+            "datepublished": "2020-04-22T15:25:47-07:00"
+          },
+          {
+            "name": "Fact Check: Dr. Birx Did NOT Say Lack Of COVID-19 Testing Was Because It Was Not Profitable For Private Labs",
+            "url": "Not For Profit Fact Check: Dr. Birx Did NOT Say Lack Of COVID-19 Testing Was Because It Was Not Profitable For Private Labs Hoax Alert Apr 22, 2020 by: Alexis Tereszcuk",
+            "datepublished": "2020-04-22T10:49:31-07:00"
+          },
+          {
+            "name": "Fact Check: White House Reporters Joking About Coronavirus Being A Hoax, That Vaccine Exists NOT Evidence Of Conspiracy",
+            "url": "Bad humor Fact Check: White House Reporters Joking About Coronavirus Being A Hoax, That Vaccine Exists NOT Evidence Of Conspiracy Hoax Alert Apr 22, 2020 by: Chelsea Carter",
+            "datepublished": "2020-04-22T09:53:58-07:00"
+          },
+          {
+            "name": "Fact Check: Pennsylvania House Did NOT Pass COVID-19 Funding In June 2019; NO Evidence Pandemic Was Planned",
+            "url": "Not Planned Fact Check: Pennsylvania House Did NOT Pass COVID-19 Funding In June 2019; NO Evidence Pandemic Was Planned Hoax Alert Apr 22, 2020 by: Chelsea Carter",
+            "datepublished": "2020-04-22T07:16:05-07:00"
+          },
+          {
+            "name": "Fact Check: Democrats Did NOT Try to Slip A Law Banning Pledge Of Allegiance Into Aid Package",
+            "url": "Satire Fact Check: Democrats Did NOT Try to Slip A Law Banning Pledge Of Allegiance Into Aid Package Hoax Alert Apr 22, 2020 by: Maarten Schenk",
+            "datepublished": "2020-04-22T05:02:34-07:00"
+          },
+          {
+            "name": "Fact Check: Hillary Clinton NOT Headed To Jail, DOJ Did NOT Confirm Russia Paid Her $3M",
+            "url": "Not To Jail Fact Check: Hillary Clinton NOT Headed To Jail, DOJ Did NOT Confirm Russia Paid Her $3M Hoax Alert Apr 22, 2020 by: Mary Acosta",
+            "datepublished": "2020-04-22T03:42:03-07:00"
+          },
+          {
+            "name": "Fact Check: American Taxpayers Will NOT Save $57.4 Billion Yearly After Trump 'Banned Welfare For Illegal Immigrants'",
+            "url": "Not 'Illegals' Fact Check: American Taxpayers Will NOT Save $57.4 Billion Yearly After Trump 'Banned Welfare For Illegal Immigrants' Hoax Alert Apr 21, 2020 by: Alexis Tereszcuk",
+            "datepublished": "2020-04-21T13:37:18-07:00"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 <div class="footer">
-<body style = "background-color: blue;">
+<body>
 
 	&copy; <?php print date("Y");?>
 </div>

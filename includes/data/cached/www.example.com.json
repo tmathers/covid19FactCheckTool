@@ -1,0 +1,536 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - www.example.com",
+        "totalResults": "14000",
+        "searchTerms": "www.example.com",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - www.example.com",
+        "totalResults": "14000",
+        "searchTerms": "www.example.com",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ]
+  },
+  "context": {
+    "title": "Snopes"
+  },
+  "searchInformation": {
+    "searchTime": 0.297731,
+    "formattedSearchTime": "0.30",
+    "totalResults": "14000",
+    "formattedTotalResults": "14,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Our Process - FactCheck.org",
+      "htmlTitle": "Our Process - FactCheck.org",
+      "link": "https://www.factcheck.org/our-process/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "... our review for other federal races to those that are identified by nonpartisan \nsources as “competitive” – which, for example, were eight Senate races in 2014.",
+      "htmlSnippet": "... our review for other federal races to those that are identified by nonpartisan \u003cbr\u003e\nsources as “competitive” – which, for \u003cb\u003eexample\u003c/b\u003e, were eight Senate races in 2014.",
+      "cacheId": "rlWkNUX1VKoJ",
+      "formattedUrl": "https://www.factcheck.org/our-process/",
+      "htmlFormattedUrl": "https://www.factcheck.org/our-process/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfvcyu7QrLkwBDEkJfRqz1Dg2yTGL1RG9QpQ6gRcSV8ZMspIAMqR2qHQ",
+            "width": "241",
+            "height": "96"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2016-12-13T11:10:13+00:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Our Process",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Our Process",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2019-11-26T11:57:27+00:00",
+            "og:description": "At FactCheck.org, we follow a process when we select, research, write, edit and, if necessary, correct our articles. Topics Our topics vary slightly depending on the election cycle. In all years, we closely monitor the",
+            "article:modified_time": "2019-11-26T11:57:27+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "At FactCheck.org, we follow a process when we select, research, write, edit and, if necessary, correct our articles. Topics Our topics vary slightly depending on the election cycle. In all years, we closely monitor the",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/our-process/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/fc-icon-donate.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "99% Fact-Free - FactCheck.org",
+      "htmlTitle": "99% Fact-Free - FactCheck.org",
+      "link": "https://www.factcheck.org/2007/10/99-fact-free/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Oct 12, 2007 ... Our example from Democratic candidate John Edwards also pushes the ... These \nads are examples of what propaganda experts called ...",
+      "htmlSnippet": "Oct 12, 2007 \u003cb\u003e...\u003c/b\u003e Our \u003cb\u003eexample\u003c/b\u003e from Democratic candidate John Edwards also pushes the ... These \u003cbr\u003e\nads are \u003cb\u003eexamples\u003c/b\u003e of what propaganda experts called&nbsp;...",
+      "cacheId": "VxZCRwv9rckJ",
+      "formattedUrl": "https://www.factcheck.org/2007/10/99-fact-free/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2007/10/99-fact-free/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7Tfkw36f405YyB8fi6QaloNFaU4OFs_t19C-4hSDxA3F0eqk5BzBGrg",
+            "width": "241",
+            "height": "96"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2007-10-12T03:00:00+00:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "99% Fact-Free",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "99% Fact-Free",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2007-10-12T03:00:00+00:00",
+            "og:description": "In this article we examine two examples of what we call \"fact-free\" advertising, which we see in abundance. These ads seek to associate the candidate with a string of positive words and images but are void of specifics.",
+            "article:modified_time": "2007-10-12T03:00:00+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "In this article we examine two examples of what we call \"fact-free\" advertising, which we see in abundance. These ads seek to associate the candidate with a string of positive words and images but are void of specifics.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2007/10/99-fact-free/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/fc-icon-donate.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Carson Rewrites Laws of Thermodynamics - FactCheck.org",
+      "htmlTitle": "Carson Rewrites Laws of Thermodynamics - FactCheck.org",
+      "link": "https://www.factcheck.org/2015/09/carson-rewrites-the-laws-of-thermodynamics/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Sep 24, 2015 ... One good example of this is an ice tray in a freezer. The molecules in liquid water \nmove into a more ordered state when they freeze into a solid.",
+      "htmlSnippet": "Sep 24, 2015 \u003cb\u003e...\u003c/b\u003e One good \u003cb\u003eexample\u003c/b\u003e of this is an ice tray in a freezer. The molecules in liquid water \u003cbr\u003e\nmove into a more ordered state when they freeze into a solid.",
+      "cacheId": "EBzn8z2E930J",
+      "formattedUrl": "https://www.factcheck.org/.../carson-rewrites-the-laws-of-thermodynamics/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../carson-rewrites-the-laws-of-thermodynamics/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxSB8Jb8onNf-jY-QDxCw_pYEeiEqsZgavQb6ultlHZt-zK8qmL4OkarI",
+            "width": "344",
+            "height": "147"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/BigBang.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2015-09-24T13:33:48+00:00",
+            "og:image:width": "720",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Carson Rewrites Laws of Thermodynamics",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Carson Rewrites Laws of Thermodynamics",
+            "og:image:height": "308",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2015-09-24T16:18:44+00:00",
+            "og:description": "Ben Carson claimed that prevailing theories of how the universe began and how planets and stars formed violate the second law of thermodynamics. His comments represent a misunderstanding of scientific concepts.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/BigBang.png",
+            "article:modified_time": "2015-09-24T16:18:44+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Ben Carson claimed that prevailing theories of how the universe began and how planets and stars formed violate the second law of thermodynamics. His comments represent a misunderstanding of scientific concepts.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2015/09/carson-rewrites-the-laws-of-thermodynamics/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/BigBang.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "RNC Fails to Document Ad's Claim - FactCheck.org",
+      "htmlTitle": "RNC Fails to Document Ad&#39;s Claim - FactCheck.org",
+      "link": "https://www.factcheck.org/2003/12/rnc-fails-to-document-ads-claim/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Dec 5, 2003 ... The RNC's examples included, for example, Richard Gephardt saying last ... The \nRNCs' examples included John Edwards ridiculing the Bush ...",
+      "htmlSnippet": "Dec 5, 2003 \u003cb\u003e...\u003c/b\u003e The RNC&#39;s \u003cb\u003eexamples\u003c/b\u003e included, for \u003cb\u003eexample\u003c/b\u003e, Richard Gephardt saying last ... The \u003cbr\u003e\nRNCs&#39; \u003cb\u003eexamples\u003c/b\u003e included John Edwards ridiculing the Bush&nbsp;...",
+      "cacheId": "7jVOBjvOGdMJ",
+      "formattedUrl": "https://www.factcheck.org/2003/12/rnc-fails-to-document-ads-claim/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2003/12/rnc-fails-to-document-ads-claim/",
+      "pagemap": {
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2003-12-05T03:00:00+00:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "RNC Fails to Document Ad's Claim",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "RNC Fails to Document Ad's Claim",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2003-12-05T03:00:00+00:00",
+            "og:description": "In a TV ad supporting the President the Republican National Committee went four words too far, not-very-subtly implying that Democrats who have criticized him are something close to traitors.",
+            "article:modified_time": "2003-12-05T03:00:00+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "In a TV ad supporting the President the Republican National Committee went four words too far, not-very-subtly implying that Democrats who have criticized him are something close to traitors.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2003/12/rnc-fails-to-document-ads-claim/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Carson's 'Extreme Bias' Example - FactCheck.org",
+      "htmlTitle": "Carson&#39;s &#39;Extreme Bias&#39; \u003cb\u003eExample\u003c/b\u003e - FactCheck.org",
+      "link": "https://www.factcheck.org/2015/11/carsons-extreme-bias-example/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Nov 2, 2015 ... Republican presidential candidate Ben Carson says he would use the \nDepartment of Education to monitor “extreme political bias” on college ...",
+      "htmlSnippet": "Nov 2, 2015 \u003cb\u003e...\u003c/b\u003e Republican presidential candidate Ben Carson says he would use the \u003cbr\u003e\nDepartment of Education to monitor “extreme political bias” on college&nbsp;...",
+      "cacheId": "ewalfMDMNmwJ",
+      "formattedUrl": "https://www.factcheck.org/2015/11/carsons-extreme-bias-example/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2015/11/carsons-extreme-bias-\u003cb\u003eexample\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZrGd2dO9MbX3iPKQHFbLxdsJZXp6jeu-gIZfWdpUFTsW27f1Lu89aG88",
+            "width": "150",
+            "height": "150"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/ben-carson.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2015-11-02T12:02:27+00:00",
+            "og:image:width": "150",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Carson's 'Extreme Bias' Example",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Carson's 'Extreme Bias' Example",
+            "og:image:height": "150",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2015-11-02T12:12:05+00:00",
+            "og:description": "Republican presidential candidate Ben Carson says he would use the Department of Education to monitor \"extreme political bias\" on college campuses, but the example he has cited isn't as clear-cut as Carson suggests.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/ben-carson.jpg",
+            "article:modified_time": "2015-11-02T12:12:05+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Republican presidential candidate Ben Carson says he would use the Department of Education to monitor \"extreme political bias\" on college campuses, but the example he has cited isn't as clear-cut as Carson suggests.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2015/11/carsons-extreme-bias-example/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/ben-carson.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Video: Carson on 'Extreme Bias' - FactCheck.org",
+      "htmlTitle": "Video: Carson on &#39;Extreme Bias&#39; - FactCheck.org",
+      "link": "https://www.factcheck.org/2015/11/video-carson-on-extreme-bias/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Nov 6, 2015 ... This week, CNN's Jake Tapper gives the full account of an incident Ben Carson \nhas described as an example of “extreme political bias” on ...",
+      "htmlSnippet": "Nov 6, 2015 \u003cb\u003e...\u003c/b\u003e This week, CNN&#39;s Jake Tapper gives the full account of an incident Ben Carson \u003cbr\u003e\nhas described as an \u003cb\u003eexample\u003c/b\u003e of “extreme political bias” on&nbsp;...",
+      "cacheId": "oQtjbFU5OOoJ",
+      "formattedUrl": "https://www.factcheck.org/2015/11/video-carson-on-extreme-bias/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2015/11/video-carson-on-extreme-bias/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFYVa2CX1eACS3a2f5CdR1AixSQD1ySXQUTuB-b2md1O915xfgYH0FO6k",
+            "width": "150",
+            "height": "150"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/tapper_.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2015-11-06T14:41:59+00:00",
+            "og:image:width": "150",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Video: Carson on 'Extreme Bias'",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Video: Carson on 'Extreme Bias'",
+            "og:image:height": "150",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2015-11-06T14:52:48+00:00",
+            "og:description": "This week, CNN's Jake Tapper gives the full account of an incident Ben Carson has described as an example of \"extreme political bias\" on college campuses.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/tapper_.jpg",
+            "article:modified_time": "2015-11-06T14:52:48+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "This week, CNN's Jake Tapper gives the full account of an incident Ben Carson has described as an example of \"extreme political bias\" on college campuses.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2015/11/video-carson-on-extreme-bias/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/tapper_.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Romney Hijacks Credibility - FactCheck.org",
+      "htmlTitle": "Romney Hijacks Credibility - FactCheck.org",
+      "link": "https://www.factcheck.org/2012/08/romney-hijacks-credibility/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Aug 10, 2012 ... In this example, the Romney ad attacks President Obama's mandate requiring \nemployers to provide health insurance that includes free ...",
+      "htmlSnippet": "Aug 10, 2012 \u003cb\u003e...\u003c/b\u003e In this \u003cb\u003eexample\u003c/b\u003e, the Romney ad attacks President Obama&#39;s mandate requiring \u003cbr\u003e\nemployers to provide health insurance that includes free&nbsp;...",
+      "cacheId": "ZZtEnWb4XIoJ",
+      "formattedUrl": "https://www.factcheck.org/2012/08/romney-hijacks-credibility/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2012/08/romney-hijacks-credibility/",
+      "pagemap": {
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/romney_war_on_religion.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2012-08-10T14:26:44+00:00",
+            "og:image:width": "75",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Romney Hijacks Credibility",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Romney Hijacks Credibility",
+            "og:image:height": "75",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2012-08-13T08:53:27+00:00",
+            "og:description": "A new Mitt Romney campaign ad passes off opinions of a former speechwriter for President George W. Bush as though they were from a newspaper's reporters or editors. It's a political trick used by both",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/romney_war_on_religion.png",
+            "article:modified_time": "2012-08-13T08:53:27+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "A new Mitt Romney campaign ad passes off opinions of a former speechwriter for President George W. Bush as though they were from a newspaper's reporters or editors. It's a political trick used by both",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2012/08/romney-hijacks-credibility/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "GOP Hits Turbulence with FAA Claim - FactCheck.org",
+      "htmlTitle": "GOP Hits Turbulence with FAA Claim - FactCheck.org",
+      "link": "https://www.factcheck.org/2013/04/gop-hits-turbulence-with-faa-claim/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Apr 24, 2013 ... For example, Rep. Bill Shuster, who chairs the House Committee on \nTransportation and Infrastructure, says the FAA spends “nearly $500 ...",
+      "htmlSnippet": "Apr 24, 2013 \u003cb\u003e...\u003c/b\u003e For \u003cb\u003eexample\u003c/b\u003e, Rep. Bill Shuster, who chairs the House Committee on \u003cbr\u003e\nTransportation and Infrastructure, says the FAA spends “nearly $500&nbsp;...",
+      "cacheId": "dR6zVKQ9zDEJ",
+      "formattedUrl": "https://www.factcheck.org/2013/04/gop-hits-turbulence-with-faa-claim/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2013/04/gop-hits-turbulence-with-faa-claim/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1q_29JdUWx3FNL_iK3Be3WSf-7_R1CimTIUFx0oujYL6sEArZiZdVEwbK",
+            "width": "150",
+            "height": "150"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/PartyLines-Thumb_red.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2013-04-24T16:52:42+00:00",
+            "og:image:width": "150",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "GOP Hits Turbulence with FAA Claim",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "GOP Hits Turbulence with FAA Claim",
+            "og:image:height": "150",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2014-02-24T10:49:53+00:00",
+            "og:description": "A number of Republicans are using misleading numbers when they say the Federal Aviation Administration should cut consultants and travel before resorting to furloughs that are causing airport delays.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/PartyLines-Thumb_red.png",
+            "article:modified_time": "2014-02-24T10:49:53+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "A number of Republicans are using misleading numbers when they say the Federal Aviation Administration should cut consultants and travel before resorting to furloughs that are causing airport delays.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2013/04/gop-hits-turbulence-with-faa-claim/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/PartyLines-Thumb_red.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Deutch Misses Mark in Attack on Scott - FactCheck.org",
+      "htmlTitle": "Deutch Misses Mark in Attack on Scott - FactCheck.org",
+      "link": "https://www.factcheck.org/2018/11/deutch-misses-mark-in-attack-on-scott/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Nov 16, 2018 ... Rep. Ted Deutch accused Florida Gov. Rick Scott of “trying to manipulate the \noutcome of elections,” providing examples that went beyond the ...",
+      "htmlSnippet": "Nov 16, 2018 \u003cb\u003e...\u003c/b\u003e Rep. Ted Deutch accused Florida Gov. Rick Scott of “trying to manipulate the \u003cbr\u003e\noutcome of elections,” providing \u003cb\u003eexamples\u003c/b\u003e that went beyond the&nbsp;...",
+      "cacheId": "LFXVAOtT4kAJ",
+      "formattedUrl": "https://www.factcheck.org/2018/11/deutch-misses-mark-in-attack-on-scott/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2018/11/deutch-misses-mark-in-attack-on-scott/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROKiH-dAboDqfzTGlUEwBdXR9Bsgv2aIAuV1BCqAM9K1CtoxFoBHgWpU2z",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/Ted-Deutch.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2018-11-16T11:48:03+00:00",
+            "og:image:width": "300",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Deutch Misses Mark in Attack on Scott",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Deutch Misses Mark in Attack on Scott",
+            "og:image:height": "300",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2018-11-16T15:21:03+00:00",
+            "og:description": "Rep. Ted Deutch accused Florida Gov. Rick Scott of “trying to manipulate the outcome of elections,” providing examples that went beyond the facts.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/Ted-Deutch.png",
+            "article:modified_time": "2018-11-16T15:21:03+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Rep. Ted Deutch accused Florida Gov. Rick Scott of “trying to manipulate the outcome of elections,” providing examples that went beyond the facts.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2018/11/deutch-misses-mark-in-attack-on-scott/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/Ted-Deutch.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Kerry Stays Positive, Avoids Specifics - FactCheck.org",
+      "htmlTitle": "Kerry Stays Positive, Avoids Specifics - FactCheck.org",
+      "link": "https://www.factcheck.org/2004/06/kerry-stays-positive-avoids-specifics/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Jun 1, 2004 ... It has Kerry saying, for example, “We're a country of the future….we're a country \nof optimists, we're the can-do people.” You won't catch us ...",
+      "htmlSnippet": "Jun 1, 2004 \u003cb\u003e...\u003c/b\u003e It has Kerry saying, for \u003cb\u003eexample\u003c/b\u003e, “We&#39;re a country of the future….we&#39;re a country \u003cbr\u003e\nof optimists, we&#39;re the can-do people.” You won&#39;t catch us&nbsp;...",
+      "cacheId": "_oudoEJGD8AJ",
+      "formattedUrl": "https://www.factcheck.org/2004/06/kerry-stays-positive-avoids-specifics/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2004/06/kerry-stays-positive-avoids-specifics/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7Tfkw36f405YyB8fi6QaloNFaU4OFs_t19C-4hSDxA3F0eqk5BzBGrg",
+            "width": "241",
+            "height": "96"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2004-06-01T03:00:00+00:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Kerry Stays Positive, Avoids Specifics",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Kerry Stays Positive, Avoids Specifics",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2004-06-01T03:00:00+00:00",
+            "og:description": "His latest ad is all generalities, no facts.",
+            "article:modified_time": "2004-06-01T03:00:00+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "His latest ad is all generalities, no facts.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2004/06/kerry-stays-positive-avoids-specifics/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/fc-icon-donate.png"
+          }
+        ]
+      }
+    }
+  ]
+}

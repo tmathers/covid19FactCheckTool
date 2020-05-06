@@ -1,0 +1,563 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - global coronavirus pandemic|mishandle|cbc",
+        "totalResults": "18600",
+        "searchTerms": "global coronavirus pandemic|mishandle|cbc",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - global coronavirus pandemic|mishandle|cbc",
+        "totalResults": "18600",
+        "searchTerms": "global coronavirus pandemic|mishandle|cbc",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ]
+  },
+  "context": {
+    "title": "Snopes"
+  },
+  "searchInformation": {
+    "searchTime": 0.332678,
+    "formattedSearchTime": "0.33",
+    "totalResults": "18600",
+    "formattedTotalResults": "18,600"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Q&A on the Coronavirus Pandemic - FactCheck.org",
+      "htmlTitle": "Q&amp;A on the \u003cb\u003eCoronavirus Pandemic\u003c/b\u003e - FactCheck.org",
+      "link": "https://www.factcheck.org/2020/03/qa-on-the-coronavirus-pandemic/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Mar 18, 2020 ... We've written about many bogus claims about the new coronavirus ... Two days \nearlier, the WHO had declared the global outbreak a pandemic.",
+      "htmlSnippet": "Mar 18, 2020 \u003cb\u003e...\u003c/b\u003e We&#39;ve written about many bogus claims about the new \u003cb\u003ecoronavirus\u003c/b\u003e ... Two days \u003cbr\u003e\nearlier, the WHO had declared the \u003cb\u003eglobal\u003c/b\u003e outbreak a \u003cb\u003epandemic\u003c/b\u003e.",
+      "cacheId": "9tRMig_MxTYJ",
+      "formattedUrl": "https://www.factcheck.org/2020/03/qa-on-the-coronavirus-pandemic/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2020/03/qa-on-the-\u003cb\u003ecoronavirus\u003c/b\u003e-\u003cb\u003epandemic\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhfp9jkyVSMpihVQ8LUL1x1f8oz5maJjW6XxqtdDdFzcPwcJPRY0_gk0",
+            "width": "344",
+            "height": "146"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/jhu-map.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-03-18T16:49:21+00:00",
+            "og:image:width": "1127",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Q&A on the Coronavirus Pandemic",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Q&A on the Coronavirus Pandemic",
+            "og:image:height": "481",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-03-21T10:38:29+00:00",
+            "og:description": "We answer some key questions about what is known so far about the outbreak and the virus.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/jhu-map.png",
+            "article:modified_time": "2020-03-21T10:38:29+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "We answer some key questions about what is known so far about the outbreak and the virus.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/03/qa-on-the-coronavirus-pandemic/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/jhu-map.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "False Claim About CDC's Global Anti-Pandemic Work - FactCheck.org",
+      "htmlTitle": "False Claim About CDC&#39;s \u003cb\u003eGlobal\u003c/b\u003e Anti-\u003cb\u003ePandemic\u003c/b\u003e Work - FactCheck.org",
+      "link": "https://www.factcheck.org/2020/03/false-claim-about-cdcs-global-anti-pandemic-work/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Mar 12, 2020 ... As the COVID-19 disease caused by the new coronavirus has spread around the \nworld, a number of politicians, news organizations and public ...",
+      "htmlSnippet": "Mar 12, 2020 \u003cb\u003e...\u003c/b\u003e As the COVID-19 disease caused by the new \u003cb\u003ecoronavirus\u003c/b\u003e has spread around the \u003cbr\u003e\n\u003cb\u003eworld\u003c/b\u003e, a number of politicians, news organizations and public&nbsp;...",
+      "cacheId": "Sz4x4hP2-3oJ",
+      "formattedUrl": "https://www.factcheck.org/.../false-claim-about-cdcs-global-anti-pandemic- work/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../false-claim-about-cdcs-\u003cb\u003eglobal\u003c/b\u003e-anti-\u003cb\u003epandemic\u003c/b\u003e- work/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ1Rc0G6cfuNywITAENyuP2OscSSKiF2BgA9TCfdq2cXYv0TGc11tBZjLk",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/ebola_training_course.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-03-12T12:28:03+00:00",
+            "og:image:width": "500",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "False Claim About CDC's Global Anti-Pandemic Work",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "False Claim About CDC's Global Anti-Pandemic Work",
+            "og:image:height": "500",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-03-12T12:28:03+00:00",
+            "og:description": "As the COVID-19 disease caused by the new coronavirus has spread around the world, a number of politicians, news organizations and public figures have made the false claim that the Trump administration cut the Centers for Disease Control and Prevention's anti-pandemic work in over 40 countries to just 10.",
+            "twitter:creator": "@dangelogore",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/ebola_training_course.jpg",
+            "article:modified_time": "2020-03-12T12:28:03+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "As the COVID-19 disease caused by the new coronavirus has spread around the world, a number of politicians, news organizations and public figures have made the false claim that the Trump administration cut the Centers for Disease Control and Prevention's anti-pandemic work in over 40 countries to just 10.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/03/false-claim-about-cdcs-global-anti-pandemic-work/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/ebola_training_course.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Trump Administration Fire the US Pandemic Response Team?",
+      "htmlTitle": "Did Trump Administration Fire the US \u003cb\u003ePandemic\u003c/b\u003e Response Team?",
+      "link": "https://www.snopes.com/fact-check/trump-fire-pandemic-team/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Feb 26, 2020 ... As a new coronavirus spread in 2020, so did concerns about the United ... stating \nthat funding for the CDC's global disease outbreak prevention ...",
+      "htmlSnippet": "Feb 26, 2020 \u003cb\u003e...\u003c/b\u003e As a new \u003cb\u003ecoronavirus\u003c/b\u003e spread in 2020, so did concerns about the United ... stating \u003cbr\u003e\nthat funding for the CDC&#39;s \u003cb\u003eglobal\u003c/b\u003e disease outbreak prevention&nbsp;...",
+      "cacheId": "aN3543S4iFMJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/trump-fire-pandemic-team/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/trump-fire-\u003cb\u003epandemic\u003c/b\u003e-team/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_ZXs-adAk3O2h6rmAOf7j4XpacoJGizmUayWPfMKR1HhX5uINLi-PKYMh",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/02/GettyImages-1178674303.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Trump Administration Fire the US Pandemic Response Team?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Trump Administration Fire the US Pandemic Response Team?",
+            "og:image:height": "628",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "As a new coronavirus spread in 2020, so did concerns about the United States' preparedness for a potential pandemic.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/02/GettyImages-1178674303.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/02/GettyImages-1178674303.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "As a new coronavirus spread in 2020, so did concerns about the United States' preparedness for a potential pandemic.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/trump-fire-pandemic-team/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/02/GettyImages-1178674303.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Contrary to Trump's Claim, A Pandemic Was Widely Expected at ...",
+      "htmlTitle": "Contrary to Trump&#39;s Claim, A \u003cb\u003ePandemic\u003c/b\u003e Was Widely Expected at ...",
+      "link": "https://www.factcheck.org/2020/03/contrary-to-trumps-claim-a-pandemic-was-widely-expected-at-some-point/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Mar 20, 2020 ... The president made his remarks at a coronavirus task force press briefing ... \npotentially catastrophic outbreak of global disease, and some have ...",
+      "htmlSnippet": "Mar 20, 2020 \u003cb\u003e...\u003c/b\u003e The president made his remarks at a \u003cb\u003ecoronavirus\u003c/b\u003e task force press briefing ... \u003cbr\u003e\npotentially catastrophic outbreak of \u003cb\u003eglobal\u003c/b\u003e disease, and some have&nbsp;...",
+      "cacheId": "knEimLGwSOUJ",
+      "formattedUrl": "https://www.factcheck.org/.../contrary-to-trumps-claim-a-pandemic-was- widely-expected-at-some-point/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../contrary-to-trumps-claim-a-\u003cb\u003epandemic\u003c/b\u003e-was- widely-expected-at-some-point/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaIn69p9YvBIL3FYnuxGot0SB85mBIbloZLrb69SciVGT6Y6aQ6yfWsvM",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/testing-site.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-03-20T17:20:59+00:00",
+            "og:image:width": "300",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Contrary to Trump's Claim, A Pandemic Was Widely Expected at Some Point",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Contrary to Trump's Claim, A Pandemic Was Widely Expected at Some Point",
+            "og:image:height": "300",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-03-20T17:20:59+00:00",
+            "og:description": "At a White House briefing March 19, President Donald Trump said, \"Nobody knew there’d be a pandemic or an epidemic of this proportion.\" But that's simply not the case.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/testing-site.png",
+            "article:modified_time": "2020-03-20T17:20:59+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "At a White House briefing March 19, President Donald Trump said, \"Nobody knew there’d be a pandemic or an epidemic of this proportion.\" But that's simply not the case.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/03/contrary-to-trumps-claim-a-pandemic-was-widely-expected-at-some-point/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/testing-site.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "New Coronavirus Wasn't 'Predicted' In Simulation - FactCheck.org",
+      "htmlTitle": "New \u003cb\u003eCoronavirus\u003c/b\u003e Wasn&#39;t &#39;Predicted&#39; In Simulation - FactCheck.org",
+      "link": "https://www.factcheck.org/2020/01/new-coronavirus-wasnt-predicted-in-simulation/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Jan 29, 2020 ... For the scenario, we modeled a fictional coronavirus pandemic, but we ... on a \ntype of coronavirus, said David Hamer, professor of global health ...",
+      "htmlSnippet": "Jan 29, 2020 \u003cb\u003e...\u003c/b\u003e For the scenario, we modeled a fictional \u003cb\u003ecoronavirus pandemic\u003c/b\u003e, but we ... on a \u003cbr\u003e\ntype of \u003cb\u003ecoronavirus\u003c/b\u003e, said David Hamer, professor of \u003cb\u003eglobal\u003c/b\u003e health&nbsp;...",
+      "cacheId": "Km9WQtLBzhgJ",
+      "formattedUrl": "https://www.factcheck.org/.../new-coronavirus-wasnt-predicted-in-simulation/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../new-\u003cb\u003ecoronavirus\u003c/b\u003e-wasnt-predicted-in-simulation/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4t-dIaT2xvVT7AB1sZqgJSxWAeL4XSYzO2hfmdBXIZIouJgoU6CmbiJY",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/Wuhan_thumb_012920.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-01-29T12:37:54+00:00",
+            "og:image:width": "500",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "New Coronavirus Wasn't 'Predicted' In Simulation",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "New Coronavirus Wasn't 'Predicted' In Simulation",
+            "og:image:height": "500",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-01-29T12:37:54+00:00",
+            "og:description": "A conspiracy theory website distorted the facts about an emergency preparedness exercise to suggest that the \"GATES FOUNDATION & OTHERS PREDICTED UP TO 65 MILLION DEATHS\" from the coronavirus now spreading. The event dealt with a hypothetical scenario involving a fictional virus.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/Wuhan_thumb_012920.jpg",
+            "article:modified_time": "2020-01-29T12:37:54+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "A conspiracy theory website distorted the facts about an emergency preparedness exercise to suggest that the \"GATES FOUNDATION & OTHERS PREDICTED UP TO 65 MILLION DEATHS\" from the coronavirus now spreading. The event dealt with a hypothetical scenario involving a fictional virus.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/01/new-coronavirus-wasnt-predicted-in-simulation/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/Wuhan_thumb_012920.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Time Magazine Warn About Global Warming, Pandemic Years ...",
+      "htmlTitle": "Did Time Magazine Warn About \u003cb\u003eGlobal\u003c/b\u003e Warming, \u003cb\u003ePandemic\u003c/b\u003e Years ...",
+      "link": "https://www.snopes.com/fact-check/time-magazine-cover-warnings/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Apr 9, 2020 ... Unsurprisingly, during the COVID-19 coronavirus pandemic of early 2020, a \npopular social media post displayed covers of Time magazine ...",
+      "htmlSnippet": "Apr 9, 2020 \u003cb\u003e...\u003c/b\u003e Unsurprisingly, during the COVID-19 \u003cb\u003ecoronavirus pandemic\u003c/b\u003e of early 2020, a \u003cbr\u003e\npopular social media post displayed covers of Time magazine&nbsp;...",
+      "cacheId": "5BkQl3GoklIJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/time-magazine-cover-warnings/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/time-magazine-cover-warnings/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiw5S_zPC4VraAD93O8LSG1k15xIF2ydOGuqeu_IKaW4tqdk-wVKVSlH0",
+            "width": "279",
+            "height": "180"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/04/time_covers.jpg",
+            "og:type": "article",
+            "og:image:width": "904",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Time Magazine Warn About Global Warming, Pandemic Years Ago?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Time Magazine Warn About Global Warming, Pandemic Years Ago?",
+            "og:image:height": "585",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Who could have seen this coming? Just about anyone who can read.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/04/time_covers.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/04/time_covers.jpg",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Who could have seen this coming? Just about anyone who can read.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/time-magazine-cover-warnings/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/04/time_covers.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "WHO Declares that Coronavirus Crisis is Now a Pandemic",
+      "htmlTitle": "WHO Declares that \u003cb\u003eCoronavirus\u003c/b\u003e Crisis is Now a \u003cb\u003ePandemic\u003c/b\u003e",
+      "link": "https://www.snopes.com/ap/2020/03/11/who-declares-that-coronavirus-crisis-is-now-a-pandemic/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Mar 11, 2020 ... The head of the World Health Organization said the agency is “deeply ... \nWednesday that the global coronavirus crisis is now a pandemic.",
+      "htmlSnippet": "Mar 11, 2020 \u003cb\u003e...\u003c/b\u003e The head of the \u003cb\u003eWorld\u003c/b\u003e Health Organization said the agency is “deeply ... \u003cbr\u003e\nWednesday that the \u003cb\u003eglobal coronavirus\u003c/b\u003e crisis is now a \u003cb\u003epandemic\u003c/b\u003e.",
+      "cacheId": "QkVeCcdozZYJ",
+      "formattedUrl": "https://www.snopes.com/.../who-declares-that-coronavirus-crisis-is-now-a- pandemic/",
+      "htmlFormattedUrl": "https://www.snopes.com/.../who-declares-that-\u003cb\u003ecoronavirus\u003c/b\u003e-crisis-is-now-a- \u003cb\u003epandemic\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUjVuW4eArN4eU8rR_WZg2d_iNpSYjZzGVo8yW6QPr_bmvVFAEmmWTsd5",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/03/ap-coronavirus-pandemic-italy-e1583945505116.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "WHO Declares that Coronavirus Crisis is Now a Pandemic",
+            "og:site_name": "Snopes.com",
+            "og:title": "WHO Declares that Coronavirus Crisis is Now a Pandemic",
+            "og:image:height": "800",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "The head of the World Health Organization said the agency is “deeply concerned by the alarming levels of spread and severity,” as well as the \"alarming levels of inaction.\" of the outbreak.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/03/ap-coronavirus-pandemic-italy-e1583945505116.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/03/ap-coronavirus-pandemic-italy-e1583945505116.jpg",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "The head of the World Health Organization said the agency is “deeply concerned by the alarming levels of spread and severity,” as well as the \"alarming levels of inaction.\" of the outbreak.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/ap/2020/03/11/who-declares-that-coronavirus-crisis-is-now-a-pandemic/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/03/ap-coronavirus-pandemic-italy-e1583945505116.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Nostradamus Predict the COVID-19 Pandemic?",
+      "htmlTitle": "Did Nostradamus Predict the COVID-19 \u003cb\u003ePandemic\u003c/b\u003e?",
+      "link": "https://www.snopes.com/fact-check/nostradamus-covid-19/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Mar 20, 2020 ... In the midst of the COVID-19 coronavirus disease pandemic that broke out \nglobally in the first part of 2020, some social media users shared ...",
+      "htmlSnippet": "Mar 20, 2020 \u003cb\u003e...\u003c/b\u003e In the midst of the COVID-19 \u003cb\u003ecoronavirus\u003c/b\u003e disease \u003cb\u003epandemic\u003c/b\u003e that broke out \u003cbr\u003e\n\u003cb\u003eglobally\u003c/b\u003e in the first part of 2020, some social media users shared&nbsp;...",
+      "cacheId": "5-Vnzt16BLEJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/nostradamus-covid-19/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/nostradamus-covid-19/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4S6TqLfQnJMboxjFxYJB48tn-iJwVVeEsRnYWoHuw68JMcp7YdM2aHQ",
+            "width": "248",
+            "height": "203"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2014/09/Screen-Shot-2016-09-09-at-8.44.08-PM.png",
+            "og:type": "article",
+            "og:image:width": "1058",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Nostradamus Predict the COVID-19 Pandemic?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Nostradamus Predict the COVID-19 Pandemic?",
+            "og:image:height": "868",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "If only people recognized \"predictions\" before the calamitous events they supposedly anticipate.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2014/09/Screen-Shot-2016-09-09-at-8.44.08-PM.png",
+            "twitter:image": "https://www.snopes.com/tachyon/2014/09/Screen-Shot-2016-09-09-at-8.44.08-PM.png",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "If only people recognized \"predictions\" before the calamitous events they supposedly anticipate.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/nostradamus-covid-19/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2014/09/Screen-Shot-2016-09-09-at-8.44.08-PM.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Health Experts 'Predict' New Coronavirus Could Kill 65 Million ...",
+      "htmlTitle": "Did Health Experts &#39;Predict&#39; New \u003cb\u003eCoronavirus\u003c/b\u003e Could Kill 65 Million ...",
+      "link": "https://www.snopes.com/fact-check/coronavirus-65-million-people/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Jan 31, 2020 ... For the scenario, we modeled a fictional coronavirus pandemic, but ... 30, 2020, \nthe World Health Organization declared it a global emergency.",
+      "htmlSnippet": "Jan 31, 2020 \u003cb\u003e...\u003c/b\u003e For the scenario, we modeled a fictional \u003cb\u003ecoronavirus pandemic\u003c/b\u003e, but ... 30, 2020, \u003cbr\u003e\nthe \u003cb\u003eWorld\u003c/b\u003e Health Organization declared it a \u003cb\u003eglobal\u003c/b\u003e emergency.",
+      "cacheId": "x-psSWHGeSoJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/coronavirus-65-million-people/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/\u003cb\u003ecoronavirus\u003c/b\u003e-65-million-people/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlZ8ie_GwS5XPEpt3MweWsRUZr6ptKfS2RL6tfyEc8sJ3zUJQ6qgv7GA",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/01/GettyImages-1197627721-e1580488813361.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Health Experts 'Predict' New Coronavirus Could Kill 65 Million People?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Health Experts 'Predict' New Coronavirus Could Kill 65 Million People?",
+            "og:image:height": "800",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Some details from a mock health exercise were confused with real-world reports.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/01/GettyImages-1197627721-e1580488813361.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/01/GettyImages-1197627721-e1580488813361.jpg",
+            "article:tag": "coronavirus",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Some details from a mock health exercise were confused with real-world reports.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/coronavirus-65-million-people/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/01/GettyImages-1197627721-e1580488813361.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Is This 'Good News' List About the COVID-19 Pandemic Accurate?",
+      "htmlTitle": "Is This &#39;Good News&#39; List About the COVID-19 \u003cb\u003ePandemic\u003c/b\u003e Accurate?",
+      "link": "https://www.snopes.com/fact-check/covid-good-news-list-accurate/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Mar 19, 2020 ... As governments fight the COVID-19 pandemic, Snopes is fighting an ... Tulsa \nWorld reported on March 12 that the county's first coronavirus ...",
+      "htmlSnippet": "Mar 19, 2020 \u003cb\u003e...\u003c/b\u003e As governments fight the COVID-19 \u003cb\u003epandemic\u003c/b\u003e, Snopes is fighting an ... Tulsa \u003cbr\u003e\n\u003cb\u003eWorld\u003c/b\u003e reported on March 12 that the county&#39;s first \u003cb\u003ecoronavirus\u003c/b\u003e&nbsp;...",
+      "cacheId": "k4LD1WzhPYYJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/covid-good-news-list-accurate/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/covid-good-news-list-accurate/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQshD0kf6h7Qzs30wo_x7whQ72QdM6fL_Qfjd1Caai7T-SyS2mzLpNF_5M",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/03/GettyImages-1164608073-e1584653752110.jpg",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Is This 'Good News' List About the COVID-19 Pandemic Accurate?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Is This 'Good News' List About the COVID-19 Pandemic Accurate?",
+            "og:image:height": "627",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "A few bright spots do indeed shine amid the doom and gloom of the new coronavirus.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/03/GettyImages-1164608073-e1584653752110.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/03/GettyImages-1164608073-e1584653752110.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "A few bright spots do indeed shine amid the doom and gloom of the new coronavirus.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/covid-good-news-list-accurate/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/03/GettyImages-1164608073-e1584653752110.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

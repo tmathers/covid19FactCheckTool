@@ -1,0 +1,568 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - chinese|state|media|calls|pompeo|coronavirus|claims|'insane'|china|al|jazeera",
+        "totalResults": "3230",
+        "searchTerms": "chinese|state|media|calls|pompeo|coronavirus|claims|'insane'|china|al|jazeera",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - chinese|state|media|calls|pompeo|coronavirus|claims|'insane'|china|al|jazeera",
+        "totalResults": "3230",
+        "searchTerms": "chinese|state|media|calls|pompeo|coronavirus|claims|'insane'|china|al|jazeera",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009803564125926803573:p0ctntonaga"
+      }
+    ]
+  },
+  "context": {
+    "title": "Snopes"
+  },
+  "searchInformation": {
+    "searchTime": 0.499182,
+    "formattedSearchTime": "0.50",
+    "totalResults": "3230",
+    "formattedTotalResults": "3,230"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Trump's False Claims about Pelosi and Chinatown - FactCheck.org",
+      "htmlTitle": "Trump&#39;s False \u003cb\u003eClaims\u003c/b\u003e about Pelosi and Chinatown - FactCheck.org",
+      "link": "https://www.factcheck.org/2020/04/trumps-false-claims-about-pelosi-and-chinatown/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Apr 16, 2020 ... ... was suffering because of the novel coronavirus, which originated in China late \nlast year. Trump falsely tweeted that “Crazy Nancy Pelosi” had ...",
+      "htmlSnippet": "Apr 16, 2020 \u003cb\u003e...\u003c/b\u003e ... was suffering because of the novel \u003cb\u003ecoronavirus\u003c/b\u003e, which originated in \u003cb\u003eChina\u003c/b\u003e late \u003cbr\u003e\nlast year. Trump falsely tweeted that “\u003cb\u003eCrazy\u003c/b\u003e Nancy Pelosi” had&nbsp;...",
+      "cacheId": "ORZUBY4yI0IJ",
+      "formattedUrl": "https://www.factcheck.org/.../trumps-false-claims-about-pelosi-and-chinatown /",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../trumps-false-\u003cb\u003eclaims\u003c/b\u003e-about-pelosi-and-\u003cb\u003echina\u003c/b\u003etown /",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDXyKEuCDIKdgmFc32ESAledm92Xv13LOvDTfCd_XV1CDCVmQqCw7I_ws",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/chinatown_sanfran.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-04-16T18:39:59+00:00",
+            "og:image:width": "500",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Trump's False Claims about Pelosi and Chinatown",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Trump's False Claims about Pelosi and Chinatown",
+            "og:image:height": "500",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-04-16T18:39:59+00:00",
+            "og:description": "President Donald Trump is making false and exaggerated claims about House Speaker Nancy Pelosi's Feb. 24 trip to San Francisco's Chinatown.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/chinatown_sanfran.jpg",
+            "article:modified_time": "2020-04-16T18:39:59+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "President Donald Trump is making false and exaggerated claims about House Speaker Nancy Pelosi's Feb. 24 trip to San Francisco's Chinatown.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/04/trumps-false-claims-about-pelosi-and-chinatown/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/chinatown_sanfran.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Baseless Conspiracy Theories Claim New Coronavirus Was ...",
+      "htmlTitle": "Baseless Conspiracy Theories Claim New \u003cb\u003eCoronavirus\u003c/b\u003e Was ...",
+      "link": "https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronavirus-was-bioengineered/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Feb 7, 2020 ... The latest conspiracy theories about the new coronavirus, which first led to an \noutbreak in Wuhan, China in late 2019, allege that ... my mentions, I feel like I \nneed to further debunk crazy #nCoV2019 / HIV conspiracy preprint.",
+      "htmlSnippet": "Feb 7, 2020 \u003cb\u003e...\u003c/b\u003e The latest conspiracy theories about the new \u003cb\u003ecoronavirus\u003c/b\u003e, which first led to an \u003cbr\u003e\noutbreak in Wuhan, \u003cb\u003eChina\u003c/b\u003e in late 2019, allege that ... my mentions, I feel like I \u003cbr\u003e\nneed to further debunk \u003cb\u003ecrazy\u003c/b\u003e #nCoV2019 / HIV conspiracy preprint.",
+      "cacheId": "lI02y4eYP5EJ",
+      "formattedUrl": "https://www.factcheck.org/.../baseless-conspiracy-theories-claim-new- coronavirus-was-bioengineered/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../baseless-conspiracy-theories-claim-new- \u003cb\u003ecoronavirus\u003c/b\u003e-was-bioengineered/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBQ44NJ4PeKmEzGvINwy8pgUCF8_QdrD68sh2dHCLMFY6Qez2bKM7Tfaw",
+            "width": "344",
+            "height": "146"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/corona_screen.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-02-07T15:17:12+00:00",
+            "og:image:width": "720",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Baseless Conspiracy Theories Claim New Coronavirus Was Bioengineered",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Baseless Conspiracy Theories Claim New Coronavirus Was Bioengineered",
+            "og:image:height": "307",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-02-07T15:17:12+00:00",
+            "og:description": "Several online stories inaccurately claim that the new coronavirus contains HIV “insertions” and shows signs of being created in a lab. But there is no evidence that the new virus was bioengineered, and every indication it came from an animal.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/corona_screen.jpg",
+            "article:modified_time": "2020-02-07T15:17:12+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Several online stories inaccurately claim that the new coronavirus contains HIV “insertions” and shows signs of being created in a lab. But there is no evidence that the new virus was bioengineered, and every indication it came from an animal.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronavirus-was-bioengineered/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/corona_screen.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Pelosi Delete a Tweet That Showed Her Promoting Chinatown ...",
+      "htmlTitle": "Did Pelosi Delete a Tweet That Showed Her Promoting Chinatown ...",
+      "link": "https://www.snopes.com/fact-check/pelosi-tweet-chinatown-tourism/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Apr 16, 2020 ... Crazy Nancy Pelosi deleted this from her Twitter account. ... people are \nconcerned about China – the epicenter of the novel coronavirus.",
+      "htmlSnippet": "Apr 16, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eCrazy\u003c/b\u003e Nancy Pelosi deleted this from her Twitter account. ... people are \u003cbr\u003e\nconcerned about \u003cb\u003eChina\u003c/b\u003e – the epicenter of the novel \u003cb\u003ecoronavirus\u003c/b\u003e.",
+      "cacheId": "1iKnJukncjMJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/pelosi-tweet-chinatown-tourism/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/pelosi-tweet-\u003cb\u003echina\u003c/b\u003etown-tourism/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQaE7PfJPXMB6-YrUcBNGbX6TFIou1Fwq4fo8TSNFyo5ykOMMPsyatlDiM",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2017/03/nancy_pelosi_tw.jpg",
+            "og:type": "article",
+            "og:image:width": "1024",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Did Pelosi Delete a Tweet That Promoted Chinatown Tourism?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Did Pelosi Delete a Tweet That Showed Her Promoting Chinatown Tourism?",
+            "og:image:height": "512",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "A snarky tweet about the U.S. House Speaker from the president took aim at her February 2020 visit to San Francisco.",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2017/03/nancy_pelosi_tw.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2017/03/nancy_pelosi_tw.jpg",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "A snarky tweet about the U.S. House Speaker from the president took aim at her February 2020 visit to San Francisco.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/pelosi-tweet-chinatown-tourism/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2017/03/nancy_pelosi_tw.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Trump, Biden Spin China Travel Restrictions - FactCheck.org",
+      "htmlTitle": "Trump, Biden Spin \u003cb\u003eChina\u003c/b\u003e Travel Restrictions - FactCheck.org",
+      "link": "https://www.factcheck.org/2020/04/trump-biden-spin-china-travel-restrictions/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Apr 6, 2020 ... 30 declared the coronavirus outbreak a public health emergency of international \nconcern, 36 countries imposed travel restrictions, including the ...",
+      "htmlSnippet": "Apr 6, 2020 \u003cb\u003e...\u003c/b\u003e 30 declared the \u003cb\u003ecoronavirus\u003c/b\u003e outbreak a public health emergency of international \u003cbr\u003e\nconcern, 36 countries imposed travel restrictions, including the&nbsp;...",
+      "cacheId": "apOkvN9ywaQJ",
+      "formattedUrl": "https://www.factcheck.org/2020/.../trump-biden-spin-china-travel-restrictions/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2020/.../trump-biden-spin-\u003cb\u003echina\u003c/b\u003e-travel-restrictions/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpTjfhoKMuN3MyRnwo8PGL2lWRrBpW9VvwmGKOI7xWY4Jv9oL2pb7up24",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/china_globe.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-04-06T17:35:05+00:00",
+            "og:image:width": "500",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Trump, Biden Spin China Travel Restrictions",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Trump, Biden Spin China Travel Restrictions",
+            "og:image:height": "500",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-04-06T17:35:05+00:00",
+            "og:description": "Both President Donald Trump and leading Democratic presidential candidate Joe Biden are spinning the facts on the administration's coronavirus travel restrictions for those who had been in China. ",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/china_globe.jpg",
+            "article:modified_time": "2020-04-06T17:35:05+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Both President Donald Trump and leading Democratic presidential candidate Joe Biden are spinning the facts on the administration's coronavirus travel restrictions for those who had been in China. ",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/04/trump-biden-spin-china-travel-restrictions/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/china_globe.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Was a Suitcase Full of Dead Birds from China Seized at Dulles ...",
+      "htmlTitle": "Was a Suitcase Full of Dead Birds from \u003cb\u003eChina\u003c/b\u003e Seized at Dulles ...",
+      "link": "https://www.snopes.com/fact-check/suitcase-dead-birds-seized/",
+      "displayLink": "www.snopes.com",
+      "snippet": "Feb 14, 2020 ... ... viral due in part to rising fears about an outbreak of a new coronavirus. ... in the \nUnited States to feed dead birds to pets, in China freeze-dried birds, ... A crazy \nperson who freeze dried all her dead birds for companionship?",
+      "htmlSnippet": "Feb 14, 2020 \u003cb\u003e...\u003c/b\u003e ... viral due in part to rising fears about an outbreak of a new \u003cb\u003ecoronavirus\u003c/b\u003e. ... in the \u003cbr\u003e\nUnited States to feed dead birds to pets, in \u003cb\u003eChina\u003c/b\u003e freeze-dried birds, ... A \u003cb\u003ecrazy\u003c/b\u003e \u003cbr\u003e\nperson who freeze dried all her dead birds for companionship?",
+      "cacheId": "q_PKkF-OIxkJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/suitcase-dead-birds-seized/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/suitcase-dead-birds-seized/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMPyMU9djk9uMLqs0i9xRj44vc8rLRxQrcmdl5YP1cCWP3yW8lGe58V2rF",
+            "width": "271",
+            "height": "186"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2020/02/IAD-Birds7L-012720.jpg",
+            "og:type": "article",
+            "og:image:width": "800",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Was a Suitcase Full of Dead Birds from China Seized at Dulles Airport?",
+            "og:site_name": "Snopes.com",
+            "og:title": "Was a Suitcase Full of Dead Birds from China Seized at Dulles Airport?",
+            "og:image:height": "550",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "A relatively mundane incident went viral due in part to rising fears about an outbreak of a new coronavirus.",
+            "twitter:creator": "@danieljevon",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2020/02/IAD-Birds7L-012720.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2020/02/IAD-Birds7L-012720.jpg",
+            "article:tag": "COVID-19",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "A relatively mundane incident went viral due in part to rising fears about an outbreak of a new coronavirus.",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/suitcase-dead-birds-seized/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2020/02/IAD-Birds7L-012720.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Trump's False Claims About Rep. Ilhan Omar - FactCheck.org",
+      "htmlTitle": "Trump&#39;s False \u003cb\u003eClaims\u003c/b\u003e About Rep. Ilhan Omar - FactCheck.org",
+      "link": "https://www.factcheck.org/2019/07/trumps-false-claims-about-rep-ilhan-omar/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Jul 16, 2019 ... False al Qaeda Claims. In his comments, Trump repeatedly singled out \nMinnesota Rep. Omar — a Somali American who became one of the ...",
+      "htmlSnippet": "Jul 16, 2019 \u003cb\u003e...\u003c/b\u003e False \u003cb\u003eal\u003c/b\u003e Qaeda \u003cb\u003eClaims\u003c/b\u003e. In his comments, Trump repeatedly singled out \u003cbr\u003e\nMinnesota Rep. Omar — a Somali American who became one of the&nbsp;...",
+      "cacheId": "MzyMEMJZiB8J",
+      "formattedUrl": "https://www.factcheck.org/2019/.../trumps-false-claims-about-rep-ilhan-omar/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2019/.../trumps-false-\u003cb\u003eclaims\u003c/b\u003e-about-rep-ilhan-omar/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1g79ec4y7FXsbSxiZ5xB9Ocv_MbUXr_2EVdvRJ9q6e8tzbbSyIFi0GQ76",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/Omar2.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2019-07-16T16:38:44+00:00",
+            "og:image:width": "200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Trump's False Claims About Rep. Ilhan Omar",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Trump's False Claims About Rep. Ilhan Omar",
+            "og:image:height": "200",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2019-07-16T16:39:20+00:00",
+            "og:description": "President Donald Trump accused Rep. Ilhan Omar of professing a \"love\" for al Qaeda and talking about \"how great\" and \"how wonderful\" al Qaeda is. That is false.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/Omar2.png",
+            "article:modified_time": "2019-07-16T16:39:20+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "President Donald Trump accused Rep. Ilhan Omar of professing a \"love\" for al Qaeda and talking about \"how great\" and \"how wonderful\" al Qaeda is. That is false.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2019/07/trumps-false-claims-about-rep-ilhan-omar/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/Omar2.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Trump Campaign's Misleading Ad Attacking Biden on China ...",
+      "htmlTitle": "Trump Campaign&#39;s Misleading Ad Attacking Biden on \u003cb\u003eChina\u003c/b\u003e ...",
+      "link": "https://www.factcheck.org/2020/04/trump-campaigns-misleading-ad-attacking-biden-on-china/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Apr 10, 2020 ... Ironically, some of Biden's positive statements about the Chinese echo \nstatements by Trump. Near the end, the online ad, which debuted on ...",
+      "htmlSnippet": "Apr 10, 2020 \u003cb\u003e...\u003c/b\u003e Ironically, some of Biden&#39;s positive statements about the \u003cb\u003eChinese\u003c/b\u003e echo \u003cbr\u003e\nstatements by Trump. Near the end, the online ad, which debuted on&nbsp;...",
+      "cacheId": "HNaJdFMHdboJ",
+      "formattedUrl": "https://www.factcheck.org/.../trump-campaigns-misleading-ad-attacking- biden-on-china/",
+      "htmlFormattedUrl": "https://www.factcheck.org/.../trump-campaigns-misleading-ad-attacking- biden-on-\u003cb\u003echina\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNFl58hyC89-Mg5uGGe0KyBh0l-omjCMj7px5MB3qMchTvwb6rgyfSliQo",
+            "width": "225",
+            "height": "224"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/trump_ad_biden3.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-04-10T19:55:50+00:00",
+            "og:image:width": "501",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Trump Campaign's Misleading Ad Attacking Biden on China",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Trump Campaign's Misleading Ad Attacking Biden on China",
+            "og:image:height": "500",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-04-13T09:15:45+00:00",
+            "og:description": "The Trump campaign has launched a misleading attack ad on presumptive Democratic presidential nominee Joe Biden and his past statements on China.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/trump_ad_biden3.jpg",
+            "article:modified_time": "2020-04-13T09:15:45+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "The Trump campaign has launched a misleading attack ad on presumptive Democratic presidential nominee Joe Biden and his past statements on China.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/04/trump-campaigns-misleading-ad-attacking-biden-on-china/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/trump_ad_biden3.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "FactChecking Trump's Attack on the WHO - FactCheck.org",
+      "htmlTitle": "FactChecking Trump&#39;s Attack on the WHO - FactCheck.org",
+      "link": "https://www.factcheck.org/2020/04/factchecking-trumps-attack-on-the-who/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "Apr 15, 2020 ... The South China Morning Post reported that the first coronavirus ... to run out to \nthe world and go crazy and start saying whatever it is because ...",
+      "htmlSnippet": "Apr 15, 2020 \u003cb\u003e...\u003c/b\u003e The South \u003cb\u003eChina\u003c/b\u003e Morning Post reported that the first \u003cb\u003ecoronavirus\u003c/b\u003e ... to run out to \u003cbr\u003e\nthe world and go \u003cb\u003ecrazy\u003c/b\u003e and start saying whatever it is because&nbsp;...",
+      "cacheId": "DxRgptCE2OkJ",
+      "formattedUrl": "https://www.factcheck.org/2020/04/factchecking-trumps-attack-on-the-who/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2020/04/factchecking-trumps-attack-on-the-who/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5yrbOfilXm9ry5WPz2rhekdMyP3jGhkmsWZ2y3f7xWjLSXMWsYY_5OYkT",
+            "width": "344",
+            "height": "146"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/trump_presser_april14.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2020-04-15T18:02:50+00:00",
+            "og:image:width": "720",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "FactChecking Trump's Attack on the WHO",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "FactChecking Trump's Attack on the WHO",
+            "og:image:height": "307",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2020-04-15T20:30:36+00:00",
+            "og:description": "In announcing that his administration would halt funding for the World Health Organization, President Donald Trump made a series of false, misleading and unsubstantiated claims about the WHO.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/trump_presser_april14.jpg",
+            "article:modified_time": "2020-04-15T20:30:36+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "In announcing that his administration would halt funding for the World Health Organization, President Donald Trump made a series of false, misleading and unsubstantiated claims about the WHO.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2020/04/factchecking-trumps-attack-on-the-who/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/trump_presser_april14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Trump Wrong on China Trade, Again - FactCheck.org",
+      "htmlTitle": "Trump Wrong on \u003cb\u003eChina\u003c/b\u003e Trade, Again - FactCheck.org",
+      "link": "https://www.factcheck.org/2019/05/trump-wrong-on-china-trade-again/",
+      "displayLink": "www.factcheck.org",
+      "snippet": "May 7, 2019 ... The U.S. has collected billions in customs duties on Chinese imports for years, \nalthough the amount has increased greatly since the trade war ...",
+      "htmlSnippet": "May 7, 2019 \u003cb\u003e...\u003c/b\u003e The U.S. has collected billions in customs duties on \u003cb\u003eChinese\u003c/b\u003e imports for years, \u003cbr\u003e\nalthough the amount has increased greatly since the trade war&nbsp;...",
+      "cacheId": "N1n2F_gQ8AMJ",
+      "formattedUrl": "https://www.factcheck.org/2019/05/trump-wrong-on-china-trade-again/",
+      "htmlFormattedUrl": "https://www.factcheck.org/2019/05/trump-wrong-on-\u003cb\u003echina\u003c/b\u003e-trade-again/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMdRnNJMdli0zwrosaBRaWIqxEI7B6FkqPo9Qvo9xzXPoKYdEco9vG0Iso",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cdn.factcheck.org/UploadedFiles/cargo.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2019-05-07T11:17:56+00:00",
+            "og:image:width": "200",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Trump Wrong on China Trade, Again",
+            "og:site_name": "FactCheck.org",
+            "apple-mobile-web-app-title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+            "og:title": "Trump Wrong on China Trade, Again",
+            "og:image:height": "200",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:updated_time": "2019-06-12T16:57:23+00:00",
+            "og:description": "President Trump falsely claimed that the U.S. has \"never taken in 10 cents from China\" in tariffs, but \"now we’re taking in billions and billions of dollars.\" The U.S. has collected billions in customs duties on Chinese imports for years, although the amount has increased since the trade war with China began.",
+            "twitter:image": "https://cdn.factcheck.org/UploadedFiles/cargo.jpg",
+            "article:modified_time": "2019-06-12T16:57:23+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "President Trump falsely claimed that the U.S. has \"never taken in 10 cents from China\" in tariffs, but \"now we’re taking in billions and billions of dollars.\" The U.S. has collected billions in customs duties on Chinese imports for years, although the amount has increased since the trade war with China began.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.factcheck.org/2019/05/trump-wrong-on-china-trade-again/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.factcheck.org/UploadedFiles/cargo.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Did Al Gore Say 'I Invented the Internet'?",
+      "htmlTitle": "Did \u003cb\u003eAl\u003c/b\u003e Gore Say &#39;I Invented the Internet&#39;?",
+      "link": "https://www.snopes.com/fact-check/internet-of-lies/",
+      "displayLink": "www.snopes.com",
+      "snippet": "May 5, 2005 ... Despite decades of media mirth-making about the supposed statement, former \nvice president Al Gore never claimed he \"invented the Internet.\"",
+      "htmlSnippet": "May 5, 2005 \u003cb\u003e...\u003c/b\u003e Despite decades of \u003cb\u003emedia\u003c/b\u003e mirth-making about the supposed statement, former \u003cbr\u003e\nvice president \u003cb\u003eAl\u003c/b\u003e Gore never claimed he &quot;invented the Internet.&quot;",
+      "cacheId": "vmiS7e57cRoJ",
+      "formattedUrl": "https://www.snopes.com/fact-check/internet-of-lies/",
+      "htmlFormattedUrl": "https://www.snopes.com/fact-check/internet-of-lies/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP0hU9W-Qv_JqVjDgDjJbaWFeAAetjlSe8qfvrdH4MqI9JoyANpm2ZK-E",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.snopes.com/tachyon/2014/03/2717633005_3d1b3ac0cc_b.jpg",
+            "og:type": "article",
+            "og:image:width": "1024",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "FACT CHECK: Did Al Gore Say 'I Invented the Internet'?",
+            "og:site_name": "Snopes.com",
+            "og:title": "FACT CHECK: Did Al Gore Say 'I Invented the Internet'?",
+            "og:image:height": "768",
+            "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270",
+            "og:description": "Despite decades of media mirth-making about the supposed statement, former vice president Al Gore never claimed he \"invented the Internet.\"",
+            "twitter:creator": "@snopes",
+            "article:publisher": "https://www.facebook.com/snopes",
+            "og:image:secure_url": "https://www.snopes.com/tachyon/2014/03/2717633005_3d1b3ac0cc_b.jpg",
+            "twitter:image": "https://www.snopes.com/tachyon/2014/03/2717633005_3d1b3ac0cc_b.jpg",
+            "fb:app_id": "1637816429839563",
+            "twitter:site": "@snopes",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Despite decades of media mirth-making about the supposed statement, former vice president Al Gore never claimed he \"invented the Internet.\"",
+            "og:locale": "en_US",
+            "og:url": "https://www.snopes.com/fact-check/internet-of-lies/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.snopes.com/tachyon/2014/03/2717633005_3d1b3ac0cc_b.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

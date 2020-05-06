@@ -40,7 +40,7 @@ function getScholarResults($encodedTerms, $useCached = true) {
 
         //var_dump($descriptionNode->saveXML($result));
 
-        $title = DOMinnerHTML($titleNode[0]);
+        $title = $titleNode[0] != null ? DOMinnerHTML($titleNode[0]) : "";
         $url = $urlNode[0]->nodeValue;
 
         

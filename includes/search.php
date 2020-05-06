@@ -1,6 +1,8 @@
 <? 
 
 include("data/fake_site_list.php");
+include("data/reliable_sources.php");
+include("data/tlds.php");
 include("keywords.php");
 include("searchScholar.php");
 
@@ -12,13 +14,6 @@ if (substr( $search, 0, 7 ) === "http://" || substr( $search, 0, 8 ) === "https:
   $isUrl = true;
 }
 
-$keywordList = ["china", "coronavirus", "covid-19", "biotechnology", "bioweapon", "government", "biological weapons", "biotech", "bioweapons", "pandemic", "outbreak", "wuhan", "virus", "vaccine", "masks", "face masks", "ventilators", "n95 masks", "Trump", "disinfectants", "hand sanitzer", "antibodies", "tests", "anti-viral", "anti-viral drugs"];
-
-
-// Some fake news stories
-$website = "https://www.theonion.com/biden-campaign-fundraising-email-reminds-donors-sexual-1843181076";
-$webstite = "https://www.naturalnews.com/2020-05-01-communist-china-militarizing-biotechnology-coronavirus-no-surpise.html";
-
 // Get the keywords...
 $keywords;
 
@@ -26,6 +21,9 @@ $keywords;
 if ($isUrl) {
 
   $domain = getDomain($search);
+  $domainParts = explode(".", $domain);
+  $tld = count($domainParts) > 1 ? $domainParts[count($domainParts) - 1] : "";
+  $tldInfo = $TLDs[$tld];
 
   $doc = new DOMDocument();
   @$doc->loadHTMLFile($search);
@@ -47,6 +45,12 @@ if ($isUrl) {
   foreach($descriptionNode as $node) {
     $description .= "{$node->nodeValue} ";
   }
+  if (strlen($description) == 0) {
+    $descriptionNode2 = $xpath->query('/html/head/meta[@name="description"]/@content');
+      foreach($descriptionNode2 as $node) {
+        $description .= "{$node->nodeValue} ";
+      }
+  }
 
   // Get the title
   $title = "Unknown";
@@ -54,42 +58,72 @@ if ($isUrl) {
     $title = $titleNode[0]->nodeValue;
   }
 
+  error_log("URL: $search");
   error_log("Article Keywords: $keywords");
   error_log("Article Title: $title");
   error_log("Article description: $description");
   error_log("Domain: $domain");
 
+  $siteInfoList = json_decode(file_get_contents("./includes/data/reliable_sources_list.json"));
+  //var_dump($$siteInfoList);  
+
+  echo "
+  <h4><a href='$search'>$title</a></h4>
+  <h6>$search</h6>";
 
   echo '
-  <div class="card mb-4"><div class="card-body"><dl class="row mb-0 pb-0">
-    <dt class="col-sm-2">Title:</dt>
-    <dd class="col-sm-9"><b class="text-dark">'.$title.'</b></dd>
-    <dt class="col-sm-2">URL:</dt>
-    <dd class="col-sm-9"><a href="'.$search.'">'.$search.'</a></dd>
-    <dt class="col-sm-2">Website:</dt>
-    <dd class="col-sm-9"><a class="mb-0" href="http://'.$domain.'">'.$domain.'</a></dd>
+  <div class="card mb-4"><div class="card-body">
+    <h4 class="card-title">Website Analysis</h4>';
+    
+    // check the domain against known fake news sources
+    $fakeSites = json_decode($fakeSitesJson);
+    // Is it satirical ?
+    if (isset($fakeSites->satirical->sites->$domain)) {
+      echo '<div class="alert alert-danger" role="alert">';
+      echo '<h5><span class="pr-1">&#9888;</span> Satirical Website</h5>';
+      echo "The publisher of this article, <a class='alert-link' href='http://$domain'>$domain</a> is known to publish content that is satirical in nature. ";
+      echo "[<a class='alert-link' href='" . $fakeSites->satirical->source . "'>Source</a>]";
+      echo '</div>';
+    // Is it fake?
+    } else if (in_array($domain, $fakeSites->fake->sites)) {
+      echo '<div class="alert alert-danger" role="alert">';
+      echo '<h5><span class="pr-1">&#9888;</span>  Fake News Source</h5>';
+      echo "The publisher of this article <a class='alert-link' href='$domain'>$domain</a> is known to publish false or misleading content. ";
+      echo "<a class='alert-link' href='" . $fakeSites->satirical->source . "'>[Source]</a>";
+      echo '</div>';
+    }
+
+  echo '
+    <dl class="row mb-0 pb-0">
+      <dt class="col-sm-3">Website:</dt>
+      <dd class="col-sm-9"><a class="mb-0" href="http://'.$domain.'">'.$domain.'</a></dd>';
+    // Display site reliability info from wikipedia
+    if (isset($tldInfo)) { 
+      echo '
+      <dt class="col-sm-3">Top Level Domain (TLD):</dt>
+      <dd class="col-sm-9"><b>.'.$tld. '</b> ('.$tldInfo[0]. ') - ' . $tldInfo[1].'</a></dd>';
+    }  
+
+    // Display site reliability info from wikipedia
+    if (isset($siteInfoList->$domain)) { 
+      $info = $siteInfoList->$domain;
+
+      echo '
+          <dt class="col-sm-3">Site Name:</dt>
+          <dd class="col-sm-9">'.$info->name.'</dd>
+          <dt class="col-sm-3">Reliability Index:</dt>
+          <dd class="col-sm-9">'. $reliability[$info->rating]['emoji'] . ' ' . $reliability[$info->rating]['text'].'</dd>
+          <dt class="col-sm-3">Summary:</dt>
+          <dd class="col-sm-9">'.$info->description.' [<a href="https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources">Wikipedia</a>]</dd>
+      ';
+    } else {
+      echo '<dt class="col-sm-3">Reliability Index:</dt>
+          <dd class="col-sm-9">'. $reliability['No consensus']['emoji'] . ' Use Caution</dd>
+          <dt class="col-sm-3">Summary:</dt>
+          <dd class="col-sm-9">No additional info about this source.</dd>';
+    }
+    echo '
   </dl></div></div>';
-
-
-  // check the domain against known fake news sources
-
-  $fakeSites = json_decode($fakeSitesJson);
-
-  // Is it satirical ?
-  if (isset($fakeSites->satirical->sites->$domain)) {
-    echo '<div class="alert alert-danger" role="alert">';
-    echo '<h5><span class="pr-1">&#9888;</span> Satirical Website</h5>';
-    echo "The publisher of this article, <a class='alert-link' href='http://$domain'>$domain</a> is known to publish content that is satirical in nature. ";
-    echo "<a class='alert-link' href='" . $fakeSites->satirical->source . "'>[Source]</a>";
-    echo '</div>';
-  // Is it fake?
-  } else if (in_array($domain, $fakeSites->fake->sites)) {
-    echo '<div class="alert alert-danger" role="alert">';
-    echo '<h5><span class="pr-1">&#9888;</span>  Fake News Source</h5>';
-    echo "The publisher of this article <a class='alert-link' href='$domain'>$domain</a> is known to publish false or misleading content. ";
-    echo "<a class='alert-link' href='" . $fakeSites->satirical->source . "'>[Source]</a>";
-    echo '</div>';
-  }
 
   $keywords = $title;
 
@@ -143,7 +177,7 @@ function displayResults($keywords, $test) {
     }
   }
 
-  $newsItems = json_decode($json)->items;
+  $newsItems = isset(json_decode($json)->items) ? json_decode($json)->items : array();
 
   $newsHtml;  // html out
   $academicHtml;
