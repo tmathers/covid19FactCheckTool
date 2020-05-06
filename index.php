@@ -8,8 +8,11 @@
 <?php include("includes/design-top.php");?>
 <?php include("includes/navigation.php");?>
 
-
 <div class="container" id="main-content">
+
+<center>
+	<h2 style="float:center; font-family:'Times New Roman', Times, serif" class="pb-4 pt-3">Fact-Check</h2>
+
 
 	<?php 
 	if (isset($_GET['search'])) {
@@ -20,15 +23,18 @@
 	<form class="" method="GET">
 		<div class="input-group">
 			<input class="form-control" type="text" name="search" placeholder="Fact check a URL or type a question..."></input>
+
 		</div>
 		<div class="input-group p-3 ">
-			<button type="submit" class="btn btn-primary mx-auto">Submit</button>
+			<button type="submit" class="btn btn-outline-dark mx-auto btn-lg">Check it!</button>
 		</div>
 	</form>
 	';
 	}
 	?>
+	<p></p>
 
+</center>
 </div>
 
 <br />

@@ -1,12 +1,18 @@
-<body >
+<body style = "background-color: white;">
 
+
+<div class="jumbotron" style="background:url(backgroundfooter.jpg)">
+
+<img src="logoFinal-removebg-preview.jpg" width="540px" height="350px" align="left" style="margin:-15px -40px">
 <center>
-<div class="jumbotron">
-	<img src="logoFinal.jpg" width="200px" height="170px" align="left">
-		
-	<h1 style="color: black; font-family:fantasy; font-size: 700%; " >Infodemic</h1>
-	<h3>COVID-19 Fact-Checker</h3>
-	
+<h1 style="color: black; font-family:fantasy; font-size: 600%; margin:0px 500px">Infodemic</h1>
+<h1 style="color: black; font-family:fantasy; margin:0px 200px">Fact-Check</h1>
+
+
+
+
 </div>
-</center>
+
+
+
 </body>
