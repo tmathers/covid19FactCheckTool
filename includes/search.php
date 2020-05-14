@@ -65,59 +65,101 @@ if ($isUrl) {
   error_log("Domain: $domain");
 
   $siteInfoList = json_decode(file_get_contents("./includes/data/reliable_sources_list.json"));
+  $mediaBiasList = json_decode(file_get_contents("./includes/data/mediaBias.json"));
+
   //var_dump($$siteInfoList);  
 
   echo "
-  <h4><a href='$search'>$title</a></h4>
-  <!--<h6>$search</h6>-->";
+  <h5 class='pb-4'>Fact checking article \"<a href='$search'>$title</a>\"...</h5>
+  ";
 
   echo '
-  <div class="card mb-4"><div class="card-body">
-    <h4 class="card-title">Website Analysis</h4>';
+  <div class="card mb-4">
+    <div class="card-header">
+
+      <h5 class="card-title">Website Analysis</h5>
+      <a class="mb-0" href="http://'.$domain.'">'.$domain.'</a>
+    </div>
+    <div class="card-body">';
     
     // check the domain against known fake news sources
     $fakeSites = json_decode($fakeSitesJson);
     // Is it satirical ?
-    if (isset($fakeSites->satirical->sites->$domain)) {
+    /*if (isset($fakeSites->satirical->sites->$domain)) {
       echo '<div class="alert alert-danger" role="alert">';
       echo '<h5><span class="pr-1">&#9888;</span> Satirical Website</h5>';
-      echo "The publisher of this article, <a class='alert-link' href='http://$domain'>$domain</a> is known to publish content that is satirical in nature. ";
+      echo "The publisher of this article is known to publish content that is satirical in nature. ";
       echo "[<a class='alert-link' href='" . $fakeSites->satirical->source . "'>Source</a>]";
       echo '</div>';
     // Is it fake?
     } else if (in_array($domain, $fakeSites->fake->sites)) {
       echo '<div class="alert alert-danger" role="alert">';
       echo '<h5><span class="pr-1">&#9888;</span>  Fake News Source</h5>';
-      echo "The publisher of this article <a class='alert-link' href='$domain'>$domain</a> is known to publish false or misleading content. ";
-      echo "<a class='alert-link' href='" . $fakeSites->satirical->source . "'>[Source]</a>";
+      echo "The publisher of this article is known to publish false or misleading content. ";
+      echo "[<a class='alert-link' href='" . $fakeSites->fake->source . "'>Source</a>]";
       echo '</div>';
-    }
+    }*/
 
   echo '
-    <dl class="row mb-0 pb-0">
-      <dd class="col-sm-9"><a class="mb-0" href="http://'.$domain.'">'.$domain.'</a></dd>';
+    <dl class="row mb-0 pb-0">';
+
+    if (isset($siteInfoList->$domain)) {
+      $info = $siteInfoList->$domain;
+      echo     '<dd class="col-sm-9">'.$info->name.'</dd>';
+    }
+
     // Display site reliability info from wikipedia
     if (isset($tldInfo)) { 
       echo '
-      <dd class="col-sm-9"><b>.'.$tld. '</b> ('.$tldInfo[0]. ') - ' . $tldInfo[1].'</a></dd>';
+      <dd class="col-sm-9"><b>Domain info: </b>' . $tldInfo[0] . '. '. $tldInfo[1].'</dd>';
     }  
 
     // Display site reliability info from wikipedia
-    if (isset($siteInfoList->$domain)) { 
+    if (isset($siteInfoList->$domain) || isset($fakeSites->satirical->sites->$domain) || isset($fakeSites->fake->sites->$domain)) { 
       $info = $siteInfoList->$domain;
 
       echo '
-          <dd class="col-sm-9">'.$info->name.'</dd>
+          <hr class="w-100">
 
-          <dd class="col-sm-9"><h6>Wikipedia</h6></dd>
-          <dd class="col-sm-9">'. $reliability[$info->rating]['emoji'] . ' ' . $reliability[$info->rating]['text'].'</dd>
-          <dd class="col-sm-9">'.$info->description.' [<a href="https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources">Wikipedia</a>]</dd>
-      ';
+          <dd class="col-sm-9"><h6>Reliability</h6></dd>';
+
+        if (isset($fakeSites->satirical->sites->$domain)) {
+            echo '<div class="alert alert-danger" role="alert">';
+            echo '<h5><span class="pr-1">&#9888;</span> Satirical Website</h5>';
+            echo "The publisher of this article is known to publish content that is satirical in nature. ";
+            echo "[<a class='alert-link' href='" . $fakeSites->satirical->source . "'>Source</a>]";
+            echo '</div>';
+          // Is it fake?
+          } else if (in_array($domain, $fakeSites->fake->sites)) {
+            echo '<dd class="col-sm-9"><span class="pr-1">🚫</span>  Fake News Source [<a href="{$fakeSites->fake->source} ">More</a>]</dd>';
+          }
+
+        if (isset($siteInfoList->$domain)) {
+          echo '
+          <dd class="col-sm-9"><span class="pr-1">'. $reliability[$info->rating]['emoji'] . '</span>  ' . $reliability[$info->rating]['text'].'</dd>
+          <dd class="col-sm-9">'.$info->description.' [<a href="https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources">More</a>]</dd>
+          ';
+      }
     } else {
       echo '
           <dd class="col-sm-9">'. $reliability['No consensus']['emoji'] . ' Unknown</dd>
           <dd class="col-sm-9">No additional info about this source.</dd>';
     }
+
+    
+    if (isset($mediaBiasList->$domain)) {
+      $biasInfo = $mediaBiasList->$domain;
+
+      echo '<hr class="w-100">
+      
+          <dd class="col-sm-9"><h6>Media Bias</h6></dd>';
+      foreach ($biasInfo->biases as $bias) {
+          
+          echo '<dd class="col-sm-9"><span class="pr-1">' . $biasEmojis[$bias] . '</span>  ' . $bias .' [<a href="' . $biasInfo->url . '">More</a>]</dd>
+          ';
+      }
+    }
+
     echo '
   </dl></div></div>';
 
@@ -127,10 +169,6 @@ if ($isUrl) {
 } else {
   $keywords = $search;
 
-  echo '<div class="card mb-4"><div class="card-body"><dl class="row mb-0 pb-0">
-    <dt class="col-sm-3">Question:</dt>
-    <dd class="col-sm-9"><b class="text-secondary">'.$search.'</b></dd>
-  </div></div></dl>';
 }
 
 echo '<h4 class="pb-2 pt-2">Fact Check Results</h4>';
@@ -227,14 +265,3 @@ function displayResults($keywords, $test) {
   
 }
 
-function getDomain($search) {
-  if (!preg_match('#^http(s)?://#', $search)) {
-      $search = 'http://' . $search;
-  }
-  $urlParts = parse_url($search);
-  $host = $urlParts['host'];
-
-  // remove subdomain
-  $host_names = explode(".", $host);
-  return $host_names[count($host_names)-2] . "." . $host_names[count($host_names)-1];
-}

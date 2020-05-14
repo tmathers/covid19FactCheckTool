@@ -11,14 +11,14 @@
 <?php include("includes/navigation.php");?>
 
 <div class="container" id="main-content">
-	<h2>The Problem?</h2>
+	<h2>About Us</h2>
+	<p>"About Us" conten goes here.  I'll stick with teh "lorem ipsum" as well, so that the footer isn't immediately following this text.</p>
+
 	<p>
-	While we may think we know what news is fake or not, we often do not bother to check what the source is or why it has spread so far. And more importantly we don’t bother to check what the actual piece of information that this false article is based on. And why? Often because we simply do not know where to look or or what to trust on the internet. Or the opposite, we trust the first thing we see and don’t think about its validity.
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 	</p>
-	
-	<h2>The Solution?</h2>
 	<p>
-	Us! An all-in-one stop that provides you with the most accurate information from the most trustworthy sites first. Not just that, but also tell you which sites are often reliable and which ones are not. We point out the bias in different media sites and use multiple rating systems to make the most important information available for you to make your own judgement call! We give you the tools so that you may decide which websites and sources to trust. We also have mini-quizzes so that you can test your own fact-checking skills and process.
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 	</p>
 </div>
 

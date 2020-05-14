@@ -1,16 +1,13 @@
-<div style="margin:0px 100px;" class="container">
+<div class="container">
 	<ul class="nav nav-pills">
-	  <li class="nav-item ">
-	  <a class="nav-link <?php if ($CURRENT_PAGE == "Index") {?>active<?php }?>; btn btn-outline-dark btn-lg"href="index.php" >Fake-Fact Check</a>
+	  <li class="nav-item">
+	    <a class="nav-link <?php if ($CURRENT_PAGE == "Index") {?>active<?php }?>" href="index.php">Home</a>
 	  </li>
 	  <li class="nav-item">
-	    <a class="nav-link <?php if ($CURRENT_PAGE == "WhatIsIt") {?>active<?php }?>; btn btn-outline-dark btn-lg" href="what.php">COVID-19</a>
+	    <a class="nav-link <?php if ($CURRENT_PAGE == "About") {?>active<?php }?>" href="about.php">About Us</a>
 	  </li>
 	  <li class="nav-item">
-	    <a class="nav-link <?php if ($CURRENT_PAGE == "About") {?>active<?php }?>; btn btn-outline-dark btn-lg" href="about.php">About Us</a>
-	  </li>
-	  <li class="nav-item">
-	    <a class="nav-link <?php if ($CURRENT_PAGE == "Test") {?>active<?php }?>; btn btn-outline-dark btn-lg" href="test.php">Test Your Knowledge</a>
+	    <a class="nav-link <?php if ($CURRENT_PAGE == "Contact") {?>active<?php }?>" href="contact.php">Contact</a>
 	  </li>
 	</ul>
 </div>

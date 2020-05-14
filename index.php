@@ -4,44 +4,60 @@
 <head>
 	<?php include("includes/head-tag-contents.php");?>
 </head>
-
-<?php include("includes/design-top.php");?>
-<?php include("includes/navigation.php");?>
-
-<div class="container" id="main-content">
-
-<center>
-	<h2 style="float:center; font-family:'Times New Roman', Times, serif" class="pb-4 pt-3">Fact-Check</h2>
+<body>
 
 
-	<?php 
-	if (isset($_GET['search'])) {
-		include("includes/search.php");
-	} else {
-		echo '
+<?php //include("includes/navigation.php");?>
 
-	<form class="" method="GET">
-		<div class="input-group">
-			<input class="form-control" type="text" name="search" placeholder="Fact check a URL or type a question..."></input>
+<div class="cover-container d-flex w-100 h-100 mx-auto flex-column" >
+<?php include("includes/design-top.php");?>	
 
-		</div>
-		<div class="input-group p-3 ">
-			<button type="submit" class="btn btn-outline-dark mx-auto btn-lg">Check it!</button>
-		</div>
-	</form>
-	';
-	}
-	?>
-	<p></p>
+	
 
-</center>
-</div>
+		<?php 
+		if (isset($_GET['search'])) {
 
-<br />
-<br />
-<br />
+			echo '
+				<div class="container  pb-4 pt-4">
+					<form class="form-inline pb-4" method="GET">
+						<div class="input-group col pl-0 pr-0">
+							<input class="form-control mr-3" type="text" name="search" value="'. $_GET['search'] .'"></input>
+							<button type="submit" class="btn btn-primary">Search</button>
+						</div>
+					</form>';
+
+			include("includes/search.php");
+		} else {
+			echo '
+
+		<div class="container">
+			<div class="cover inner" role="main">
+
+				<div class="mx-auto" style="width: 400px; text-align:center">
+					<h1 class="display-3">Infodemic</h1>
+					<h1 class="lead" style="font-size:1.6rem;">Fact Check</h1>
+				</div>
+
+				<br />
+
+				<form class="" method="GET">
+					<div class="input-group">
+						<input class="form-control" type="text" name="search" placeholder="Fact-check a URL or question..."></input>
+					</div>
+					<div class="input-group p-3 ">
+						<button type="submit" class="btn btn-primary mx-auto">Search</button>
+					</div>
+				</form>
+			</div>
+
+		';
+		}
+		?>
+	</div>
 
 <?php include("includes/footer.php");?>
+
+</div>
 
 </body>
 </html>

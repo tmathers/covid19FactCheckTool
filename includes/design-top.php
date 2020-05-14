@@ -1,18 +1,10 @@
-<body style = "background-color: whitesmoke;">
 
-
-<div class="jumbotron" style="background:url(backgroundfooter.jpg)">
-
-<img src="logoFinal-removebg-preview.jpg" width="540px" height="350px" align="left" style="margin:-15px -40px">
-<center>
-<h1 style="color: black; font-family:fantasy; font-size: 600%; margin:0px 500px">Infodemic</h1>
-<h1 style="color: black; font-family:fantasy; margin:0px 200px">Fact-Check</h1>
-
-
-
-
-</div>
-
-
-
-</body>
+<nav class="navbar navbar-dark bg-dark masthead mb-auto">
+  <a class="navbar-brand" href="index.php">
+  	<img src="info.png" width="36" height="36" class="d-inline-block align-top mr-2 mt-1" alt="">
+	<div class="d-inline-block align-top">
+    <h5 class="mb-0">Infodemic</h5>
+		<p class="mb-0" style="font-size:60%; font-weight:lighter">Stopping the Spread of Fake News!</p>
+	</div>
+  </a>
+</nav>
