@@ -6,4 +6,10 @@ window.onload = function() {
         $(this).tab('show');
 
     });
+
+    $('form').submit(function () {
+        if ($.trim($(this).find('input[name="search"]').val()) == "") {
+            return false;
+        }
+    });
 };

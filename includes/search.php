@@ -1,12 +1,12 @@
 <? 
 
 include("data/fake_site_list.php");
-include("data/reliable_sources.php");
 include("data/tlds.php");
-include("keywords.php");
-include("searchScholar.php");
+include("model/keywords.php");
+include("model/FactCheckModel.php");
+include("model/WebsiteModel.php");
 
-$search =  htmlspecialchars($_GET["search"]);
+$search =  filter_input(INPUT_POST | INPUT_GET, 'search', FILTER_SANITIZE_SPECIAL_CHARS);
 $isUrl = false;
 
 // Is it a URL or search terms?
@@ -124,11 +124,8 @@ if ($isUrl) {
           <dd class="col-sm-9"><h6>Reliability</h6></dd>';
 
         if (isset($fakeSites->satirical->sites->$domain)) {
-            echo '<div class="alert alert-danger" role="alert">';
-            echo '<h5><span class="pr-1">&#9888;</span> Satirical Website</h5>';
-            echo "The publisher of this article is known to publish content that is satirical in nature. ";
-            echo "[<a class='alert-link' href='" . $fakeSites->satirical->source . "'>Source</a>]";
-            echo '</div>';
+            echo '<dd class="col-sm-9"><span class="pr-1">&#9888;</span>  Satircial [<a href="{$fakeSites->satirical->source} ">More</a>]</dd>';
+            
           // Is it fake?
           } else if (in_array($domain, $fakeSites->fake->sites)) {
             echo '<dd class="col-sm-9"><span class="pr-1">🚫</span>  Fake News Source [<a href="{$fakeSites->fake->source} ">More</a>]</dd>';
@@ -177,91 +174,58 @@ echo '<h4 class="pb-2 pt-2">Fact Check Results</h4>';
 // display the results
 $keywordQuery = $isUrl ? getKeywords($keywords) : $keywords;
 error_log("QUERY Params: $keywordQuery");
-displayResults(urlencode($keywordQuery), false /* test */);
 
-/**
- * display the search results from Google Custom Search.
- * https://developers.google.com/custom-search/v1/using_rest
- * 
- */
-function displayResults($keywords, $test) {
-  
-  // Get the results
-  $json;
-  // Do we have a cached version?
-  $cachedPath = "./includes/data/cached/$keywords.json";
-  if (file_exists($cachedPath)) {
-    error_log("Using cached results");
-    $json = file_get_contents($cachedPath);
-  } else {
+$snopesResults = getFactCheckResults(urlencode($keywordQuery), $SNOPES_SEARCH_ID);
+$factcheckResults = getFactCheckResults(urlencode($keywordQuery), $FACTCHECK_SEARCH_ID);
 
-    if ($test) {
-      $json = file_get_contents("./includes/data/search_data.json");
-    } else {
-      $googleApiKey = "AIzaSyCVmegM3Q5rBYN66EdZG-1dq9GTDXLc4KM";
-      $searchId = "009803564125926803573:p0ctntonaga";
-      $query = "https://www.googleapis.com/customsearch/v1?key=$googleApiKey&cx=$searchId&q=$keywords";
-      error_log("Running Query: $query");
-      $json = file_get_contents($query);
+// Get Academic results
+$json = getScholarResults(urlencode($keywordQuery));
+$academicResults = json_decode($json)->items;
+//var_dump(json_decode($json));
 
-      // cache the json
-      $cached = fopen($cachedPath, "w") or error_log("Unable to open file at $cachedPath");
-      fwrite($cached, $json);
-      fclose($cached);
-    }
-  }
+$snopesHtml = getResultsHtml($snopesResults);
+$factcheckHtml = getResultsHtml($factcheckResults);
+$academicHtml = getResultsHtml($academicResults);
 
-  $newsItems = isset(json_decode($json)->items) ? json_decode($json)->items : array();
+
+echo '
+<ul class="nav nav-tabs mb-3" id="myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="snopes-tab" data-toggle="tab" role="tab" aria-controls="snopes" aria-selected="true" href="#snopes">Snopes.com</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="factcheck-tab" data-toggle="tab" role="tab" aria-controls="factcheck" aria-selected="false" href="#factcheck">Factcheck.org</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="profile-tab" data-toggle="tab" role="tab" aria-controls="profile" aria-selected="false" href="#profile">Academic</a>
+  </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="snopes" role="tabpanel" aria-labelledby="snopes-tab">
+    ' . $snopesHtml . '
+  </div>
+  <div class="tab-pane fade show" id="factcheck" role="tabpanel" aria-labelledby="factcheck-tab">
+    ' . $factcheckHtml . '
+  </div>
+  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+    ' . $academicHtml . '
+  </div>
+</div>';
+
+
+function getResultsHtml($items) {
 
   $newsHtml;  // html out
-  $academicHtml;
   
   // Assemble the News fact check results list
-  foreach ($newsItems as $item) {
+  foreach ($items as $item) {
     $newsHtml .= "<h5 class='pb-0 mb-0'><a href=\"{$item->link}\">{$item->htmlTitle}</a></h5>";
     $newsHtml .= "<p class='text-secondary pt-0 mt-0 mb-0'>{$item->link}</p>";
     $newsHtml .= "<p>{$item->htmlSnippet}</p>";
   }
 
-  if (count($newsItems) == 0) {
+  if (count($items) == 0) {
     $newsHtml = "<p>Nothing found.</p>";
   }
-
-
-  // Get Academic results
-  $json = getScholarResults($keywords);
-  $academicItems = json_decode($json)->items;
-  //var_dump(json_decode($json));
-
-  // Assemble the Academic fact check results list
-  foreach ($academicItems as $item) {
-    $academicHtml .= "<h5 class='pb-0 mb-0'><a href=\"{$item->link}\">{$item->htmlTitle}</a></h5>";
-    $academicHtml .= "<p class='text-secondary pt-0 mt-0 mb-0'>{$item->link}</p>";
-    $academicHtml .= "<p>{$item->htmlSnippet}</p>";
-  }
-
-  if (count($academicHtml) == 0) {
-    $academicHtml = "<p>Nothing found.</p>";
-  }
-  
-
-  echo '
-  <ul class="nav nav-tabs mb-3" id="myTab" role="tablist">
-    <li class="nav-item">
-      <a class="nav-link active" id="home-tab" data-toggle="tab" role="tab" aria-controls="home" aria-selected="true" href="#home">News</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" id="profile-tab" data-toggle="tab" role="tab" aria-controls="profile" aria-selected="false" href="#profile">Academic</a>
-    </li>
-  </ul>
-  <div class="tab-content" id="myTabContent">
-    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-      ' . $newsHtml . '
-    </div>
-    <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-      ' . $academicHtml . '
-    </div>
-  </div>';
-  
+  return $newsHtml;
 }
-

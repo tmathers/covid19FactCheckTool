@@ -1,14 +1,13 @@
 <?
 
-require 'rake-php-plus-master/src/AbstractStopwordProvider.php';
-require 'rake-php-plus-master/src/StopwordArray.php';
-require 'rake-php-plus-master/src/StopwordsPatternFile.php';
-require 'rake-php-plus-master/src/StopwordsPHP.php';
-require 'rake-php-plus-master/src/RakePlus.php';
-require 'rake-php-plus-master/src/ILangParseOptions.php';
-require 'rake-php-plus-master/src/LangParseOptions.php';
+require $_SERVER["DOCUMENT_ROOT"] . '/includes/rake-php-plus-master/src/AbstractStopwordProvider.php';
+require $_SERVER["DOCUMENT_ROOT"] . '/includes/rake-php-plus-master/src/StopwordArray.php';
+require $_SERVER["DOCUMENT_ROOT"] . '/includes/rake-php-plus-master/src/StopwordsPatternFile.php';
+require $_SERVER["DOCUMENT_ROOT"] . '/includes/rake-php-plus-master/src/StopwordsPHP.php';
+require $_SERVER["DOCUMENT_ROOT"] . '/includes/rake-php-plus-master/src/RakePlus.php';
+require $_SERVER["DOCUMENT_ROOT"] . '/includes/rake-php-plus-master/src/ILangParseOptions.php';
+require $_SERVER["DOCUMENT_ROOT"] . '/includes/rake-php-plus-master/src/LangParseOptions.php';
 
-include 'data/stopwords.php';
 
 use DonatelloZa\RakePlus\RakePlus;
 
@@ -42,7 +41,7 @@ getKeyWords($title);
 */
 function getKeyWords($input) {
 
-require 'data/stopwords.php';
+    require $_SERVER["DOCUMENT_ROOT"] . '/includes/data/stopwords.php';
 
     error_log("Getting keywords for input=$input");
     

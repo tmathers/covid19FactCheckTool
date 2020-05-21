@@ -17,11 +17,12 @@
 		<?php 
 		if (isset($_GET['search'])) {
 
+			$search = filter_input(INPUT_POST | INPUT_GET, 'search', FILTER_SANITIZE_SPECIAL_CHARS);
 			echo '
-				<div class="container  pb-4 pt-4">
+				<div class="container  pb-4 pt-5">
 					<form class="form-inline pb-4" method="GET">
 						<div class="input-group col pl-0 pr-0">
-							<input class="form-control mr-3" type="text" name="search" value="'. $_GET['search'] .'"></input>
+							<input class="form-control mr-3" type="text" name="search" value="'.$search.'"></input>
 							<button type="submit" class="btn btn-primary">Search</button>
 						</div>
 					</form>';

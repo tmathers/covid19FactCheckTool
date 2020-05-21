@@ -1,16 +1,10 @@
 <?
 
-
-
-
 //getReliableWebsites();
-
-    
 
 function getReliableWebsites() {
 
     
-
     $doc = new DOMDocument();
     $link = "https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources";
     $doc->loadHTMLFile($link);
